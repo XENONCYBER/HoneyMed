@@ -33,6 +33,8 @@ DB_PATH = os.path.join(get_base_dir(), "data", "classified_events.db")
 
 def _get_db():
     """Get a database connection."""
+    # Ensure data directory exists
+    os.makedirs(os.path.dirname(DB_PATH), exist_ok=True)
     conn = sqlite3.connect(DB_PATH)
     conn.row_factory = sqlite3.Row
     return conn

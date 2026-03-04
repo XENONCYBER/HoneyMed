@@ -62,7 +62,7 @@ class HashProtocol:
         def _clean(obj):
             if isinstance(obj, dict):
                 return {
-                    k: ("*** PHI REDACTED ***" if k.lower() in PHI_FIELDS else _clean(v))
+                    k: ("*** REDACTED ***" if k.lower() in PHI_FIELDS else _clean(v))
                     for k, v in obj.items()
                 }
             if isinstance(obj, list):

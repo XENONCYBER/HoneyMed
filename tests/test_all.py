@@ -284,6 +284,7 @@ class TestAutoResponse(unittest.TestCase):
     def test_evaluate_threat(self):
         from siem.auto_response import AutoResponse
         ar = AutoResponse(mode="simulate")
+        ar.unblock_ip("10.88.88.88")  # Ensure clean state
         ar.confidence_threshold = 0.8
         ar.auto_block_labels = ["DoS"]
         event = {"attacker_ip": "10.88.88.88"}

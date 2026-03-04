@@ -110,7 +110,8 @@ def run_blockchain_demo():
         "event_type": "LOGIN_ATTEMPT",
         "details": {"username": "admin", "patient_name": "John Doe"},
     }
-    result = hp.process_event(sample_event, "BruteForce", 0.95)
+    prediction = {"label": "BruteForce", "confidence": 0.95, "is_attack": True}
+    result = hp.process_event(sample_event, prediction)
     logger.info(f"Hash: {result['sha256_hash'][:32]}... committed to ledger")
 
     # Privacy engine demo

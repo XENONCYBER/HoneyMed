@@ -37,6 +37,8 @@ RESPONSE_DB = os.path.join(get_base_dir(), "data", "auto_response.db")
 
 def _init_response_db():
     """Create the auto-response tracking database."""
+    # Ensure data directory exists
+    os.makedirs(os.path.dirname(RESPONSE_DB), exist_ok=True)
     conn = sqlite3.connect(RESPONSE_DB)
     c = conn.cursor()
 

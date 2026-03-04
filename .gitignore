@@ -18,6 +18,7 @@ data/processed/*.sha256
 data/models/*.pkl
 data/models/*.json
 data/models/*.txt
+data/*.db
 data/classified_events.db
 
 # Logs

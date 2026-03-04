@@ -37,6 +37,8 @@ PEER_DB_PATH = os.path.join(get_base_dir(), "data", "peer_network.db")
 
 def _init_peer_db():
     """Create the peer network tracking database."""
+    # Ensure data directory exists
+    os.makedirs(os.path.dirname(PEER_DB_PATH), exist_ok=True)
     conn = sqlite3.connect(PEER_DB_PATH)
     c = conn.cursor()
 

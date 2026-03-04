@@ -59,6 +59,8 @@ DB_PATH = os.path.join(get_base_dir(), "data", "classified_events.db")
 
 def init_database():
     """Initialize the SQLite database for storing classified events."""
+    # Ensure data directory exists
+    os.makedirs(os.path.dirname(DB_PATH), exist_ok=True)
     conn = sqlite3.connect(DB_PATH)
     cursor = conn.cursor()
 
@@ -257,7 +259,7 @@ class RealTimePipeline:
         hp = self._get_hash_protocol()
         if hp and prediction.get("is_attack"):
             try:
-                hp.process_event(event, prediction["label"], prediction["confidence"])
+                hp.process_event(event, prediction)
             except Exception as e:
                 logger.warning(f"Blockchain submission failed: {e}")
 

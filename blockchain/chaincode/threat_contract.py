@@ -42,6 +42,8 @@ CC_DB_PATH = os.path.join(get_base_dir(), "data", "chaincode_state.db")
 
 def _init_chaincode_db():
     """Create the chaincode state tables if they don't exist."""
+    # Ensure data directory exists
+    os.makedirs(os.path.dirname(CC_DB_PATH), exist_ok=True)
     conn = sqlite3.connect(CC_DB_PATH)
     c = conn.cursor()
 
