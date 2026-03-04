@@ -1,0 +1,139 @@
+# ============================================================
+# HoneyMed IoMT Honeypot - Central Configuration
+# ============================================================
+
+# --- General ---
+PROJECT_NAME: "HoneyMed"
+VERSION: "1.0.0"
+LOG_DIR: "logs"
+DATA_DIR: "data"
+
+# --- Layer 1: Honeypot Configuration ---
+honeypot:
+  # Web Portal (Patient Monitor UI)
+  web_portal:
+    host: "0.0.0.0"
+    port: 80
+    device_name: "VitalSync Pro 3000"
+    manufacturer: "MedDevice Corp"
+    model: "VS-3000"
+    firmware: "v2.4.1"
+
+  # HL7 Listener (Health Level 7 Protocol)
+  hl7_listener:
+    host: "0.0.0.0"
+    port: 2575
+
+  # DICOM Listener (Medical Imaging Protocol)
+  dicom_listener:
+    host: "0.0.0.0"
+    port: 11112
+    ae_title: "HONEYPOT_PACS"
+
+  # MQTT Broker (IoT Messaging)
+  mqtt_listener:
+    host: "0.0.0.0"
+    port: 1883
+    topics:
+      - "hospital/icu/vitals"
+      - "hospital/pharmacy/dispenser"
+      - "medical/device/status"
+
+  # SSH Honeypot
+  ssh_listener:
+    host: "0.0.0.0"
+    port: 22
+    banner: "SSH-2.0-OpenSSH_7.4 MedDevice-Embedded"
+
+# --- Layer 2: Pipeline Configuration ---
+pipeline:
+  capture_interface: "eth0" # Network interface to capture on
+  flow_interval_seconds: 5 # Feature extraction interval
+  pcap_dir: "data/raw"
+  processed_dir: "data/processed"
+  enable_hashing: true # SHA-256 hashing for blockchain readiness
+
+# --- Layer 3: ML Engine ---
+ml_engine:
+  model_path: "data/models/attack_classifier.pkl"
+  scaler_path: "data/models/feature_scaler.pkl"
+  labels:
+    0: "Benign"
+    1: "DoS"
+    2: "PortScan"
+    3: "BruteForce"
+    4: "Reconnaissance"
+  confidence_threshold: 0.7
+
+# --- Phase 6: Hybrid ML ---
+hybrid_ml:
+  public_datasets_dir: "data/public_datasets" # Where to place public CSVs
+  custom_logs_dir: "data/raw" # Honeypot JSON logs
+  oversample_minority: true
+  models:
+    - "RandomForest"
+    - "GradientBoosting"
+    - "XGBoost"
+
+# --- Phase 7: Security / Encryption ---
+security:
+  enable_encryption: true
+  key_source: "generated" # 'config', 'passphrase', 'file', or 'generated'
+  # key_file: "data/.encryption_key"
+  # passphrase: ""
+
+# --- Phase 8: Blockchain ---
+blockchain:
+  mode: "local" # 'local' (SQLite simulation) or 'fabric' (real Hyperledger)
+  ledger_db: "data/blockchain_ledger.db"
+  chaincode:
+    disclosure_days: 7 # Grace period before IOC public disclosure
+  fabric: # Only used when mode=fabric
+    peer_endpoint: "localhost:7051"
+    channel: "threat-channel"
+    chaincode_name: "honeymed-cc"
+
+# --- Phase 10: Distributed Nodes ---
+distributed:
+  node_id: "hospital_a"
+  endpoint: "http://127.0.0.1:5001"
+  org: "HospitalA"
+  consensus:
+    min_verifications: 2
+    threshold: 0.5
+
+# --- Phase 11: SIEM Integration ---
+siem:
+  api_host: "0.0.0.0"
+  api_port: 5002
+  enabled_platforms: [] # Add: "splunk", "qradar", "elastic"
+  splunk:
+    hec_url: "https://localhost:8088/services/collector/event"
+    hec_token: ""
+    index: "honeymed"
+    sourcetype: "honeymed:threat"
+  qradar:
+    host: "localhost"
+    port: 514
+    protocol: "udp"
+  elastic:
+    url: "http://localhost:9200"
+    index: "honeymed-threats"
+    api_key: ""
+  auto_response:
+    mode: "simulate" # 'simulate' or 'enforce'
+    confidence_threshold: 0.85
+    auto_block_labels:
+      - "DoS"
+      - "BruteForce"
+    block_duration_hours: 24
+    whitelist:
+      - "127.0.0.1"
+      - "::1"
+
+# --- Layer 4: Dashboard ---
+dashboard:
+  host: "0.0.0.0"
+  port: 8501
+  api_port: 5001
+  refresh_interval: 3 # seconds

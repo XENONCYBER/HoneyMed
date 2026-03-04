@@ -1,0 +1,339 @@
+/* ============================================================
+   HoneyMed - Medical Device CSS Theme
+   Makes the honeypot look like a real medical device UI
+   ============================================================ */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: #0a1628;
+    color: #e0e6ed;
+    min-height: 100vh;
+}
+
+/* === Login Page === */
+.login-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    padding: 2rem;
+}
+
+.device-header {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.logo-area {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.75rem;
+}
+
+.pulse-icon {
+    font-size: 2.5rem;
+    color: #00e676;
+    animation: pulse 1.5s ease-in-out infinite;
+}
+
+@keyframes pulse {
+
+    0%,
+    100% {
+        opacity: 1;
+        transform: scale(1);
+    }
+
+    50% {
+        opacity: 0.6;
+        transform: scale(1.15);
+    }
+}
+
+.device-header h1 {
+    font-size: 1.8rem;
+    font-weight: 300;
+    color: #ffffff;
+}
+
+.device-subtitle {
+    color: #8899aa;
+    margin-top: 0.5rem;
+    font-size: 0.9rem;
+}
+
+.firmware-info {
+    color: #556677;
+    font-size: 0.8rem;
+    margin-top: 0.25rem;
+}
+
+.login-box {
+    background: #111d32;
+    border: 1px solid #1e3050;
+    border-radius: 8px;
+    padding: 2rem;
+    width: 100%;
+    max-width: 400px;
+    box-shadow: 0 4px 24px rgba(0, 0, 0, 0.4);
+}
+
+.login-box h2 {
+    font-weight: 400;
+    margin-bottom: 0.5rem;
+    color: #ffffff;
+}
+
+.login-notice {
+    color: #778899;
+    font-size: 0.8rem;
+    margin-bottom: 1.5rem;
+    border-left: 3px solid #ff9800;
+    padding-left: 0.75rem;
+}
+
+.error-banner {
+    background: #2d1414;
+    border: 1px solid #d32f2f;
+    color: #ff6b6b;
+    padding: 0.75rem;
+    border-radius: 4px;
+    margin-bottom: 1rem;
+    font-size: 0.9rem;
+}
+
+.form-group {
+    margin-bottom: 1.25rem;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 0.4rem;
+    color: #aabbcc;
+    font-size: 0.85rem;
+}
+
+.form-group input {
+    width: 100%;
+    padding: 0.7rem;
+    background: #0a1628;
+    border: 1px solid #2a3f5f;
+    border-radius: 4px;
+    color: #e0e6ed;
+    font-size: 1rem;
+    transition: border-color 0.2s;
+}
+
+.form-group input:focus {
+    outline: none;
+    border-color: #1e88e5;
+    box-shadow: 0 0 0 2px rgba(30, 136, 229, 0.2);
+}
+
+.login-btn {
+    width: 100%;
+    padding: 0.75rem;
+    background: #1565c0;
+    border: none;
+    border-radius: 4px;
+    color: #ffffff;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background 0.2s;
+}
+
+.login-btn:hover {
+    background: #1976d2;
+}
+
+.help-link {
+    text-align: center;
+    margin-top: 1rem;
+}
+
+.help-link a {
+    color: #5588aa;
+    text-decoration: none;
+    font-size: 0.8rem;
+}
+
+.footer {
+    margin-top: 2rem;
+    text-align: center;
+    color: #445566;
+    font-size: 0.75rem;
+    line-height: 1.6;
+}
+
+.compliance {
+    color: #00e676;
+    font-weight: 500;
+}
+
+/* === Dashboard Page === */
+.dashboard-container {
+    padding: 1rem 2rem;
+}
+
+.dash-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 0;
+    border-bottom: 1px solid #1e3050;
+    margin-bottom: 2rem;
+}
+
+.header-left {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+}
+
+.header-left h1 {
+    font-size: 1.3rem;
+    font-weight: 400;
+}
+
+.header-right {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    color: #8899aa;
+    font-size: 0.9rem;
+}
+
+.status-badge {
+    padding: 0.2rem 0.6rem;
+    border-radius: 12px;
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.status-badge.online,
+.status-badge.active {
+    background: #0d3320;
+    color: #00e676;
+    border: 1px solid #00e676;
+}
+
+.status-badge.standby {
+    background: #332d00;
+    color: #ffb300;
+    border: 1px solid #ffb300;
+}
+
+.logout-btn {
+    color: #ff6b6b;
+    text-decoration: none;
+    font-size: 0.85rem;
+}
+
+.vitals-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+.vital-card {
+    background: #111d32;
+    border: 1px solid #1e3050;
+    border-radius: 8px;
+    padding: 1.5rem;
+    text-align: center;
+}
+
+.vital-label {
+    color: #8899aa;
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    margin-bottom: 0.5rem;
+}
+
+.vital-value {
+    font-size: 2.5rem;
+    font-weight: 300;
+}
+
+.vital-card.hr .vital-value {
+    color: #00e676;
+}
+
+.vital-card.spo2 .vital-value {
+    color: #42a5f5;
+}
+
+.vital-card.bp .vital-value {
+    color: #ff7043;
+}
+
+.vital-card.temp .vital-value {
+    color: #ffca28;
+}
+
+.vital-card.resp .vital-value {
+    color: #ab47bc;
+}
+
+.unit {
+    font-size: 1rem;
+    color: #667788;
+}
+
+.vital-wave {
+    color: #00e676;
+    font-size: 1.5rem;
+    letter-spacing: 0.3rem;
+    margin-top: 0.5rem;
+    opacity: 0.5;
+}
+
+.device-info-panel {
+    background: #111d32;
+    border: 1px solid #1e3050;
+    border-radius: 8px;
+    padding: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+.device-info-panel h3 {
+    font-weight: 400;
+    margin-bottom: 1rem;
+    color: #aabbcc;
+}
+
+.sensor-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.sensor-table th,
+.sensor-table td {
+    padding: 0.6rem 1rem;
+    text-align: left;
+    border-bottom: 1px solid #1a2a44;
+}
+
+.sensor-table th {
+    color: #667788;
+    font-size: 0.8rem;
+    text-transform: uppercase;
+}
+
+.dash-footer {
+    text-align: center;
+    padding: 1rem;
+    color: #445566;
+    font-size: 0.8rem;
+    border-top: 1px solid #1e3050;
+}

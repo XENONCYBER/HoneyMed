@@ -1,0 +1,33 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+.env/
+env/
+
+# Data files (regenerated)
+data/raw/*.json
+data/processed/*.csv
+data/processed/*.sha256
+data/models/*.pkl
+data/models/*.json
+data/models/*.txt
+data/classified_events.db
+
+# Logs
+logs/*.jsonl
+logs/*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store

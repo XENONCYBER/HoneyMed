@@ -1,0 +1,71 @@
+version: "3.8"
+
+services:
+  # ---- Layer 1: Honeypot ----
+  honeypot:
+    build: .
+    container_name: honeymed-honeypot
+    command: python main.py --mode honeypot
+    ports:
+      - "80:80" # Web Portal
+      - "22:22" # SSH
+      - "1883:1883" # MQTT
+      - "2575:2575" # HL7
+      - "11112:11112" # DICOM
+    volumes:
+      - ./logs:/app/logs
+      - ./data:/app/data
+    networks:
+      - honeymed-net
+    restart: unless-stopped
+
+  # ---- Layer 2+3: Pipeline + ML ----
+  pipeline:
+    build: .
+    container_name: honeymed-pipeline
+    command: python main.py --mode pipeline
+    depends_on:
+      - honeypot
+    environment:
+      - HONEYPOT_URL=http://honeypot:80
+    volumes:
+      - ./data:/app/data
+      - ./logs:/app/logs
+    networks:
+      - honeymed-net
+    restart: unless-stopped
+
+  # ---- Layer 4: Dashboard API ----
+  api:
+    build: .
+    container_name: honeymed-api
+    command: python main.py --mode api
+    ports:
+      - "5001:5001"
+    depends_on:
+      - pipeline
+    volumes:
+      - ./data:/app/data
+      - ./logs:/app/logs
+    networks:
+      - honeymed-net
+    restart: unless-stopped
+
+  # ---- Layer 4: Streamlit Dashboard ----
+  dashboard:
+    build: .
+    container_name: honeymed-dashboard
+    command: python main.py --mode dashboard
+    ports:
+      - "8501:8501"
+    depends_on:
+      - api
+    volumes:
+      - ./data:/app/data
+    networks:
+      - honeymed-net
+    restart: unless-stopped
+
+networks:
+  honeymed-net:
+    driver: bridge

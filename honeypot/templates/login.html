@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{{ device.device_name }} - Login</title>
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='css/medical.css') }}"
+    />
+  </head>
+  <body>
+    <div class="login-container">
+      <div class="device-header">
+        <div class="logo-area">
+          <div class="pulse-icon">&#9829;</div>
+          <h1>{{ device.device_name }}</h1>
+        </div>
+        <p class="device-subtitle">
+          {{ device.manufacturer }} | Model: {{ device.model }}
+        </p>
+        <p class="firmware-info">Firmware {{ device.firmware_version }}</p>
+      </div>
+
+      <div class="login-box">
+        <h2>System Login</h2>
+        <p class="login-notice">
+          Authorized personnel only. All access attempts are monitored.
+        </p>
+
+        {% if error %}
+        <div class="error-banner">&#9888; {{ error }}</div>
+        {% endif %}
+
+        <form method="POST" action="/login">
+          <div class="form-group">
+            <label for="username">Username</label>
+            <input
+              type="text"
+              id="username"
+              name="username"
+              placeholder="Enter your ID"
+              required
+              autofocus
+            />
+          </div>
+          <div class="form-group">
+            <label for="password">Password</label>
+            <input
+              type="password"
+              id="password"
+              name="password"
+              placeholder="Enter password"
+              required
+            />
+          </div>
+          <button type="submit" class="login-btn">Sign In</button>
+        </form>
+
+        <div class="help-link">
+          <a href="#">Forgot password? Contact IT Support</a>
+        </div>
+      </div>
+
+      <div class="footer">
+        <p>S/N: {{ device.serial_number }} | IP: {{ device.ip_address }}</p>
+        <p>&copy; 2025 {{ device.manufacturer }}. All rights reserved.</p>
+        <p class="compliance">HIPAA Compliant | FDA Class II Medical Device</p>
+      </div>
+    </div>
+  </body>
+</html>
