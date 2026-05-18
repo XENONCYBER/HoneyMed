@@ -1,0 +1,971 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/0z61032l",
+    "id": "0z61032l",
+    "slide": 8,
+    "layoutId": "/ppt/slideLayouts/slideLayout8.xml",
+    "layoutName": "Title and Content",
+    "layoutType": "obj",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Organic",
+    "colors": {
+      "accent1": "#83992A",
+      "accent2": "#3C9770",
+      "accent3": "#44709D",
+      "accent4": "#A23C33",
+      "accent5": "#D97828",
+      "accent6": "#DEB340",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#212121",
+      "lt2": "#DADADA",
+      "hlink": "#A8BF4D",
+      "folHlink": "#B4CA80"
+    },
+    "typefaces": [
+      "+mn-lt",
+      "Arial"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout8.xml",
+      "name": "Title and Content",
+      "type": "obj",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout8.xml/2",
+          "id": "2",
+          "name": "Title 1",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout8.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout8.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "Title Placeholder 1",
+          "bbox": [
+            136,
+            103.11,
+            1008,
+            136.89
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "Text Placeholder 2",
+          "bbox": [
+            136,
+            268.44,
+            1008,
+            348.44
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            911.02,
+            626.67,
+            168,
+            29.33
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            136,
+            626.67,
+            767.02,
+            29.33
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "Slide Number Placeholder 5",
+          "bbox": [
+            1087.02,
+            626.67,
+            56.98,
+            29.33
+          ],
+          "geometry": "rect"
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/x4nap4r6",
+      "id": "2",
+      "name": "TextBox 1",
+      "bbox": [
+        96,
+        46.08,
+        1089.6,
+        46.08
+      ],
+      "geometry": "rect",
+      "text": "Literature Survey (6-10)",
+      "textPreview": "Literature Survey (6-10)",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Literature Survey (6-10)"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Literature Survey (6-10)",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Literature Survey (6-10)",
+              "fontSize": 26.67,
+              "typeface": "Arial",
+              "color": "#1E1E1E",
+              "bold": true,
+              "alignment": "center"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/h0fepkzu",
+      "id": "3",
+      "name": "Table 2",
+      "bbox": [
+        43.2,
+        120,
+        1195.2,
+        523.2
+      ],
+      "text": "No. | Authors / Year | Focus | Limitation / Gap\n6 | Zhang et al. (2022) | Honeypot + SIEM response | Good response pipeline, but focused on generic IT protocols\n7 | Lopez and Garcia (2023) | Ransomware in DICOM servers | Protocol-specific insight, but reactive after infection path starts\n8 | Chen et al. (2025) | Smart-contract threat sharing | Trustless sharing, but complex for edge deployment\n9 | Ghaffar et al. (2022) | HL7/DICOM vulnerability analysis | Identifies protocol flaws without active detection layer\n10 | Awotunde et al. (2021) | DL intrusion detection in IoMT | Accurate but too heavy for edge-class deployment",
+      "textPreview": "No. | Authors / Year | Focus | Limitation / Gap | 6 | Zhang et al. (2022) | Honeypot + SIEM response | Good response pipeline, but focuse...",
+      "rows": 6,
+      "cols": 4,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            43.2,
+            120,
+            71.71,
+            87.2
+          ],
+          "text": "No.",
+          "textPreview": "No.",
+          "fillColor": "#DAE8CD",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "No.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "No.",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#1E1E1E",
+                  "bold": true,
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            114.91,
+            120,
+            262.94,
+            87.2
+          ],
+          "text": "Authors / Year",
+          "textPreview": "Authors / Year",
+          "fillColor": "#DAE8CD",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Authors / Year",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Authors / Year",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#1E1E1E",
+                  "bold": true,
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            377.86,
+            120,
+            298.8,
+            87.2
+          ],
+          "text": "Focus",
+          "textPreview": "Focus",
+          "fillColor": "#DAE8CD",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Focus",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Focus",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#1E1E1E",
+                  "bold": true,
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 1,
+          "column": 4,
+          "bbox": [
+            676.66,
+            120,
+            561.74,
+            87.2
+          ],
+          "text": "Limitation / Gap",
+          "textPreview": "Limitation / Gap",
+          "fillColor": "#DAE8CD",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Limitation / Gap",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Limitation / Gap",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#1E1E1E",
+                  "bold": true,
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            43.2,
+            207.2,
+            71.71,
+            87.2
+          ],
+          "text": "6",
+          "textPreview": "6",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "6",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "6",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            114.91,
+            207.2,
+            262.94,
+            87.2
+          ],
+          "text": "Zhang et al. (2022)",
+          "textPreview": "Zhang et al. (2022)",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Zhang et al. (2022)",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Zhang et al. (2022)",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            377.86,
+            207.2,
+            298.8,
+            87.2
+          ],
+          "text": "Honeypot + SIEM response",
+          "textPreview": "Honeypot + SIEM response",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Honeypot + SIEM response",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Honeypot + SIEM response",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 2,
+          "column": 4,
+          "bbox": [
+            676.66,
+            207.2,
+            561.74,
+            87.2
+          ],
+          "text": "Good response pipeline, but focused on generic IT protocols",
+          "textPreview": "Good response pipeline, but focused on generic IT protocols",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Good response pipeline, but focused on generic IT protocols",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Good response pipeline, but focused on generic IT protocols",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            43.2,
+            294.4,
+            71.71,
+            87.2
+          ],
+          "text": "7",
+          "textPreview": "7",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "7",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "7",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            114.91,
+            294.4,
+            262.94,
+            87.2
+          ],
+          "text": "Lopez and Garcia (2023)",
+          "textPreview": "Lopez and Garcia (2023)",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Lopez and Garcia (2023)",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Lopez and Garcia (2023)",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            377.86,
+            294.4,
+            298.8,
+            87.2
+          ],
+          "text": "Ransomware in DICOM servers",
+          "textPreview": "Ransomware in DICOM servers",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Ransomware in DICOM servers",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Ransomware in DICOM servers",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 3,
+          "column": 4,
+          "bbox": [
+            676.66,
+            294.4,
+            561.74,
+            87.2
+          ],
+          "text": "Protocol-specific insight, but reactive after infection path starts",
+          "textPreview": "Protocol-specific insight, but reactive after infection path starts",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Protocol-specific insight, but reactive after infection path starts",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Protocol-specific insight, but reactive after infection path starts",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            43.2,
+            381.6,
+            71.71,
+            87.2
+          ],
+          "text": "8",
+          "textPreview": "8",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "8",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "8",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            114.91,
+            381.6,
+            262.94,
+            87.2
+          ],
+          "text": "Chen et al. (2025)",
+          "textPreview": "Chen et al. (2025)",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Chen et al. (2025)",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Chen et al. (2025)",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            377.86,
+            381.6,
+            298.8,
+            87.2
+          ],
+          "text": "Smart-contract threat sharing",
+          "textPreview": "Smart-contract threat sharing",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Smart-contract threat sharing",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Smart-contract threat sharing",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 16,
+          "row": 4,
+          "column": 4,
+          "bbox": [
+            676.66,
+            381.6,
+            561.74,
+            87.2
+          ],
+          "text": "Trustless sharing, but complex for edge deployment",
+          "textPreview": "Trustless sharing, but complex for edge deployment",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Trustless sharing, but complex for edge deployment",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Trustless sharing, but complex for edge deployment",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 17,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            43.2,
+            468.8,
+            71.71,
+            87.2
+          ],
+          "text": "9",
+          "textPreview": "9",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "9",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "9",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 18,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            114.91,
+            468.8,
+            262.94,
+            87.2
+          ],
+          "text": "Ghaffar et al. (2022)",
+          "textPreview": "Ghaffar et al. (2022)",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Ghaffar et al. (2022)",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Ghaffar et al. (2022)",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 19,
+          "row": 5,
+          "column": 3,
+          "bbox": [
+            377.86,
+            468.8,
+            298.8,
+            87.2
+          ],
+          "text": "HL7/DICOM vulnerability analysis",
+          "textPreview": "HL7/DICOM vulnerability analysis",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "HL7/DICOM vulnerability analysis",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "HL7/DICOM vulnerability analysis",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 20,
+          "row": 5,
+          "column": 4,
+          "bbox": [
+            676.66,
+            468.8,
+            561.74,
+            87.2
+          ],
+          "text": "Identifies protocol flaws without active detection layer",
+          "textPreview": "Identifies protocol flaws without active detection layer",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Identifies protocol flaws without active detection layer",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Identifies protocol flaws without active detection layer",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 21,
+          "row": 6,
+          "column": 1,
+          "bbox": [
+            43.2,
+            556,
+            71.71,
+            87.2
+          ],
+          "text": "10",
+          "textPreview": "10",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "10",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "10",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 22,
+          "row": 6,
+          "column": 2,
+          "bbox": [
+            114.91,
+            556,
+            262.94,
+            87.2
+          ],
+          "text": "Awotunde et al. (2021)",
+          "textPreview": "Awotunde et al. (2021)",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Awotunde et al. (2021)",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Awotunde et al. (2021)",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 23,
+          "row": 6,
+          "column": 3,
+          "bbox": [
+            377.86,
+            556,
+            298.8,
+            87.2
+          ],
+          "text": "DL intrusion detection in IoMT",
+          "textPreview": "DL intrusion detection in IoMT",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "DL intrusion detection in IoMT",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "DL intrusion detection in IoMT",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 24,
+          "row": 6,
+          "column": 4,
+          "bbox": [
+            676.66,
+            556,
+            561.74,
+            87.2
+          ],
+          "text": "Accurate but too heavy for edge-class deployment",
+          "textPreview": "Accurate but too heavy for edge-class deployment",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Accurate but too heavy for edge-class deployment",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Accurate but too heavy for edge-class deployment",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

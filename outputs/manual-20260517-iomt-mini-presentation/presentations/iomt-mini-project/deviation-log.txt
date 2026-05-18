@@ -1,0 +1,1 @@
+Deviation: duplicated one existing References slide so 25 references can be shown as five batches of five, matching the placeholder instruction. No visual redesign or generated architecture artwork was introduced.

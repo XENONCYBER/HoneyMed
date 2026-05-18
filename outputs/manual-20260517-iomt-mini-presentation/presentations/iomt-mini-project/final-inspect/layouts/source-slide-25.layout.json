@@ -1,0 +1,790 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/61032lsz",
+    "id": "61032lsz",
+    "slide": 26,
+    "layoutId": "/ppt/slideLayouts/slideLayout8.xml",
+    "layoutName": "Title and Content",
+    "layoutType": "obj",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Organic",
+    "colors": {
+      "accent1": "#83992A",
+      "accent2": "#3C9770",
+      "accent3": "#44709D",
+      "accent4": "#A23C33",
+      "accent5": "#D97828",
+      "accent6": "#DEB340",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#212121",
+      "lt2": "#DADADA",
+      "hlink": "#A8BF4D",
+      "folHlink": "#B4CA80"
+    },
+    "typefaces": [
+      "+mn-lt",
+      "Arial"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout8.xml",
+      "name": "Title and Content",
+      "type": "obj",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout8.xml/2",
+          "id": "2",
+          "name": "Title 1",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout8.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout8.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "Title Placeholder 1",
+          "bbox": [
+            136,
+            103.11,
+            1008,
+            136.89
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "Text Placeholder 2",
+          "bbox": [
+            136,
+            268.44,
+            1008,
+            348.44
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            911.02,
+            626.67,
+            168,
+            29.33
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            136,
+            626.67,
+            767.02,
+            29.33
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "Slide Number Placeholder 5",
+          "bbox": [
+            1087.02,
+            626.67,
+            56.98,
+            29.33
+          ],
+          "geometry": "rect"
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0je9cvix",
+      "id": "2",
+      "name": "TextBox 1",
+      "bbox": [
+        96,
+        46.08,
+        1089.6,
+        46.08
+      ],
+      "geometry": "rect",
+      "text": "Project Workflow Components",
+      "textPreview": "Project Workflow Components",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Project Workflow Components"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Project Workflow Components",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Project Workflow Components",
+              "fontSize": 26.67,
+              "typeface": "Arial",
+              "color": "#1E1E1E",
+              "bold": true,
+              "alignment": "center"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/83itgfml",
+      "id": "3",
+      "name": "Table 2",
+      "bbox": [
+        86.4,
+        134.4,
+        1104,
+        465.6
+      ],
+      "text": "Step | Component | Output\n1 | Start HoneyMed services | Fake medical endpoints are exposed in Docker\n2 | Run controlled attack simulations | Nmap, brute force, web/API, MQTT/HL7 style traffic\n3 | Capture and enrich sessions | Structured logs with attacker/service/payload metadata\n4 | Extract features and classify | Model label plus confidence score\n5 | Store and visualize evidence | Dashboard charts, event feed, hashes, SIEM-ready alerts",
+      "textPreview": "Step | Component | Output | 1 | Start HoneyMed services | Fake medical endpoints are exposed in Docker | 2 | Run controlled attack simula...",
+      "rows": 6,
+      "cols": 3,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            86.4,
+            134.4,
+            99.36,
+            77.6
+          ],
+          "text": "Step",
+          "textPreview": "Step",
+          "fillColor": "#DAE8CD",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Step",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Step",
+                  "fontSize": 13.33,
+                  "typeface": "Arial",
+                  "color": "#1E1E1E",
+                  "bold": true,
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            185.76,
+            134.4,
+            375.36,
+            77.6
+          ],
+          "text": "Component",
+          "textPreview": "Component",
+          "fillColor": "#DAE8CD",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Component",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Component",
+                  "fontSize": 13.33,
+                  "typeface": "Arial",
+                  "color": "#1E1E1E",
+                  "bold": true,
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            561.12,
+            134.4,
+            629.28,
+            77.6
+          ],
+          "text": "Output",
+          "textPreview": "Output",
+          "fillColor": "#DAE8CD",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Output",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Output",
+                  "fontSize": 13.33,
+                  "typeface": "Arial",
+                  "color": "#1E1E1E",
+                  "bold": true,
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            86.4,
+            212,
+            99.36,
+            77.6
+          ],
+          "text": "1",
+          "textPreview": "1",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "1",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "1",
+                  "fontSize": 13.33,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            185.76,
+            212,
+            375.36,
+            77.6
+          ],
+          "text": "Start HoneyMed services",
+          "textPreview": "Start HoneyMed services",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Start HoneyMed services",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Start HoneyMed services",
+                  "fontSize": 13.33,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            561.12,
+            212,
+            629.28,
+            77.6
+          ],
+          "text": "Fake medical endpoints are exposed in Docker",
+          "textPreview": "Fake medical endpoints are exposed in Docker",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Fake medical endpoints are exposed in Docker",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Fake medical endpoints are exposed in Docker",
+                  "fontSize": 13.33,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            86.4,
+            289.6,
+            99.36,
+            77.6
+          ],
+          "text": "2",
+          "textPreview": "2",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2",
+                  "fontSize": 13.33,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            185.76,
+            289.6,
+            375.36,
+            77.6
+          ],
+          "text": "Run controlled attack simulations",
+          "textPreview": "Run controlled attack simulations",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Run controlled attack simulations",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Run controlled attack simulations",
+                  "fontSize": 13.33,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            561.12,
+            289.6,
+            629.28,
+            77.6
+          ],
+          "text": "Nmap, brute force, web/API, MQTT/HL7 style traffic",
+          "textPreview": "Nmap, brute force, web/API, MQTT/HL7 style traffic",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Nmap, brute force, web/API, MQTT/HL7 style traffic",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Nmap, brute force, web/API, MQTT/HL7 style traffic",
+                  "fontSize": 13.33,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            86.4,
+            367.2,
+            99.36,
+            77.6
+          ],
+          "text": "3",
+          "textPreview": "3",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "3",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "3",
+                  "fontSize": 13.33,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            185.76,
+            367.2,
+            375.36,
+            77.6
+          ],
+          "text": "Capture and enrich sessions",
+          "textPreview": "Capture and enrich sessions",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Capture and enrich sessions",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Capture and enrich sessions",
+                  "fontSize": 13.33,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            561.12,
+            367.2,
+            629.28,
+            77.6
+          ],
+          "text": "Structured logs with attacker/service/payload metadata",
+          "textPreview": "Structured logs with attacker/service/payload metadata",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Structured logs with attacker/service/payload metadata",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Structured logs with attacker/service/payload metadata",
+                  "fontSize": 13.33,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            86.4,
+            444.8,
+            99.36,
+            77.6
+          ],
+          "text": "4",
+          "textPreview": "4",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "4",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "4",
+                  "fontSize": 13.33,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            185.76,
+            444.8,
+            375.36,
+            77.6
+          ],
+          "text": "Extract features and classify",
+          "textPreview": "Extract features and classify",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Extract features and classify",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Extract features and classify",
+                  "fontSize": 13.33,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 5,
+          "column": 3,
+          "bbox": [
+            561.12,
+            444.8,
+            629.28,
+            77.6
+          ],
+          "text": "Model label plus confidence score",
+          "textPreview": "Model label plus confidence score",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Model label plus confidence score",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Model label plus confidence score",
+                  "fontSize": 13.33,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 16,
+          "row": 6,
+          "column": 1,
+          "bbox": [
+            86.4,
+            522.4,
+            99.36,
+            77.6
+          ],
+          "text": "5",
+          "textPreview": "5",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "5",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "5",
+                  "fontSize": 13.33,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 17,
+          "row": 6,
+          "column": 2,
+          "bbox": [
+            185.76,
+            522.4,
+            375.36,
+            77.6
+          ],
+          "text": "Store and visualize evidence",
+          "textPreview": "Store and visualize evidence",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Store and visualize evidence",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Store and visualize evidence",
+                  "fontSize": 13.33,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 18,
+          "row": 6,
+          "column": 3,
+          "bbox": [
+            561.12,
+            522.4,
+            629.28,
+            77.6
+          ],
+          "text": "Dashboard charts, event feed, hashes, SIEM-ready alerts",
+          "textPreview": "Dashboard charts, event feed, hashes, SIEM-ready alerts",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Dashboard charts, event feed, hashes, SIEM-ready alerts",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Dashboard charts, event feed, hashes, SIEM-ready alerts",
+                  "fontSize": 13.33,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

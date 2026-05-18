@@ -111,6 +111,13 @@ def extract_features_from_event(event: dict) -> dict:
     }
     features["target_port"] = port_map.get(service, details.get("port", 0))
 
+    # Preserve request metadata for the real-time classifier.
+    # These are not part of the ML feature columns, but they let the
+    # predictor apply service-aware rules for demo traffic.
+    features["service"] = service
+    features["request_path"] = event.get("path", details.get("path", ""))
+    features["request_method"] = event.get("method", details.get("method", ""))
+
     # --- Payload Features ---
     raw_len = details.get("raw_length", 0) or 0
     response_len = details.get("response_length", 0) or 0

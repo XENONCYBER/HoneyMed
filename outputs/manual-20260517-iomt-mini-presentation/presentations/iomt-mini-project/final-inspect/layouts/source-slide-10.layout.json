@@ -1,0 +1,971 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/29gr2p8n",
+    "id": "29gr2p8n",
+    "slide": 11,
+    "layoutId": "/ppt/slideLayouts/slideLayout8.xml",
+    "layoutName": "Title and Content",
+    "layoutType": "obj",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Organic",
+    "colors": {
+      "accent1": "#83992A",
+      "accent2": "#3C9770",
+      "accent3": "#44709D",
+      "accent4": "#A23C33",
+      "accent5": "#D97828",
+      "accent6": "#DEB340",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#212121",
+      "lt2": "#DADADA",
+      "hlink": "#A8BF4D",
+      "folHlink": "#B4CA80"
+    },
+    "typefaces": [
+      "+mn-lt",
+      "Arial"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout8.xml",
+      "name": "Title and Content",
+      "type": "obj",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout8.xml/2",
+          "id": "2",
+          "name": "Title 1",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout8.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout8.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "Title Placeholder 1",
+          "bbox": [
+            136,
+            103.11,
+            1008,
+            136.89
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "Text Placeholder 2",
+          "bbox": [
+            136,
+            268.44,
+            1008,
+            348.44
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            911.02,
+            626.67,
+            168,
+            29.33
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            136,
+            626.67,
+            767.02,
+            29.33
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "Slide Number Placeholder 5",
+          "bbox": [
+            1087.02,
+            626.67,
+            56.98,
+            29.33
+          ],
+          "geometry": "rect"
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9gr2p8nq",
+      "id": "2",
+      "name": "TextBox 1",
+      "bbox": [
+        96,
+        46.08,
+        1089.6,
+        46.08
+      ],
+      "geometry": "rect",
+      "text": "Literature Survey (21-25)",
+      "textPreview": "Literature Survey (21-25)",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Literature Survey (21-25)"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Literature Survey (21-25)",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Literature Survey (21-25)",
+              "fontSize": 26.67,
+              "typeface": "Arial",
+              "color": "#1E1E1E",
+              "bold": true,
+              "alignment": "center"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/lwval87e",
+      "id": "3",
+      "name": "Table 2",
+      "bbox": [
+        43.2,
+        120,
+        1195.2,
+        523.2
+      ],
+      "text": "No. | Authors / Year | Focus | Limitation / Gap\n21 | Kelly et al. (2020) | IoT honeypot architecture survey | General IoT coverage, limited healthcare context\n22 | Mehta et al. (2023) | Connected medical device vulnerabilities | Assessment-focused instead of active defense\n23 | Williams and Chen (2023) | Medical device honeypots | Useful healthcare deception, but weak verifiable logging\n24 | Zhang and Hernandez (2024) | DL threat intelligence from honeypots | Centralized collection creates privacy and failure risk\n25 | Liu et al. (2022) EdgeGuard | Edge computing for IoT monitoring | Improves latency but lacks forensic integrity guarantees",
+      "textPreview": "No. | Authors / Year | Focus | Limitation / Gap | 21 | Kelly et al. (2020) | IoT honeypot architecture survey | General IoT coverage, lim...",
+      "rows": 6,
+      "cols": 4,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            43.2,
+            120,
+            71.71,
+            87.2
+          ],
+          "text": "No.",
+          "textPreview": "No.",
+          "fillColor": "#DAE8CD",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "No.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "No.",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#1E1E1E",
+                  "bold": true,
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            114.91,
+            120,
+            262.94,
+            87.2
+          ],
+          "text": "Authors / Year",
+          "textPreview": "Authors / Year",
+          "fillColor": "#DAE8CD",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Authors / Year",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Authors / Year",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#1E1E1E",
+                  "bold": true,
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            377.86,
+            120,
+            298.8,
+            87.2
+          ],
+          "text": "Focus",
+          "textPreview": "Focus",
+          "fillColor": "#DAE8CD",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Focus",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Focus",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#1E1E1E",
+                  "bold": true,
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 1,
+          "column": 4,
+          "bbox": [
+            676.66,
+            120,
+            561.74,
+            87.2
+          ],
+          "text": "Limitation / Gap",
+          "textPreview": "Limitation / Gap",
+          "fillColor": "#DAE8CD",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Limitation / Gap",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Limitation / Gap",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#1E1E1E",
+                  "bold": true,
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            43.2,
+            207.2,
+            71.71,
+            87.2
+          ],
+          "text": "21",
+          "textPreview": "21",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "21",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "21",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            114.91,
+            207.2,
+            262.94,
+            87.2
+          ],
+          "text": "Kelly et al. (2020)",
+          "textPreview": "Kelly et al. (2020)",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Kelly et al. (2020)",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Kelly et al. (2020)",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            377.86,
+            207.2,
+            298.8,
+            87.2
+          ],
+          "text": "IoT honeypot architecture survey",
+          "textPreview": "IoT honeypot architecture survey",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "IoT honeypot architecture survey",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "IoT honeypot architecture survey",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 2,
+          "column": 4,
+          "bbox": [
+            676.66,
+            207.2,
+            561.74,
+            87.2
+          ],
+          "text": "General IoT coverage, limited healthcare context",
+          "textPreview": "General IoT coverage, limited healthcare context",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "General IoT coverage, limited healthcare context",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "General IoT coverage, limited healthcare context",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            43.2,
+            294.4,
+            71.71,
+            87.2
+          ],
+          "text": "22",
+          "textPreview": "22",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "22",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "22",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            114.91,
+            294.4,
+            262.94,
+            87.2
+          ],
+          "text": "Mehta et al. (2023)",
+          "textPreview": "Mehta et al. (2023)",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Mehta et al. (2023)",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Mehta et al. (2023)",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            377.86,
+            294.4,
+            298.8,
+            87.2
+          ],
+          "text": "Connected medical device vulnerabilities",
+          "textPreview": "Connected medical device vulnerabilities",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Connected medical device vulnerabilities",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Connected medical device vulnerabilities",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 3,
+          "column": 4,
+          "bbox": [
+            676.66,
+            294.4,
+            561.74,
+            87.2
+          ],
+          "text": "Assessment-focused instead of active defense",
+          "textPreview": "Assessment-focused instead of active defense",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Assessment-focused instead of active defense",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Assessment-focused instead of active defense",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            43.2,
+            381.6,
+            71.71,
+            87.2
+          ],
+          "text": "23",
+          "textPreview": "23",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "23",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "23",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            114.91,
+            381.6,
+            262.94,
+            87.2
+          ],
+          "text": "Williams and Chen (2023)",
+          "textPreview": "Williams and Chen (2023)",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Williams and Chen (2023)",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Williams and Chen (2023)",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            377.86,
+            381.6,
+            298.8,
+            87.2
+          ],
+          "text": "Medical device honeypots",
+          "textPreview": "Medical device honeypots",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Medical device honeypots",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Medical device honeypots",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 16,
+          "row": 4,
+          "column": 4,
+          "bbox": [
+            676.66,
+            381.6,
+            561.74,
+            87.2
+          ],
+          "text": "Useful healthcare deception, but weak verifiable logging",
+          "textPreview": "Useful healthcare deception, but weak verifiable logging",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Useful healthcare deception, but weak verifiable logging",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Useful healthcare deception, but weak verifiable logging",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 17,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            43.2,
+            468.8,
+            71.71,
+            87.2
+          ],
+          "text": "24",
+          "textPreview": "24",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "24",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "24",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 18,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            114.91,
+            468.8,
+            262.94,
+            87.2
+          ],
+          "text": "Zhang and Hernandez (2024)",
+          "textPreview": "Zhang and Hernandez (2024)",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Zhang and Hernandez (2024)",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Zhang and Hernandez (2024)",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 19,
+          "row": 5,
+          "column": 3,
+          "bbox": [
+            377.86,
+            468.8,
+            298.8,
+            87.2
+          ],
+          "text": "DL threat intelligence from honeypots",
+          "textPreview": "DL threat intelligence from honeypots",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "DL threat intelligence from honeypots",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "DL threat intelligence from honeypots",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 20,
+          "row": 5,
+          "column": 4,
+          "bbox": [
+            676.66,
+            468.8,
+            561.74,
+            87.2
+          ],
+          "text": "Centralized collection creates privacy and failure risk",
+          "textPreview": "Centralized collection creates privacy and failure risk",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Centralized collection creates privacy and failure risk",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Centralized collection creates privacy and failure risk",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 21,
+          "row": 6,
+          "column": 1,
+          "bbox": [
+            43.2,
+            556,
+            71.71,
+            87.2
+          ],
+          "text": "25",
+          "textPreview": "25",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "25",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "25",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 22,
+          "row": 6,
+          "column": 2,
+          "bbox": [
+            114.91,
+            556,
+            262.94,
+            87.2
+          ],
+          "text": "Liu et al. (2022) EdgeGuard",
+          "textPreview": "Liu et al. (2022) EdgeGuard",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Liu et al. (2022) EdgeGuard",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Liu et al. (2022) EdgeGuard",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 23,
+          "row": 6,
+          "column": 3,
+          "bbox": [
+            377.86,
+            556,
+            298.8,
+            87.2
+          ],
+          "text": "Edge computing for IoT monitoring",
+          "textPreview": "Edge computing for IoT monitoring",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Edge computing for IoT monitoring",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Edge computing for IoT monitoring",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 24,
+          "row": 6,
+          "column": 4,
+          "bbox": [
+            676.66,
+            556,
+            561.74,
+            87.2
+          ],
+          "text": "Improves latency but lacks forensic integrity guarantees",
+          "textPreview": "Improves latency but lacks forensic integrity guarantees",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Improves latency but lacks forensic integrity guarantees",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Improves latency but lacks forensic integrity guarantees",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

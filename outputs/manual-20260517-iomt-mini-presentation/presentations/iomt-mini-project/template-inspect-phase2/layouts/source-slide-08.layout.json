@@ -1,0 +1,1265 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/fu18jqh0",
+    "id": "fu18jqh0",
+    "slide": 9,
+    "layoutId": "/ppt/slideLayouts/slideLayout2.xml",
+    "layoutName": "Title and Content",
+    "layoutType": "obj",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office",
+    "colors": {
+      "accent1": "#5B9BD5",
+      "accent2": "#ED7D31",
+      "accent3": "#A5A5A5",
+      "accent4": "#FFC000",
+      "accent5": "#4472C4",
+      "accent6": "#70AD47",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#44546A",
+      "lt2": "#E7E6E6",
+      "hlink": "#0563C1",
+      "folHlink": "#954F72"
+    },
+    "typefaces": [
+      "+mn-lt",
+      "Google Sans Text",
+      "Times New Roman"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout2.xml",
+      "name": "Title and Content",
+      "type": "obj",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/2",
+          "id": "2",
+          "name": "Title 1",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 4,
+          "kind": "image",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/7",
+          "id": "7",
+          "name": "Picture 6",
+          "bbox": [
+            1116.17,
+            2.64,
+            151.66,
+            43.05
+          ],
+          "contentType": "image/png",
+          "asset": {
+            "assetId": "/ppt/media/image2.png",
+            "contentType": "image/png",
+            "byteLength": 57155
+          },
+          "fillImage": {
+            "assetId": "/ppt/media/image2.png",
+            "contentType": "image/png",
+            "byteLength": 57155
+          }
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "Title Placeholder 1",
+          "bbox": [
+            88,
+            38.33,
+            1104,
+            139.17
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "Text Placeholder 2",
+          "bbox": [
+            88,
+            191.67,
+            1104,
+            456.83
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            88,
+            667.33,
+            288,
+            38.33
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            424,
+            667.33,
+            432,
+            38.33
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "Slide Number Placeholder 5",
+          "bbox": [
+            904,
+            667.33,
+            288,
+            38.33
+          ],
+          "geometry": "rect"
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/u9knih4b",
+      "id": "2",
+      "name": "Title 1",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "text": "Literature Survey/Related Work(Phase 2) \n",
+      "textPreview": "Literature Survey/Related Work(Phase 2)  |",
+      "resolvedFontSize": 58.67,
+      "resolvedTextStyle": {
+        "fontSize": 58.67,
+        "typeface": "Times New Roman",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Literature Survey/Related Work(Phase 2)"
+          },
+          {
+            "index": 2,
+            "text": ""
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Literature Survey/Related Work(Phase 2) \n",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Literature Survey/Related Work(Phase 2) "
+            },
+            {
+              "index": 2,
+              "text": "\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/c7u54zid",
+      "id": "4",
+      "name": "Slide Number Placeholder 3",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      }
+    },
+    {
+      "order": 3,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/0z61032l",
+      "id": "5",
+      "name": "Content Placeholder 4",
+      "bbox": [
+        76.18,
+        113.39,
+        1162.01,
+        463.33
+      ],
+      "text": "Sl.No | Authors | Paper Title | Limitations | Publisher | Year\n11. | Hasan, M., et al. | Intrusion Detection System for IoT Devices Using Machine Learning Techniques | The proposed models do not account for the memory and power constraints of edge computing deployment. | Springer | 2020\n12. | Tambe, A., et al. | Detection of Botnets Using Specialized IoT Honeypots | Focuses almost exclusively on the Mirai botnet family, ignoring broader IoMT-specific exploitation vectors. | ACM | 2020\n13. | Ferrag, M. A., et al. | Deep Learning for Cyber Security Intrusion Detection: Approaches and Datasets | Suffers from high false-positive rates when processing noisy, real-world network traffic in real-time. | Elsevier | 2020\n14. | Kelly, J., et al. | A Comprehensive Survey of IoT Honeypot Architectures | Broad scope covers general IoT devices (cameras, routers) but lacks focus on the critical nature of medical telemetry. | Springer | 2020\n15. | Al-Garadi, M. A., et al. | A Survey of Machine and Deep Learning Methods for IoT Security | Does not address the challenge of acquiring accurately labeled, real-world IoMT attack data for training. | IEEE | 2020",
+      "textPreview": "Sl.No | Authors | Paper Title | Limitations | Publisher | Year | 11. | Hasan, M., et al. | Intrusion Detection System for IoT Devices Usi...",
+      "rows": 6,
+      "cols": 6,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            76.18,
+            113.39,
+            101.75,
+            77.22
+          ],
+          "text": "Sl.No",
+          "textPreview": "Sl.No",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Sl.No",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Sl.No",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            177.93,
+            113.39,
+            197.18,
+            77.22
+          ],
+          "text": "Authors",
+          "textPreview": "Authors",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Authors",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Authors",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            375.1,
+            113.39,
+            282.08,
+            77.22
+          ],
+          "text": "Paper Title",
+          "textPreview": "Paper Title",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Paper Title",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Paper Title",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 1,
+          "column": 4,
+          "bbox": [
+            657.18,
+            113.39,
+            305.24,
+            77.22
+          ],
+          "text": "Limitations",
+          "textPreview": "Limitations",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Limitations",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Limitations",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 1,
+          "column": 5,
+          "bbox": [
+            962.42,
+            113.39,
+            173.67,
+            77.22
+          ],
+          "text": "Publisher",
+          "textPreview": "Publisher",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Publisher",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Publisher",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 1,
+          "column": 6,
+          "bbox": [
+            1136.09,
+            113.39,
+            102.1,
+            77.22
+          ],
+          "text": "Year",
+          "textPreview": "Year",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Year",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Year",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            76.18,
+            190.61,
+            101.75,
+            77.22
+          ],
+          "text": "11.",
+          "textPreview": "11.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "11.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "11.",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            177.93,
+            190.61,
+            197.18,
+            77.22
+          ],
+          "text": "Hasan, M., et al.",
+          "textPreview": "Hasan, M., et al.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Hasan, M., et al.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Hasan, M., et al.",
+                  "fontSize": 18.67,
+                  "typeface": "Google Sans Text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            375.1,
+            190.61,
+            282.08,
+            77.22
+          ],
+          "text": "Intrusion Detection System for IoT Devices Using Machine Learning Techniques",
+          "textPreview": "Intrusion Detection System for IoT Devices Using Machine Learning Techniques",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Intrusion Detection System for IoT Devices Using Machine Learning Techniques",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Intrusion Detection System for IoT Devices Using Machine Learning Techniques",
+                  "fontSize": 18.67,
+                  "typeface": "Google Sans Text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 2,
+          "column": 4,
+          "bbox": [
+            657.18,
+            190.61,
+            305.24,
+            77.22
+          ],
+          "text": "The proposed models do not account for the memory and power constraints of edge computing deployment.",
+          "textPreview": "The proposed models do not account for the memory and power constraints of edge computing deployment.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "The proposed models do not account for the memory and power constraints of edge computing deployment.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "The proposed models do not account for the memory and power constraints of edge computing deployment.",
+                  "fontSize": 18.67,
+                  "typeface": "Google Sans Text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 2,
+          "column": 5,
+          "bbox": [
+            962.42,
+            190.61,
+            173.67,
+            77.22
+          ],
+          "text": "Springer",
+          "textPreview": "Springer",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Springer",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Springer",
+                  "fontSize": 18.67,
+                  "typeface": "Google Sans Text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 2,
+          "column": 6,
+          "bbox": [
+            1136.09,
+            190.61,
+            102.1,
+            77.22
+          ],
+          "text": "2020",
+          "textPreview": "2020",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2020",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2020",
+                  "fontSize": 18.67,
+                  "typeface": "Google Sans Text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            76.18,
+            267.83,
+            101.75,
+            77.22
+          ],
+          "text": "12.",
+          "textPreview": "12.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "12.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "12.",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            177.93,
+            267.83,
+            197.18,
+            77.22
+          ],
+          "text": "Tambe, A., et al.",
+          "textPreview": "Tambe, A., et al.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Tambe, A., et al.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Tambe, A., et al.",
+                  "fontSize": 18.67,
+                  "typeface": "Google Sans Text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            375.1,
+            267.83,
+            282.08,
+            77.22
+          ],
+          "text": "Detection of Botnets Using Specialized IoT Honeypots",
+          "textPreview": "Detection of Botnets Using Specialized IoT Honeypots",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Detection of Botnets Using Specialized IoT Honeypots",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Detection of Botnets Using Specialized IoT Honeypots",
+                  "fontSize": 18.67,
+                  "typeface": "Google Sans Text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 16,
+          "row": 3,
+          "column": 4,
+          "bbox": [
+            657.18,
+            267.83,
+            305.24,
+            77.22
+          ],
+          "text": "Focuses almost exclusively on the Mirai botnet family, ignoring broader IoMT-specific exploitation vectors.",
+          "textPreview": "Focuses almost exclusively on the Mirai botnet family, ignoring broader IoMT-specific exploitation vectors.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Focuses almost exclusively on the Mirai botnet family, ignoring broader IoMT-specific exploitation vectors.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Focuses almost exclusively on the Mirai botnet family, ignoring broader IoMT-specific exploitation vectors.",
+                  "fontSize": 18.67,
+                  "typeface": "Google Sans Text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 17,
+          "row": 3,
+          "column": 5,
+          "bbox": [
+            962.42,
+            267.83,
+            173.67,
+            77.22
+          ],
+          "text": "ACM",
+          "textPreview": "ACM",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "ACM",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "ACM",
+                  "fontSize": 18.67,
+                  "typeface": "Google Sans Text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 18,
+          "row": 3,
+          "column": 6,
+          "bbox": [
+            1136.09,
+            267.83,
+            102.1,
+            77.22
+          ],
+          "text": "2020",
+          "textPreview": "2020",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2020",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2020",
+                  "fontSize": 18.67,
+                  "typeface": "Google Sans Text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 19,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            76.18,
+            345.06,
+            101.75,
+            77.22
+          ],
+          "text": "13.",
+          "textPreview": "13.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "13.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "13.",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 20,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            177.93,
+            345.06,
+            197.18,
+            77.22
+          ],
+          "text": "Ferrag, M. A., et al.",
+          "textPreview": "Ferrag, M. A., et al.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Ferrag, M. A., et al.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Ferrag, M. A., et al.",
+                  "fontSize": 18.67,
+                  "typeface": "Google Sans Text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 21,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            375.1,
+            345.06,
+            282.08,
+            77.22
+          ],
+          "text": "Deep Learning for Cyber Security Intrusion Detection: Approaches and Datasets",
+          "textPreview": "Deep Learning for Cyber Security Intrusion Detection: Approaches and Datasets",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Deep Learning for Cyber Security Intrusion Detection: Approaches and Datasets",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Deep Learning for Cyber Security Intrusion Detection: Approaches and Datasets",
+                  "fontSize": 18.67,
+                  "typeface": "Google Sans Text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 22,
+          "row": 4,
+          "column": 4,
+          "bbox": [
+            657.18,
+            345.06,
+            305.24,
+            77.22
+          ],
+          "text": "Suffers from high false-positive rates when processing noisy, real-world network traffic in real-time.",
+          "textPreview": "Suffers from high false-positive rates when processing noisy, real-world network traffic in real-time.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Suffers from high false-positive rates when processing noisy, real-world network traffic in real-time.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Suffers from high false-positive rates when processing noisy, real-world network traffic in real-time.",
+                  "fontSize": 18.67,
+                  "typeface": "Google Sans Text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 23,
+          "row": 4,
+          "column": 5,
+          "bbox": [
+            962.42,
+            345.06,
+            173.67,
+            77.22
+          ],
+          "text": "Elsevier",
+          "textPreview": "Elsevier",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Elsevier",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Elsevier",
+                  "fontSize": 18.67,
+                  "typeface": "Google Sans Text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 24,
+          "row": 4,
+          "column": 6,
+          "bbox": [
+            1136.09,
+            345.06,
+            102.1,
+            77.22
+          ],
+          "text": "2020",
+          "textPreview": "2020",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2020",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2020",
+                  "fontSize": 18.67,
+                  "typeface": "Google Sans Text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 25,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            76.18,
+            422.28,
+            101.75,
+            77.22
+          ],
+          "text": "14.",
+          "textPreview": "14.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "14.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "14.",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 26,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            177.93,
+            422.28,
+            197.18,
+            77.22
+          ],
+          "text": "Kelly, J., et al.",
+          "textPreview": "Kelly, J., et al.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Kelly, J., et al.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Kelly, J., et al.",
+                  "fontSize": 18.67,
+                  "typeface": "Google Sans Text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 27,
+          "row": 5,
+          "column": 3,
+          "bbox": [
+            375.1,
+            422.28,
+            282.08,
+            77.22
+          ],
+          "text": "A Comprehensive Survey of IoT Honeypot Architectures",
+          "textPreview": "A Comprehensive Survey of IoT Honeypot Architectures",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "A Comprehensive Survey of IoT Honeypot Architectures",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "A Comprehensive Survey of IoT Honeypot Architectures",
+                  "fontSize": 18.67,
+                  "typeface": "Google Sans Text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 28,
+          "row": 5,
+          "column": 4,
+          "bbox": [
+            657.18,
+            422.28,
+            305.24,
+            77.22
+          ],
+          "text": "Broad scope covers general IoT devices (cameras, routers) but lacks focus on the critical nature of medical telemetry.",
+          "textPreview": "Broad scope covers general IoT devices (cameras, routers) but lacks focus on the critical nature of medical telemetry.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Broad scope covers general IoT devices (cameras, routers) but lacks focus on the critical nature of medical telemetry.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Broad scope covers general IoT devices (cameras, routers) but lacks focus on the critical nature of medical telemetry.",
+                  "fontSize": 18.67,
+                  "typeface": "Google Sans Text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 29,
+          "row": 5,
+          "column": 5,
+          "bbox": [
+            962.42,
+            422.28,
+            173.67,
+            77.22
+          ],
+          "text": "Springer",
+          "textPreview": "Springer",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Springer",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Springer",
+                  "fontSize": 18.67,
+                  "typeface": "Google Sans Text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 30,
+          "row": 5,
+          "column": 6,
+          "bbox": [
+            1136.09,
+            422.28,
+            102.1,
+            77.22
+          ],
+          "text": "2020",
+          "textPreview": "2020",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2020",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2020",
+                  "fontSize": 18.67,
+                  "typeface": "Google Sans Text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 31,
+          "row": 6,
+          "column": 1,
+          "bbox": [
+            76.18,
+            499.5,
+            101.75,
+            77.22
+          ],
+          "text": "15.",
+          "textPreview": "15.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "15.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "15.",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 32,
+          "row": 6,
+          "column": 2,
+          "bbox": [
+            177.93,
+            499.5,
+            197.18,
+            77.22
+          ],
+          "text": "Al-Garadi, M. A., et al.",
+          "textPreview": "Al-Garadi, M. A., et al.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Al-Garadi, M. A., et al.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Al-Garadi, M. A., et al.",
+                  "fontSize": 18.67,
+                  "typeface": "Google Sans Text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 33,
+          "row": 6,
+          "column": 3,
+          "bbox": [
+            375.1,
+            499.5,
+            282.08,
+            77.22
+          ],
+          "text": "A Survey of Machine and Deep Learning Methods for IoT Security",
+          "textPreview": "A Survey of Machine and Deep Learning Methods for IoT Security",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "A Survey of Machine and Deep Learning Methods for IoT Security",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "A Survey of Machine and Deep Learning Methods for IoT Security",
+                  "fontSize": 18.67,
+                  "typeface": "Google Sans Text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 34,
+          "row": 6,
+          "column": 4,
+          "bbox": [
+            657.18,
+            499.5,
+            305.24,
+            77.22
+          ],
+          "text": "Does not address the challenge of acquiring accurately labeled, real-world IoMT attack data for training.",
+          "textPreview": "Does not address the challenge of acquiring accurately labeled, real-world IoMT attack data for training.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Does not address the challenge of acquiring accurately labeled, real-world IoMT attack data for training.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Does not address the challenge of acquiring accurately labeled, real-world IoMT attack data for training.",
+                  "fontSize": 18.67,
+                  "typeface": "Google Sans Text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 35,
+          "row": 6,
+          "column": 5,
+          "bbox": [
+            962.42,
+            499.5,
+            173.67,
+            77.22
+          ],
+          "text": "IEEE",
+          "textPreview": "IEEE",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "IEEE",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "IEEE",
+                  "fontSize": 18.67,
+                  "typeface": "Google Sans Text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 36,
+          "row": 6,
+          "column": 6,
+          "bbox": [
+            1136.09,
+            499.5,
+            102.1,
+            77.22
+          ],
+          "text": "2020",
+          "textPreview": "2020",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2020",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2020",
+                  "fontSize": 18.67,
+                  "typeface": "Google Sans Text"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

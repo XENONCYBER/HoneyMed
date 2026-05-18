@@ -1,0 +1,413 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/8z25kb6x",
+    "id": "8z25kb6x",
+    "slide": 17,
+    "layoutId": "/ppt/slideLayouts/slideLayout2.xml",
+    "layoutName": "Title and Content",
+    "layoutType": "obj",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office",
+    "colors": {
+      "accent1": "#5B9BD5",
+      "accent2": "#ED7D31",
+      "accent3": "#A5A5A5",
+      "accent4": "#FFC000",
+      "accent5": "#4472C4",
+      "accent6": "#70AD47",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#44546A",
+      "lt2": "#E7E6E6",
+      "hlink": "#0563C1",
+      "folHlink": "#954F72"
+    },
+    "typefaces": [
+      "+mn-lt",
+      "Arial",
+      "Times New Roman"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout2.xml",
+      "name": "Title and Content",
+      "type": "obj",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/2",
+          "id": "2",
+          "name": "Title 1",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 4,
+          "kind": "image",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/7",
+          "id": "7",
+          "name": "Picture 6",
+          "bbox": [
+            1116.17,
+            2.64,
+            151.66,
+            43.05
+          ],
+          "contentType": "image/png",
+          "asset": {
+            "assetId": "/ppt/media/image2.png",
+            "contentType": "image/png",
+            "byteLength": 57155
+          },
+          "fillImage": {
+            "assetId": "/ppt/media/image2.png",
+            "contentType": "image/png",
+            "byteLength": 57155
+          }
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "Title Placeholder 1",
+          "bbox": [
+            88,
+            38.33,
+            1104,
+            139.17
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "Text Placeholder 2",
+          "bbox": [
+            88,
+            191.67,
+            1104,
+            456.83
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            88,
+            667.33,
+            288,
+            38.33
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            424,
+            667.33,
+            432,
+            38.33
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "Slide Number Placeholder 5",
+          "bbox": [
+            904,
+            667.33,
+            288,
+            38.33
+          ],
+          "geometry": "rect"
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/pg3ex0nu",
+      "id": "2",
+      "name": "Title 1",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "text": "Expected Outcomes",
+      "textPreview": "Expected Outcomes",
+      "resolvedFontSize": 58.67,
+      "resolvedTextStyle": {
+        "fontSize": 58.67,
+        "typeface": "Times New Roman",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Expected Outcomes"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Expected Outcomes",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Expected Outcomes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7mp0bi9s",
+      "id": "4",
+      "name": "Slide Number Placeholder 3",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      }
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/psfil0rq",
+      "id": "6",
+      "name": "Rectangle 2",
+      "bbox": [
+        88,
+        239.85,
+        1086.43,
+        365.13
+      ],
+      "geometry": "rect",
+      "text": "Functional IoMT Edge Decoy: Successfully develop and deploy a custom, medium-interaction honeypot on a Raspberry Pi that convincingly emulates medical device protocols (HL7, DICOM, Web) to trap attackers and log malicious traffic.\n\nReal-Time AI Threat Classification: Deliver an optimized Machine Learning model (trained on a hybrid dataset) capable of analyzing extracted network features to instantly classify specific IoMT attacks (e.g., DoS, Brute Force, Port Scans) with high accuracy.\n\nActionable Security Dashboard: Create a live threat intelligence dashboard that visualizes intercepted attacks, attacker IPs, and ML predictions in real-time, providing immediate security insights for healthcare networks.",
+      "textPreview": "Functional IoMT Edge Decoy: Successfully develop and deploy a custom, medium-interaction honeypot on a Raspberry Pi that convincingly emu...",
+      "resolvedFontSize": 37.33,
+      "resolvedTextStyle": {
+        "fontSize": 37.33,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 11,
+        "lines": [
+          {
+            "index": 1,
+            "text": "• Functional IoMT Edge Decoy: Successfully develop and deploy a custom,"
+          },
+          {
+            "index": 2,
+            "text": "medium-interaction honeypot on a Raspberry Pi that convincingly emulates medical"
+          },
+          {
+            "index": 3,
+            "text": "device protocols (HL7, DICOM, Web) to trap attackers and log malicious traffic."
+          },
+          {
+            "index": 4,
+            "text": ""
+          },
+          {
+            "index": 5,
+            "text": "• Real-Time AI Threat Classification: Deliver an optimized Machine Learning model"
+          },
+          {
+            "index": 6,
+            "text": "(trained on a hybrid dataset) capable of analyzing extracted network features to instantly"
+          },
+          {
+            "index": 7,
+            "text": "classify specific IoMT attacks (e.g., DoS, Brute Force, Port Scans) with high accuracy."
+          },
+          {
+            "index": 8,
+            "text": ""
+          },
+          {
+            "index": 9,
+            "text": "• Actionable Security Dashboard: Create a live threat intelligence dashboard that"
+          },
+          {
+            "index": 10,
+            "text": "visualizes intercepted attacks, attacker IPs, and ML predictions in real-time, providing"
+          },
+          {
+            "index": 11,
+            "text": "immediate security insights for healthcare networks."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Functional IoMT Edge Decoy: Successfully develop and deploy a custom, medium-interaction honeypot on a Raspberry Pi that convincingly emulates medical device protocols (HL7, DICOM, Web) to trap attackers and log malicious traffic.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Functional IoMT Edge Decoy:",
+              "fontSize": 26.67,
+              "typeface": "Arial",
+              "color": "tx1",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": " Successfully develop and deploy a custom, medium-interaction honeypot on a Raspberry Pi that convincingly emulates medical device protocols (HL7, DICOM, Web) to trap attackers and log malicious traffic.",
+              "fontSize": 26.67,
+              "typeface": "Arial",
+              "color": "tx1"
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "text": "Real-Time AI Threat Classification: Deliver an optimized Machine Learning model (trained on a hybrid dataset) capable of analyzing extracted network features to instantly classify specific IoMT attacks (e.g., DoS, Brute Force, Port Scans) with high accuracy.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Real-Time AI Threat Classification:",
+              "fontSize": 26.67,
+              "typeface": "Arial",
+              "color": "tx1",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": " Deliver an optimized Machine Learning model (trained on a hybrid dataset) capable of analyzing extracted network features to instantly classify specific IoMT attacks (e.g., DoS, Brute Force, Port Scans) with high accuracy.",
+              "fontSize": 26.67,
+              "typeface": "Arial",
+              "color": "tx1"
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "text": "Actionable Security Dashboard: Create a live threat intelligence dashboard that visualizes intercepted attacks, attacker IPs, and ML predictions in real-time, providing immediate security insights for healthcare networks.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Actionable Security Dashboard:",
+              "fontSize": 26.67,
+              "typeface": "Arial",
+              "color": "tx1",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": " Create a live threat intelligence dashboard that visualizes intercepted attacks, attacker IPs, and ML predictions in real-time, providing immediate security insights for healthcare networks.",
+              "fontSize": 26.67,
+              "typeface": "Arial",
+              "color": "tx1"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

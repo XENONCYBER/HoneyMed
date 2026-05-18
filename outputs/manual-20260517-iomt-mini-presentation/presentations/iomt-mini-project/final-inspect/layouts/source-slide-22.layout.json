@@ -1,0 +1,998 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/5wjudg7a",
+    "id": "5wjudg7a",
+    "slide": 23,
+    "layoutId": "/ppt/slideLayouts/slideLayout8.xml",
+    "layoutName": "Title and Content",
+    "layoutType": "obj",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Organic",
+    "colors": {
+      "accent1": "#83992A",
+      "accent2": "#3C9770",
+      "accent3": "#44709D",
+      "accent4": "#A23C33",
+      "accent5": "#D97828",
+      "accent6": "#DEB340",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#212121",
+      "lt2": "#DADADA",
+      "hlink": "#A8BF4D",
+      "folHlink": "#B4CA80"
+    },
+    "typefaces": [
+      "+mn-lt",
+      "Arial"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout8.xml",
+      "name": "Title and Content",
+      "type": "obj",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout8.xml/2",
+          "id": "2",
+          "name": "Title 1",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout8.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout8.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "Title Placeholder 1",
+          "bbox": [
+            136,
+            103.11,
+            1008,
+            136.89
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "Text Placeholder 2",
+          "bbox": [
+            136,
+            268.44,
+            1008,
+            348.44
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            911.02,
+            626.67,
+            168,
+            29.33
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            136,
+            626.67,
+            767.02,
+            29.33
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "Slide Number Placeholder 5",
+          "bbox": [
+            1087.02,
+            626.67,
+            56.98,
+            29.33
+          ],
+          "geometry": "rect"
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5o7qpg3e",
+      "id": "2",
+      "name": "TextBox 1",
+      "bbox": [
+        96,
+        46.08,
+        1089.6,
+        46.08
+      ],
+      "geometry": "rect",
+      "text": "Standard AI Model",
+      "textPreview": "Standard AI Model",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Standard AI Model"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Standard AI Model",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Standard AI Model",
+              "fontSize": 26.67,
+              "typeface": "Arial",
+              "color": "#1E1E1E",
+              "bold": true,
+              "alignment": "center"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/xs72x4na",
+      "id": "3",
+      "name": "Table 2",
+      "bbox": [
+        62.4,
+        129.6,
+        590.4,
+        321.6
+      ],
+      "text": "Model | Accuracy | Precision | Recall | F1-score | Training note\nDecision Tree | 99.0% | 99.02% | 99.0% | 98.99% | Fast baseline; lower CV stability\nRandom Forest | 99.0% | 99.02% | 99.0% | 98.99% | Selected current best model\nXGBoost | 98.0% | 98.06% | 98.0% | 98.0% | Strong comparative model",
+      "textPreview": "Model | Accuracy | Precision | Recall | F1-score | Training note | Decision Tree | 99.0% | 99.02% | 99.0% | 98.99% | Fast baseline; lower...",
+      "rows": 4,
+      "cols": 6,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            62.4,
+            129.6,
+            118.08,
+            80.4
+          ],
+          "text": "Model",
+          "textPreview": "Model",
+          "fillColor": "#DAE8CD",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Model",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Model",
+                  "fontSize": 10.53,
+                  "typeface": "Arial",
+                  "color": "#1E1E1E",
+                  "bold": true,
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            180.48,
+            129.6,
+            76.75,
+            80.4
+          ],
+          "text": "Accuracy",
+          "textPreview": "Accuracy",
+          "fillColor": "#DAE8CD",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Accuracy",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Accuracy",
+                  "fontSize": 10.53,
+                  "typeface": "Arial",
+                  "color": "#1E1E1E",
+                  "bold": true,
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            257.23,
+            129.6,
+            76.75,
+            80.4
+          ],
+          "text": "Precision",
+          "textPreview": "Precision",
+          "fillColor": "#DAE8CD",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Precision",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Precision",
+                  "fontSize": 10.53,
+                  "typeface": "Arial",
+                  "color": "#1E1E1E",
+                  "bold": true,
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 1,
+          "column": 4,
+          "bbox": [
+            333.98,
+            129.6,
+            76.75,
+            80.4
+          ],
+          "text": "Recall",
+          "textPreview": "Recall",
+          "fillColor": "#DAE8CD",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Recall",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Recall",
+                  "fontSize": 10.53,
+                  "typeface": "Arial",
+                  "color": "#1E1E1E",
+                  "bold": true,
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 1,
+          "column": 5,
+          "bbox": [
+            410.74,
+            129.6,
+            76.75,
+            80.4
+          ],
+          "text": "F1-score",
+          "textPreview": "F1-score",
+          "fillColor": "#DAE8CD",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "F1-score",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "F1-score",
+                  "fontSize": 10.53,
+                  "typeface": "Arial",
+                  "color": "#1E1E1E",
+                  "bold": true,
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 1,
+          "column": 6,
+          "bbox": [
+            487.49,
+            129.6,
+            165.31,
+            80.4
+          ],
+          "text": "Training note",
+          "textPreview": "Training note",
+          "fillColor": "#DAE8CD",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Training note",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Training note",
+                  "fontSize": 10.53,
+                  "typeface": "Arial",
+                  "color": "#1E1E1E",
+                  "bold": true,
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            62.4,
+            210,
+            118.08,
+            80.4
+          ],
+          "text": "Decision Tree",
+          "textPreview": "Decision Tree",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Decision Tree",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Decision Tree",
+                  "fontSize": 10.53,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            180.48,
+            210,
+            76.75,
+            80.4
+          ],
+          "text": "99.0%",
+          "textPreview": "99.0%",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "99.0%",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "99.0%",
+                  "fontSize": 10.53,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            257.23,
+            210,
+            76.75,
+            80.4
+          ],
+          "text": "99.02%",
+          "textPreview": "99.02%",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "99.02%",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "99.02%",
+                  "fontSize": 10.53,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 2,
+          "column": 4,
+          "bbox": [
+            333.98,
+            210,
+            76.75,
+            80.4
+          ],
+          "text": "99.0%",
+          "textPreview": "99.0%",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "99.0%",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "99.0%",
+                  "fontSize": 10.53,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 2,
+          "column": 5,
+          "bbox": [
+            410.74,
+            210,
+            76.75,
+            80.4
+          ],
+          "text": "98.99%",
+          "textPreview": "98.99%",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "98.99%",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "98.99%",
+                  "fontSize": 10.53,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 2,
+          "column": 6,
+          "bbox": [
+            487.49,
+            210,
+            165.31,
+            80.4
+          ],
+          "text": "Fast baseline; lower CV stability",
+          "textPreview": "Fast baseline; lower CV stability",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Fast baseline; lower CV stability",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Fast baseline; lower CV stability",
+                  "fontSize": 10.53,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            62.4,
+            290.4,
+            118.08,
+            80.4
+          ],
+          "text": "Random Forest",
+          "textPreview": "Random Forest",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Random Forest",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Random Forest",
+                  "fontSize": 10.53,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            180.48,
+            290.4,
+            76.75,
+            80.4
+          ],
+          "text": "99.0%",
+          "textPreview": "99.0%",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "99.0%",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "99.0%",
+                  "fontSize": 10.53,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            257.23,
+            290.4,
+            76.75,
+            80.4
+          ],
+          "text": "99.02%",
+          "textPreview": "99.02%",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "99.02%",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "99.02%",
+                  "fontSize": 10.53,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 16,
+          "row": 3,
+          "column": 4,
+          "bbox": [
+            333.98,
+            290.4,
+            76.75,
+            80.4
+          ],
+          "text": "99.0%",
+          "textPreview": "99.0%",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "99.0%",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "99.0%",
+                  "fontSize": 10.53,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 17,
+          "row": 3,
+          "column": 5,
+          "bbox": [
+            410.74,
+            290.4,
+            76.75,
+            80.4
+          ],
+          "text": "98.99%",
+          "textPreview": "98.99%",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "98.99%",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "98.99%",
+                  "fontSize": 10.53,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 18,
+          "row": 3,
+          "column": 6,
+          "bbox": [
+            487.49,
+            290.4,
+            165.31,
+            80.4
+          ],
+          "text": "Selected current best model",
+          "textPreview": "Selected current best model",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Selected current best model",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Selected current best model",
+                  "fontSize": 10.53,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 19,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            62.4,
+            370.8,
+            118.08,
+            80.4
+          ],
+          "text": "XGBoost",
+          "textPreview": "XGBoost",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "XGBoost",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "XGBoost",
+                  "fontSize": 10.53,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 20,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            180.48,
+            370.8,
+            76.75,
+            80.4
+          ],
+          "text": "98.0%",
+          "textPreview": "98.0%",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "98.0%",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "98.0%",
+                  "fontSize": 10.53,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 21,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            257.23,
+            370.8,
+            76.75,
+            80.4
+          ],
+          "text": "98.06%",
+          "textPreview": "98.06%",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "98.06%",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "98.06%",
+                  "fontSize": 10.53,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 22,
+          "row": 4,
+          "column": 4,
+          "bbox": [
+            333.98,
+            370.8,
+            76.75,
+            80.4
+          ],
+          "text": "98.0%",
+          "textPreview": "98.0%",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "98.0%",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "98.0%",
+                  "fontSize": 10.53,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 23,
+          "row": 4,
+          "column": 5,
+          "bbox": [
+            410.74,
+            370.8,
+            76.75,
+            80.4
+          ],
+          "text": "98.0%",
+          "textPreview": "98.0%",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "98.0%",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "98.0%",
+                  "fontSize": 10.53,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 24,
+          "row": 4,
+          "column": 6,
+          "bbox": [
+            487.49,
+            370.8,
+            165.31,
+            80.4
+          ],
+          "text": "Strong comparative model",
+          "textPreview": "Strong comparative model",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Strong comparative model",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Strong comparative model",
+                  "fontSize": 10.53,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/ed8bat47",
+      "id": "4",
+      "name": "Picture 3",
+      "bbox": [
+        676.8,
+        140.32,
+        494.4,
+        415.36
+      ],
+      "contentType": "image/png",
+      "asset": {
+        "assetId": "/ppt/media/image2.png",
+        "contentType": "image/png",
+        "byteLength": 117714
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image2.png",
+        "contentType": "image/png",
+        "byteLength": 117714
+      }
+    }
+  ],
+  "composeRuns": []
+}

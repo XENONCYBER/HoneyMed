@@ -1,0 +1,52 @@
+[
+  {
+    "timestamp": "2026-05-18T08:04:41.905496+00:00",
+    "attack_type": "MQTT_PROBE",
+    "target": "127.0.0.1",
+    "stage": "connected",
+    "response": "20020000"
+  },
+  {
+    "timestamp": "2026-05-18T08:04:41.907182+00:00",
+    "attack_type": "MQTT_SUBSCRIBE_PROBE",
+    "target": "127.0.0.1",
+    "topic": "hospital/icu/vitals"
+  },
+  {
+    "timestamp": "2026-05-18T08:04:42.107799+00:00",
+    "attack_type": "MQTT_SUBSCRIBE_PROBE",
+    "target": "127.0.0.1",
+    "topic": "hospital/pharmacy/dispenser"
+  },
+  {
+    "timestamp": "2026-05-18T08:04:42.308697+00:00",
+    "attack_type": "MQTT_SUBSCRIBE_PROBE",
+    "target": "127.0.0.1",
+    "topic": "medical/device/status"
+  },
+  {
+    "timestamp": "2026-05-18T08:04:42.510237+00:00",
+    "attack_type": "MQTT_SUBSCRIBE_PROBE",
+    "target": "127.0.0.1",
+    "topic": "hospital/#"
+  },
+  {
+    "timestamp": "2026-05-18T08:04:42.711526+00:00",
+    "attack_type": "MQTT_SUBSCRIBE_PROBE",
+    "target": "127.0.0.1",
+    "topic": "$SYS/#"
+  },
+  {
+    "timestamp": "2026-05-18T08:04:42.913159+00:00",
+    "attack_type": "MQTT_SUBSCRIBE_PROBE",
+    "target": "127.0.0.1",
+    "topic": "admin/config"
+  },
+  {
+    "timestamp": "2026-05-18T08:04:43.119089+00:00",
+    "attack_type": "MQTT_PUBLISH_PROBE",
+    "target": "127.0.0.1",
+    "topic": "hospital/icu/vitals",
+    "payload": "{\"patient_id\": \"HACKED\", \"heart_rate\": 999, \"alert\": \"FAKE ALERT\"}"
+  }
+]

@@ -1,0 +1,550 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/2x4nap4r",
+    "id": "2x4nap4r",
+    "slide": 2,
+    "layoutId": "/ppt/slideLayouts/slideLayout1.xml",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office",
+    "colors": {
+      "accent1": "#5B9BD5",
+      "accent2": "#ED7D31",
+      "accent3": "#A5A5A5",
+      "accent4": "#FFC000",
+      "accent5": "#4472C4",
+      "accent6": "#70AD47",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#44546A",
+      "lt2": "#E7E6E6",
+      "hlink": "#0563C1",
+      "folHlink": "#954F72"
+    },
+    "typefaces": [
+      "+mj-lt",
+      "+mn-lt",
+      "Times New Roman"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout1.xml",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout1.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout1.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "image",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout1.xml/7",
+          "id": "7",
+          "name": "Picture 6",
+          "bbox": [
+            13.86,
+            7.58,
+            232.14,
+            50.42
+          ],
+          "contentType": "image/png",
+          "asset": {
+            "assetId": "/ppt/media/image1.png",
+            "contentType": "image/png",
+            "byteLength": 24916
+          },
+          "fillImage": {
+            "assetId": "/ppt/media/image1.png",
+            "contentType": "image/png",
+            "byteLength": 24916
+          }
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "Title Placeholder 1",
+          "bbox": [
+            88,
+            38.33,
+            1104,
+            139.17
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "Text Placeholder 2",
+          "bbox": [
+            88,
+            191.67,
+            1104,
+            456.83
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            88,
+            667.33,
+            288,
+            38.33
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            424,
+            667.33,
+            432,
+            38.33
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "Slide Number Placeholder 5",
+          "bbox": [
+            904,
+            667.33,
+            288,
+            38.33
+          ],
+          "geometry": "rect"
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cvixczed",
+      "id": "2",
+      "name": "Title 1",
+      "bbox": [
+        145.66,
+        212.18,
+        988.68,
+        135.46
+      ],
+      "text": "An Intelligent Honeypot Framework for Attack Detection in IoMT Networks",
+      "textPreview": "An Intelligent Honeypot Framework for Attack Detection in IoMT Networks",
+      "resolvedFontSize": 58.67,
+      "resolvedTextStyle": {
+        "fontSize": 58.67,
+        "typeface": "+mj-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "An Intelligent Honeypot Framework for Attack"
+          },
+          {
+            "index": 2,
+            "text": "Detection in IoMT Networks"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "An Intelligent Honeypot Framework for Attack Detection in IoMT Networks",
+          "runs": [
+            {
+              "index": 1,
+              "text": "An Intelligent Honeypot Framework for Attack Detection in IoMT Networks",
+              "fontSize": 48,
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5gbq1ory",
+      "id": "3",
+      "name": "Subtitle 2",
+      "bbox": [
+        98.98,
+        455.31,
+        424.59,
+        90.44
+      ],
+      "text": "By:\nPrathmesh Sayal ,1MS23CY049\nIshan Chitkarsh, 1MS23CY023",
+      "textPreview": "By: | Prathmesh Sayal ,1MS23CY049 | Ishan Chitkarsh, 1MS23CY023",
+      "resolvedFontSize": 37.33,
+      "resolvedTextStyle": {
+        "fontSize": 37.33,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 6,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          },
+          {
+            "index": 2,
+            "text": "By:"
+          },
+          {
+            "index": 3,
+            "text": ""
+          },
+          {
+            "index": 4,
+            "text": "Prathmesh Sayal ,1MS23CY049"
+          },
+          {
+            "index": 5,
+            "text": ""
+          },
+          {
+            "index": 6,
+            "text": "Ishan Chitkarsh, 1MS23CY023"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "By:",
+          "runs": [
+            {
+              "index": 1,
+              "text": "By:",
+              "fontSize": 26.67,
+              "typeface": "Times New Roman",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "text": "Prathmesh Sayal ,1MS23CY049",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Prathmesh Sayal ,1MS23CY049",
+              "fontSize": 26.67,
+              "typeface": "Times New Roman",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "text": "Ishan Chitkarsh, 1MS23CY023",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Ishan ",
+              "fontSize": 26.67,
+              "typeface": "Times New Roman",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "Chitkarsh",
+              "fontSize": 26.67,
+              "typeface": "Times New Roman",
+              "bold": true
+            },
+            {
+              "index": 3,
+              "text": ", 1MS23CY023",
+              "fontSize": 26.67,
+              "typeface": "Times New Roman",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/4byhgn29",
+      "id": "7",
+      "name": "Picture 3",
+      "bbox": [
+        13.86,
+        7.58,
+        401.64,
+        114.13
+      ],
+      "contentType": "image/png",
+      "asset": {
+        "assetId": "/ppt/media/image3.png",
+        "contentType": "image/png",
+        "byteLength": 59117
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image3.png",
+        "contentType": "image/png",
+        "byteLength": 59117
+      }
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nyd0z610",
+      "id": "5",
+      "name": "Text Box 2",
+      "bbox": [
+        442.17,
+        7.58,
+        867.94,
+        96.94
+      ],
+      "geometry": "rect",
+      "text": "Department of  CSE (AI&ML) and Department of CSE(Cyber Security)\nVI Semester, Mini Project \nCode:  CYP67",
+      "textPreview": "Department of  CSE (AI&ML) and Department of CSE(Cyber Security) | VI Semester, Mini Project  | Code:  CYP67",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Department of  CSE (AI&ML) and Department of CSE(Cyber Security)"
+          },
+          {
+            "index": 2,
+            "text": "VI Semester, Mini Project"
+          },
+          {
+            "index": 3,
+            "text": "Code:  CYP67"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Department of  CSE (AI&ML) and Department of CSE(Cyber Security)",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Department of  ",
+              "typeface": "Times New Roman",
+              "color": "#C00000",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "CSE (AI&ML) and Department of CSE(Cyber Security)",
+              "typeface": "Times New Roman",
+              "color": "#C00000",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "text": "VI Semester, Mini Project ",
+          "runs": [
+            {
+              "index": 1,
+              "text": "VI Semester, Mini Project ",
+              "typeface": "Times New Roman",
+              "color": "#002060",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "text": "Code:  CYP67",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Code:  ",
+              "typeface": "Times New Roman",
+              "color": "#002060",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "CYP67",
+              "typeface": "Times New Roman",
+              "color": "#002060",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "lineWidth": 1
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cj6tovah",
+      "id": "6",
+      "name": "Rectangle 5",
+      "bbox": [
+        876.14,
+        455.31,
+        270.34,
+        90.44
+      ],
+      "geometry": "rect",
+      "text": "Under the Guidance of\nDr. Vishalakshi Prabhu\nDesignation",
+      "textPreview": "Under the Guidance of | Dr. Vishalakshi Prabhu | Designation",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Under the Guidance of"
+          },
+          {
+            "index": 2,
+            "text": "Dr. Vishalakshi Prabhu"
+          },
+          {
+            "index": 3,
+            "text": "Designation"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Under the Guidance of",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Under the Guidance of",
+              "typeface": "Times New Roman",
+              "color": "tx1",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "text": "Dr. Vishalakshi Prabhu\nDesignation",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Dr. Vishalakshi Prabhu",
+              "typeface": "Times New Roman",
+              "color": "tx1",
+              "bold": true,
+              "italic": true
+            },
+            {
+              "index": 2,
+              "text": "\n",
+              "alignment": "center"
+            },
+            {
+              "index": 3,
+              "text": "Designation",
+              "typeface": "Times New Roman",
+              "color": "tx1",
+              "bold": true,
+              "italic": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "bg1",
+      "lineColor": "bg1"
+    }
+  ],
+  "composeRuns": []
+}

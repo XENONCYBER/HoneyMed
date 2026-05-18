@@ -1,0 +1,386 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/mhk3q5o7",
+    "id": "mhk3q5o7",
+    "slide": 22,
+    "layoutId": "/ppt/slideLayouts/slideLayout8.xml",
+    "layoutName": "Title and Content",
+    "layoutType": "obj",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Organic",
+    "colors": {
+      "accent1": "#83992A",
+      "accent2": "#3C9770",
+      "accent3": "#44709D",
+      "accent4": "#A23C33",
+      "accent5": "#D97828",
+      "accent6": "#DEB340",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#212121",
+      "lt2": "#DADADA",
+      "hlink": "#A8BF4D",
+      "folHlink": "#B4CA80"
+    },
+    "typefaces": [
+      "+mn-lt",
+      "Arial"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout8.xml",
+      "name": "Title and Content",
+      "type": "obj",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout8.xml/2",
+          "id": "2",
+          "name": "Title 1",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout8.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout8.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "Title Placeholder 1",
+          "bbox": [
+            136,
+            103.11,
+            1008,
+            136.89
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "Text Placeholder 2",
+          "bbox": [
+            136,
+            268.44,
+            1008,
+            348.44
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            911.02,
+            626.67,
+            168,
+            29.33
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            136,
+            626.67,
+            767.02,
+            29.33
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "Slide Number Placeholder 5",
+          "bbox": [
+            1087.02,
+            626.67,
+            56.98,
+            29.33
+          ],
+          "geometry": "rect"
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/onyd0z61",
+      "id": "2",
+      "name": "TextBox 1",
+      "bbox": [
+        96,
+        46.08,
+        1089.6,
+        46.08
+      ],
+      "geometry": "rect",
+      "text": "Mathematical Model",
+      "textPreview": "Mathematical Model",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Mathematical Model"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Mathematical Model",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Mathematical Model",
+              "fontSize": 26.67,
+              "typeface": "Arial",
+              "color": "#1E1E1E",
+              "bold": true,
+              "alignment": "center"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/d8v6psfi",
+      "id": "3",
+      "name": "TextBox 2",
+      "bbox": [
+        91.2,
+        124.8,
+        1084.8,
+        475.2
+      ],
+      "geometry": "rect",
+      "text": "Input vector: x = [time, source/target ports, payload_size, entropy, protocol flags, credentials, request_count, status_code]\nNormalization: x' = scaler.transform(x), so model features stay in a comparable numeric range.\nClassification: y = f(x') where y belongs to {Benign, DoS, PortScan, BruteForce, Reconnaissance}.\nConfidence: c = max(P(y | x')), used by the dashboard and response engine.\nEvidence hash: h = SHA256(timestamp + source + service + payload + prediction), making event records verifiable.",
+      "textPreview": "Input vector: x = [time, source/target ports, payload_size, entropy, protocol flags, credentials, request_count, status_code] | Normaliza...",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 6,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Input vector: x = [time, source/target ports, payload_size, entropy, protocol flags, credentials, request_count,"
+          },
+          {
+            "index": 2,
+            "text": "status_code]"
+          },
+          {
+            "index": 3,
+            "text": "Normalization: x' = scaler.transform(x), so model features stay in a comparable numeric range."
+          },
+          {
+            "index": 4,
+            "text": "Classification: y = f(x') where y belongs to {Benign, DoS, PortScan, BruteForce, Reconnaissance}."
+          },
+          {
+            "index": 5,
+            "text": "Confidence: c = max(P(y | x')), used by the dashboard and response engine."
+          },
+          {
+            "index": 6,
+            "text": "Evidence hash: h = SHA256(timestamp + source + service + payload + prediction), making event records verifiable."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Input vector: x = [time, source/target ports, payload_size, entropy, protocol flags, credentials, request_count, status_code]",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Input vector: ",
+              "fontSize": 20.67,
+              "typeface": "Arial",
+              "color": "#43612B",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "x = [time, source/target ports, payload_size, entropy, protocol flags, credentials, request_count, status_code]",
+              "fontSize": 20.67,
+              "typeface": "Arial",
+              "color": "#464646"
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "text": "Normalization: x' = scaler.transform(x), so model features stay in a comparable numeric range.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Normalization: ",
+              "fontSize": 20.67,
+              "typeface": "Arial",
+              "color": "#43612B",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "x' = scaler.transform(x), so model features stay in a comparable numeric range.",
+              "fontSize": 20.67,
+              "typeface": "Arial",
+              "color": "#464646"
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "text": "Classification: y = f(x') where y belongs to {Benign, DoS, PortScan, BruteForce, Reconnaissance}.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Classification: ",
+              "fontSize": 20.67,
+              "typeface": "Arial",
+              "color": "#43612B",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "y = f(x') where y belongs to {Benign, DoS, PortScan, BruteForce, Reconnaissance}.",
+              "fontSize": 20.67,
+              "typeface": "Arial",
+              "color": "#464646"
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "text": "Confidence: c = max(P(y | x')), used by the dashboard and response engine.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Confidence: ",
+              "fontSize": 20.67,
+              "typeface": "Arial",
+              "color": "#43612B",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "c = max(P(y | x')), used by the dashboard and response engine.",
+              "fontSize": 20.67,
+              "typeface": "Arial",
+              "color": "#464646"
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "text": "Evidence hash: h = SHA256(timestamp + source + service + payload + prediction), making event records verifiable.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Evidence hash: ",
+              "fontSize": 20.67,
+              "typeface": "Arial",
+              "color": "#43612B",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "h = SHA256(timestamp + source + service + payload + prediction), making event records verifiable.",
+              "fontSize": 20.67,
+              "typeface": "Arial",
+              "color": "#464646"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

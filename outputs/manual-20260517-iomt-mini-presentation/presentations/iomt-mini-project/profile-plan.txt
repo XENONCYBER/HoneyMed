@@ -1,0 +1,6 @@
+task mode: template-following
+primary deck-profile: template-following
+secondary profile gate: engineering-platform
+required proof objects: architecture map, workflow, model comparison, dashboard/results screenshots, applications/limitations/future work
+source/asset requirements: reuse phase decks, project report PDF, and existing project artifacts only
+known missing inputs: none blocking; target skeleton had only four reference slides, so one reference slide is duplicated from the same template.

@@ -1,0 +1,127 @@
+{"kind":"slide","id":"sl/2x4nap4r","slide":2,"title":"Department of  CSE(Cyber Security)","textShapes":2}
+{"kind":"textbox","id":"sh/nyd0z610","slide":2,"textChars":56,"textLines":2}
+{"kind":"textbox","id":"sh/cj6tovah","slide":2,"textChars":13,"textLines":9}
+{"kind":"table","id":"tb/n29gr2p8","slide":2,"name":"Table 6","rows":3,"cols":2,"preview":"Team members Name | Ishan Chitkarsh Prathmesh Sayal","bbox":[253.76,310.68,748.07,283.38]}
+{"kind":"image","id":"im/4byhgn29","slide":2,"name":"Google Shape;106;p13","bbox":[66.84,65.11,315.44,89.64]}
+{"kind":"slide","id":"sl/pg3ex0nu","slide":3,"title":"Contents","textShapes":2}
+{"kind":"textbox","id":"sh/5o7qpg3e","slide":3,"textChars":8,"textLines":1}
+{"kind":"textbox","id":"sh/g3ex0nux","slide":3,"textChars":239,"textLines":12}
+{"kind":"shape","id":"sh/r65wjudg","slide":3,"name":"Date Placeholder 3","bbox":[0,0,0,0]}
+{"kind":"shape","id":"sh/ylc7u54z","slide":3,"name":"Slide Number Placeholder 4","bbox":[0,0,0,0]}
+{"kind":"slide","id":"sl/s72x4nap","slide":4,"title":"Introduction","textShapes":1}
+{"kind":"textbox","id":"sh/o7qpg3ex","slide":4,"textChars":12,"textLines":1}
+{"kind":"shape","id":"sh/dsji5sne","slide":4,"name":"Content Placeholder 2","bbox":[0,0,0,0]}
+{"kind":"shape","id":"sh/6dcbulwv","slide":4,"name":"Date Placeholder 3","bbox":[0,0,0,0]}
+{"kind":"shape","id":"sh/vy90je9c","slide":4,"name":"Slide Number Placeholder 4","bbox":[0,0,0,0]}
+{"kind":"slide","id":"sl/val87ed8","slide":5,"title":"Problem Statement","textShapes":1}
+{"kind":"textbox","id":"sh/qtcj6tov","slide":5,"textChars":17,"textLines":1}
+{"kind":"shape","id":"sh/je9cvixc","slide":5,"name":"Content Placeholder 2","bbox":[0,0,0,0]}
+{"kind":"shape","id":"sh/87ed8bat","slide":5,"name":"Date Placeholder 3","bbox":[0,0,0,0]}
+{"kind":"shape","id":"sh/xs72x4na","slide":5,"name":"Slide Number Placeholder 4","bbox":[0,0,0,0]}
+{"kind":"slide","id":"sl/mlkjm1cf","slide":6,"title":"Objectives","textShapes":1}
+{"kind":"textbox","id":"sh/ovahoza1","slide":6,"textChars":10,"textLines":1}
+{"kind":"shape","id":"sh/dg7adsji","slide":6,"name":"Content Placeholder 2","bbox":[0,0,0,0]}
+{"kind":"shape","id":"sh/6hcrmhk3","slide":6,"name":"Date Placeholder 3","bbox":[0,0,0,0]}
+{"kind":"shape","id":"sh/z25kb6xk","slide":6,"name":"Slide Number Placeholder 4","bbox":[0,0,0,0]}
+{"kind":"slide","id":"sl/58z25kb6","slide":7,"title":"Literature Survey","textShapes":2}
+{"kind":"textbox","id":"sh/ylc7u54z","slide":7,"textChars":17,"textLines":1}
+{"kind":"textbox","id":"sh/r65wjudg","slide":7,"textChars":34,"textLines":1}
+{"kind":"shape","id":"sh/g3ex0nux","slide":7,"name":"Date Placeholder 3","bbox":[0,0,0,0]}
+{"kind":"shape","id":"sh/5o7qpg3e","slide":7,"name":"Slide Number Placeholder 4","bbox":[0,0,0,0]}
+{"kind":"slide","id":"sl/0z61032l","slide":8,"title":"Literature Survey","textShapes":1}
+{"kind":"textbox","id":"sh/x4nap4r6","slide":8,"textChars":17,"textLines":1}
+{"kind":"shape","id":"sh/8jqh0fep","slide":8,"name":"Content Placeholder 2","bbox":[0,0,0,0]}
+{"kind":"shape","id":"sh/fa9w3m94","slide":8,"name":"Date Placeholder 3","bbox":[0,0,0,0]}
+{"kind":"shape","id":"sh/qpg3ex0n","slide":8,"name":"Slide Number Placeholder 4","bbox":[0,0,0,0]}
+{"kind":"slide","id":"sl/fu18jqh0","slide":9,"title":"Literature Survey","textShapes":1}
+{"kind":"textbox","id":"sh/u9knih4b","slide":9,"textChars":17,"textLines":1}
+{"kind":"shape","id":"sh/judg7ads","slide":9,"name":"Content Placeholder 2","bbox":[0,0,0,0]}
+{"kind":"shape","id":"sh/c7u54zid","slide":9,"name":"Date Placeholder 3","bbox":[0,0,0,0]}
+{"kind":"shape","id":"sh/1orytsvu","slide":9,"name":"Slide Number Placeholder 4","bbox":[0,0,0,0]}
+{"kind":"slide","id":"sl/qh0fepkz","slide":10,"title":"Literature Survey","textShapes":1}
+{"kind":"textbox","id":"sh/ovahoza1","slide":10,"textChars":17,"textLines":1}
+{"kind":"shape","id":"sh/6hcrmhk3","slide":10,"name":"Date Placeholder 3","bbox":[0,0,0,0]}
+{"kind":"shape","id":"sh/z25kb6xk","slide":10,"name":"Slide Number Placeholder 4","bbox":[0,0,0,0]}
+{"kind":"slide","id":"sl/29gr2p8n","slide":11,"title":"Literature Survey","textShapes":1}
+{"kind":"textbox","id":"sh/9gr2p8nq","slide":11,"textChars":17,"textLines":1}
+{"kind":"shape","id":"sh/gvy90je9","slide":11,"name":"Content Placeholder 2","bbox":[0,0,0,0]}
+{"kind":"shape","id":"sh/r2p8nqxs","slide":11,"name":"Date Placeholder 3","bbox":[0,0,0,0]}
+{"kind":"shape","id":"sh/2hwfyxob","slide":11,"name":"Slide Number Placeholder 4","bbox":[0,0,0,0]}
+{"kind":"slide","id":"sl/re1w7mp0","slide":12,"title":"Existing System & Limitation","textShapes":1}
+{"kind":"textbox","id":"sh/6tovahoz","slide":12,"textChars":28,"textLines":1}
+{"kind":"shape","id":"sh/vahoza1g","slide":12,"name":"Content Placeholder 2","bbox":[0,0,0,0]}
+{"kind":"shape","id":"sh/onyd0z61","slide":12,"name":"Date Placeholder 3","bbox":[0,0,0,0]}
+{"kind":"shape","id":"sh/d8v6psfi","slide":12,"name":"Slide Number Placeholder 4","bbox":[0,0,0,0]}
+{"kind":"slide","id":"sl/4fu18jqh","slide":13,"title":"Requirements Specifications","textShapes":1}
+{"kind":"textbox","id":"sh/s72x4nap","slide":13,"textChars":27,"textLines":1}
+{"kind":"shape","id":"sh/adsji5sn","slide":13,"name":"Date Placeholder 3","bbox":[0,0,0,0]}
+{"kind":"shape","id":"sh/3ylc7u54","slide":13,"name":"Slide Number Placeholder 4","bbox":[0,0,0,0]}
+{"kind":"table","id":"tb/hoza1gvy","slide":13,"name":"Content Placeholder 5","rows":2,"cols":2,"preview":"Functional Requirements | Non-Functional Requirements","bbox":[136,268.5,1008,77.87]}
+{"kind":"slide","id":"sl/lwval87e","slide":14,"title":"Requirements Specifications","textShapes":1}
+{"kind":"textbox","id":"sh/l0rqd4vm","slide":14,"textChars":27,"textLines":1}
+{"kind":"shape","id":"sh/36hcrmhk","slide":14,"name":"Date Placeholder 3","bbox":[0,0,0,0]}
+{"kind":"shape","id":"sh/eloj2t83","slide":14,"name":"Slide Number Placeholder 4","bbox":[0,0,0,0]}
+{"kind":"table","id":"tb/onyd0z61","slide":14,"name":"Content Placeholder 5","rows":3,"cols":2,"preview":"System Requirements","bbox":[136,268.5,1008,116.8]}
+{"kind":"slide","id":"sl/25kb6xkf","slide":15,"title":"Requirements Specifications","textShapes":2}
+{"kind":"textbox","id":"sh/kre1w7mp","slide":15,"textChars":27,"textLines":1}
+{"kind":"textbox","id":"sh/dcbulwva","slide":15,"textChars":20,"textLines":1}
+{"kind":"shape","id":"sh/2x4nap4r","slide":15,"name":"Date Placeholder 3","bbox":[0,0,0,0]}
+{"kind":"shape","id":"sh/vixczed8","slide":15,"name":"Slide Number Placeholder 4","bbox":[0,0,0,0]}
+{"kind":"table","id":"tb/donyd0z6","slide":15,"name":"Table 8","rows":11,"cols":2,"preview":"Tool /Technology | Purpose","bbox":[364.16,324.18,551.68,302.49]}
+{"kind":"slide","id":"sl/7y1kre1w","slide":16,"title":"System Design","textShapes":1}
+{"kind":"shape","id":"sh/yd0z6103","slide":16,"name":"Date Placeholder 1","bbox":[0,0,0,0]}
+{"kind":"shape","id":"sh/rytsvu9k","slide":16,"name":"Slide Number Placeholder 2","bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/g7adsji5","slide":16,"textChars":13,"textLines":1}
+{"kind":"slide","id":"sl/8z25kb6x","slide":17,"title":"Dataset","textShapes":1}
+{"kind":"textbox","id":"sh/pg3ex0nu","slide":17,"textChars":7,"textLines":1}
+{"kind":"shape","id":"sh/7mp0bi9s","slide":17,"name":"Date Placeholder 3","bbox":[0,0,0,0]}
+{"kind":"shape","id":"sh/e1w7mp0b","slide":17,"name":"Slide Number Placeholder 4","bbox":[0,0,0,0]}
+{"kind":"table","id":"tb/g3ex0nux","slide":17,"name":"Content Placeholder 11","rows":17,"cols":2,"preview":"Parameter | Description","bbox":[246.23,273.49,753.69,368.1]}
+{"kind":"slide","id":"sl/54zidony","slide":18,"title":"System Design","textShapes":2}
+{"kind":"textbox","id":"sh/x0nuxc3y","slide":18,"textChars":13,"textLines":1}
+{"kind":"shape","id":"sh/4fu18jqh","slide":18,"name":"Content Placeholder 2","bbox":[166.56,259.11,667.43,348.44]}
+{"kind":"shape","id":"sh/fil0rqd4","slide":18,"name":"Date Placeholder 3","bbox":[0,0,0,0]}
+{"kind":"shape","id":"sh/qxs72x4n","slide":18,"name":"Slide Number Placeholder 4","bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/fepkzupw","slide":18,"textChars":28,"textLines":1}
+{"kind":"slide","id":"sl/m58z25kb","slide":19,"title":"Major components in the Project Architecture","textShapes":1}
+{"kind":"shape","id":"sh/t83itgfm","slide":19,"name":"Title 1","placeholder":"title","bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/4nap4r65","slide":19,"textChars":44,"textLines":1}
+{"kind":"shape","id":"sh/bq1oryts","slide":19,"name":"Date Placeholder 3","bbox":[0,0,0,0]}
+{"kind":"shape","id":"sh/m58z25kb","slide":19,"name":"Slide Number Placeholder 4","bbox":[0,0,0,0]}
+{"kind":"slide","id":"sl/bat47y1k","slide":20,"title":"Detailed Design","textShapes":1}
+{"kind":"textbox","id":"sh/qtcj6tov","slide":20,"textChars":15,"textLines":1}
+{"kind":"shape","id":"sh/87ed8bat","slide":20,"name":"Date Placeholder 3","bbox":[0,0,0,0]}
+{"kind":"shape","id":"sh/xs72x4na","slide":20,"name":"Slide Number Placeholder 4","bbox":[0,0,0,0]}
+{"kind":"table","id":"tb/nap4r65w","slide":20,"name":"Table 13","rows":2,"cols":2,"bbox":[146.89,270.93,986.21,355.73]}
+{"kind":"slide","id":"sl/j2t83itg","slide":21,"title":"Detailed Design","textShapes":1}
+{"kind":"textbox","id":"sh/mhk3q5o7","slide":21,"textChars":15,"textLines":1}
+{"kind":"shape","id":"sh/4byhgn29","slide":21,"name":"Date Placeholder 3","bbox":[0,0,0,0]}
+{"kind":"shape","id":"sh/twra5gbq","slide":21,"name":"Slide Number Placeholder 4","bbox":[0,0,0,0]}
+{"kind":"table","id":"tb/36hcrmhk","slide":21,"name":"Content Placeholder 7","rows":2,"cols":2,"bbox":[150.59,270.93,978.82,355.73]}
+{"kind":"slide","id":"sl/mhk3q5o7","slide":22,"title":"Mathematical Model","textShapes":1}
+{"kind":"textbox","id":"sh/onyd0z61","slide":22,"textChars":19,"textLines":2}
+{"kind":"shape","id":"sh/dg7adsji","slide":22,"name":"Content Placeholder 6","bbox":[0,0,0,0]}
+{"kind":"shape","id":"sh/6tovahoz","slide":22,"name":"Date Placeholder 3","bbox":[0,0,0,0]}
+{"kind":"shape","id":"sh/vahoza1g","slide":22,"name":"Slide Number Placeholder 4","bbox":[0,0,0,0]}
+{"kind":"slide","id":"sl/5wjudg7a","slide":23,"title":"Standard AI Model","textShapes":1}
+{"kind":"textbox","id":"sh/5o7qpg3e","slide":23,"textChars":18,"textLines":2}
+{"kind":"shape","id":"sh/r65wjudg","slide":23,"name":"Date Placeholder 3","bbox":[0,0,0,0]}
+{"kind":"shape","id":"sh/ylc7u54z","slide":23,"name":"Slide Number Placeholder 4","bbox":[0,0,0,0]}
+{"kind":"table","id":"tb/8z25kb6x","slide":23,"name":"Content Placeholder 5","rows":2,"cols":2,"bbox":[136,260.25,1008,344.32]}
+{"kind":"slide","id":"sl/crmhk3q5","slide":24,"title":"Proposed Project Model","textShapes":1}
+{"kind":"textbox","id":"sh/tsvu9kni","slide":24,"textChars":23,"textLines":2}
+{"kind":"shape","id":"sh/4vmtwra5","slide":24,"name":"Content Placeholder 6","bbox":[0,0,0,0]}
+{"kind":"shape","id":"sh/bat47y1k","slide":24,"name":"Date Placeholder 3","bbox":[0,0,0,0]}
+{"kind":"shape","id":"sh/mp0bi9s3","slide":24,"name":"Slide Number Placeholder 4","bbox":[0,0,0,0]}
+{"kind":"slide","id":"sl/bq1oryts","slide":25,"title":"Methodology","textShapes":2}
+{"kind":"textbox","id":"sh/y1kre1w7","slide":25,"textChars":11,"textLines":1}
+{"kind":"textbox","id":"sh/rmhk3q5o","slide":25,"textChars":25,"textLines":1}
+{"kind":"shape","id":"sh/gfmlkjm1","slide":25,"name":"Date Placeholder 3","bbox":[0,0,0,0]}
+{"kind":"shape","id":"sh/90je9cvi","slide":25,"name":"Slide Number Placeholder 4","bbox":[0,0,0,0]}
+{"kind":"slide","id":"sl/61032lsz","slide":26,"title":"Project Workflow Components","textShapes":1}
+{"kind":"textbox","id":"sh/0je9cvix","slide":26,"textChars":32,"textLines":5}
+{"kind":"shape","id":"sh/t47y1kre","slide":26,"name":"Content Placeholder 2","bbox":[0,0,0,0]}
+{"kind":"shape","id":"sh/il0rqd4v","slide":26,"name":"Date Placeholder 3","bbox":[0,0,0,0]}
+{"kind":"shape","id":"sh/b6xkf6dc","slide":26,"name":"Slide Number Placeholder 4","bbox":[0,0,0,0]}
+{"kind":"slide","id":"sl/psfil0rq","slide":27,"title":"Results & Discussion","textShapes":2}
+{"kind":"notice","message":"Truncated: omitted 58 lines. Increase maxChars or narrow target."}

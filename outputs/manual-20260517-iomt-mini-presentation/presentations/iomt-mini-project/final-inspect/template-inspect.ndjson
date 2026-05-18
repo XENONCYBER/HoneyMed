@@ -1,0 +1,128 @@
+{"kind":"slide","id":"sl/2x4nap4r","slide":2,"title":"An Intelligent Honeypot Framework for Attack Detection in IoMT Networks","textShapes":3}
+{"kind":"textbox","id":"sh/cvixczed","slide":2,"textChars":71,"textLines":1}
+{"kind":"textbox","id":"sh/5gbq1ory","slide":2,"textChars":83,"textLines":1}
+{"kind":"textbox","id":"sh/nyd0z610","slide":2,"textChars":82,"textLines":1}
+{"kind":"table","id":"tb/czed8v6p","slide":2,"name":"Table 3","rows":4,"cols":2,"preview":"Team members | USN","bbox":[292.8,312,696,177.6]}
+{"kind":"image","id":"im/twra5gbq","slide":2,"name":"Google Shape;106;p13","bbox":[66.84,65.11,315.44,89.64]}
+{"kind":"slide","id":"sl/pg3ex0nu","slide":3,"title":"Contents","textShapes":2}
+{"kind":"textbox","id":"sh/5o7qpg3e","slide":3,"textChars":8,"textLines":1}
+{"kind":"textbox","id":"sh/g3ex0nux","slide":3,"textChars":265,"textLines":6}
+{"kind":"slide","id":"sl/s72x4nap","slide":4,"title":"Introduction","textShapes":2}
+{"kind":"textbox","id":"sh/o7qpg3ex","slide":4,"textChars":12,"textLines":1}
+{"kind":"textbox","id":"sh/dsji5sne","slide":4,"textChars":497,"textLines":4}
+{"kind":"slide","id":"sl/val87ed8","slide":5,"title":"Problem Statement","textShapes":2}
+{"kind":"textbox","id":"sh/qtcj6tov","slide":5,"textChars":17,"textLines":1}
+{"kind":"textbox","id":"sh/je9cvixc","slide":5,"textChars":534,"textLines":4}
+{"kind":"slide","id":"sl/mlkjm1cf","slide":6,"title":"Objectives","textShapes":5}
+{"kind":"textbox","id":"sh/ovahoza1","slide":6,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/dg7adsji","slide":6,"textChars":104,"textLines":2}
+{"kind":"textbox","id":"sh/6hcrmhk3","slide":6,"textChars":127,"textLines":2}
+{"kind":"textbox","id":"sh/z25kb6xk","slide":6,"textChars":135,"textLines":2}
+{"kind":"textbox","id":"sh/onyd0z61","slide":6,"textChars":131,"textLines":2}
+{"kind":"slide","id":"sl/58z25kb6","slide":7,"title":"Literature Survey (1-5)","textShapes":1}
+{"kind":"textbox","id":"sh/ylc7u54z","slide":7,"textChars":23,"textLines":1}
+{"kind":"table","id":"tb/udg7adsj","slide":7,"name":"Table 2","rows":6,"cols":4,"preview":"No. | Authors / Year | Focus | Limitation / Gap","bbox":[43.2,120,1195.2,523.2]}
+{"kind":"slide","id":"sl/0z61032l","slide":8,"title":"Literature Survey (6-10)","textShapes":1}
+{"kind":"textbox","id":"sh/x4nap4r6","slide":8,"textChars":24,"textLines":1}
+{"kind":"table","id":"tb/h0fepkzu","slide":8,"name":"Table 2","rows":6,"cols":4,"preview":"No. | Authors / Year | Focus | Limitation / Gap","bbox":[43.2,120,1195.2,523.2]}
+{"kind":"slide","id":"sl/fu18jqh0","slide":9,"title":"Literature Survey (11-15)","textShapes":1}
+{"kind":"textbox","id":"sh/u9knih4b","slide":9,"textChars":25,"textLines":1}
+{"kind":"table","id":"tb/ih4byhgn","slide":9,"name":"Table 2","rows":6,"cols":4,"preview":"No. | Authors / Year | Focus | Limitation / Gap","bbox":[43.2,120,1195.2,523.2]}
+{"kind":"slide","id":"sl/qh0fepkz","slide":10,"title":"Literature Survey (16-20)","textShapes":1}
+{"kind":"textbox","id":"sh/ovahoza1","slide":10,"textChars":25,"textLines":1}
+{"kind":"table","id":"tb/4zidonyd","slide":10,"name":"Table 2","rows":6,"cols":4,"preview":"No. | Authors / Year | Focus | Limitation / Gap","bbox":[43.2,120,1195.2,523.2]}
+{"kind":"slide","id":"sl/29gr2p8n","slide":11,"title":"Literature Survey (21-25)","textShapes":1}
+{"kind":"textbox","id":"sh/9gr2p8nq","slide":11,"textChars":25,"textLines":1}
+{"kind":"table","id":"tb/lwval87e","slide":11,"name":"Table 2","rows":6,"cols":4,"preview":"No. | Authors / Year | Focus | Limitation / Gap","bbox":[43.2,120,1195.2,523.2]}
+{"kind":"slide","id":"sl/re1w7mp0","slide":12,"title":"Existing System & Limitation","textShapes":1}
+{"kind":"textbox","id":"sh/6tovahoz","slide":12,"textChars":28,"textLines":1}
+{"kind":"table","id":"tb/e1w7mp0b","slide":12,"name":"Table 2","rows":5,"cols":3,"preview":"Existing approach | What it does | Limitation that HoneyMed addresses","bbox":[72,139.2,1132.8,441.6]}
+{"kind":"slide","id":"sl/4fu18jqh","slide":13,"title":"Requirements Specifications","textShapes":1}
+{"kind":"textbox","id":"sh/s72x4nap","slide":13,"textChars":27,"textLines":1}
+{"kind":"table","id":"tb/svu9knih","slide":13,"name":"Table 2","rows":5,"cols":2,"preview":"Functional Requirements | Non-Functional Requirements","bbox":[96,139.2,1075.2,446.4]}
+{"kind":"slide","id":"sl/lwval87e","slide":14,"title":"Requirements Specifications","textShapes":1}
+{"kind":"textbox","id":"sh/l0rqd4vm","slide":14,"textChars":27,"textLines":1}
+{"kind":"table","id":"tb/dg7adsji","slide":14,"name":"Table 2","rows":6,"cols":2,"preview":"System Requirements | Details","bbox":[96,139.2,1075.2,446.4]}
+{"kind":"slide","id":"sl/25kb6xkf","slide":15,"title":"Requirements Specifications","textShapes":1}
+{"kind":"textbox","id":"sh/kre1w7mp","slide":15,"textChars":27,"textLines":1}
+{"kind":"table","id":"tb/kre1w7mp","slide":15,"name":"Table 2","rows":8,"cols":2,"preview":"Tool / Technology | Purpose","bbox":[206.4,126.72,868.8,499.2]}
+{"kind":"slide","id":"sl/7y1kre1w","slide":16,"title":"System Design","textShapes":2}
+{"kind":"textbox","id":"sh/yd0z6103","slide":16,"textChars":13,"textLines":1}
+{"kind":"textbox","id":"sh/rytsvu9k","slide":16,"textChars":58,"textLines":1}
+{"kind":"slide","id":"sl/8z25kb6x","slide":17,"title":"Dataset","textShapes":1}
+{"kind":"textbox","id":"sh/pg3ex0nu","slide":17,"textChars":7,"textLines":1}
+{"kind":"table","id":"tb/9cvixcze","slide":17,"name":"Table 2","rows":7,"cols":2,"preview":"Parameter | Description","bbox":[96,120,1075.2,489.6]}
+{"kind":"slide","id":"sl/54zidony","slide":18,"title":"System Design","textShapes":2}
+{"kind":"textbox","id":"sh/x0nuxc3y","slide":18,"textChars":13,"textLines":1}
+{"kind":"textbox","id":"sh/fil0rqd4","slide":18,"textChars":136,"textLines":1}
+{"kind":"image","id":"im/b2hwfyxo","slide":18,"name":"Picture 2","bbox":[81.72,118.08,1118.16,475.2]}
+{"kind":"slide","id":"sl/m58z25kb","slide":19,"title":"Major components in the Project Architecture","textShapes":1}
+{"kind":"textbox","id":"sh/t83itgfm","slide":19,"textChars":44,"textLines":1}
+{"kind":"table","id":"tb/pkzupwb2","slide":19,"name":"Table 2","rows":5,"cols":3,"preview":"Layer | Component | Role","bbox":[76.8,139.2,1123.2,456]}
+{"kind":"slide","id":"sl/bat47y1k","slide":20,"title":"Detailed Design","textShapes":3}
+{"kind":"textbox","id":"sh/qtcj6tov","slide":20,"textChars":15,"textLines":1}
+{"kind":"textbox","id":"sh/je9cvixc","slide":20,"textChars":391,"textLines":3}
+{"kind":"textbox","id":"sh/87ed8bat","slide":20,"textChars":377,"textLines":3}
+{"kind":"slide","id":"sl/j2t83itg","slide":21,"title":"Detailed Design","textShapes":3}
+{"kind":"textbox","id":"sh/mhk3q5o7","slide":21,"textChars":15,"textLines":1}
+{"kind":"textbox","id":"sh/b2hwfyxo","slide":21,"textChars":367,"textLines":3}
+{"kind":"textbox","id":"sh/4byhgn29","slide":21,"textChars":320,"textLines":3}
+{"kind":"slide","id":"sl/mhk3q5o7","slide":22,"title":"Mathematical Model","textShapes":2}
+{"kind":"textbox","id":"sh/onyd0z61","slide":22,"textChars":18,"textLines":1}
+{"kind":"textbox","id":"sh/d8v6psfi","slide":22,"textChars":506,"textLines":5}
+{"kind":"slide","id":"sl/5wjudg7a","slide":23,"title":"Standard AI Model","textShapes":1}
+{"kind":"textbox","id":"sh/5o7qpg3e","slide":23,"textChars":17,"textLines":1}
+{"kind":"table","id":"tb/xs72x4na","slide":23,"name":"Table 2","rows":4,"cols":6,"preview":"Model | Accuracy | Precision | Recall | F1-score | Training note","bbox":[62.4,129.6,590.4,321.6]}
+{"kind":"image","id":"im/ed8bat47","slide":23,"name":"Picture 3","bbox":[676.8,140.32,494.4,415.36]}
+{"kind":"slide","id":"sl/crmhk3q5","slide":24,"title":"Proposed Project Model","textShapes":9}
+{"kind":"textbox","id":"sh/tsvu9kni","slide":24,"textChars":22,"textLines":1}
+{"kind":"textbox","id":"sh/47y1kre1","slide":24,"textChars":14,"textLines":1}
+{"kind":"textbox","id":"sh/bat47y1k","slide":24,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/mp0bi9s3","slide":24,"textChars":18,"textLines":1}
+{"kind":"textbox","id":"sh/tgfmlkjm","slide":24,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/4vmtwra5","slide":24,"textChars":12,"textLines":1}
+{"kind":"textbox","id":"sh/b2hwfyxo","slide":24,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/mhk3q5o7","slide":24,"textChars":16,"textLines":1}
+{"kind":"textbox","id":"sh/0z61032l","slide":24,"textChars":332,"textLines":2}
+{"kind":"slide","id":"sl/bq1oryts","slide":25,"title":"Methodology","textShapes":2}
+{"kind":"textbox","id":"sh/y1kre1w7","slide":25,"textChars":11,"textLines":1}
+{"kind":"textbox","id":"sh/gfmlkjm1","slide":25,"textChars":339,"textLines":4}
+{"kind":"image","id":"im/wfyxobm5","slide":25,"name":"Picture 2","bbox":[100.8,138.5,1075.2,121.41]}
+{"kind":"slide","id":"sl/61032lsz","slide":26,"title":"Project Workflow Components","textShapes":1}
+{"kind":"textbox","id":"sh/0je9cvix","slide":26,"textChars":27,"textLines":1}
+{"kind":"table","id":"tb/83itgfml","slide":26,"name":"Table 2","rows":6,"cols":3,"preview":"Step | Component | Output","bbox":[86.4,134.4,1104,465.6]}
+{"kind":"slide","id":"sl/psfil0rq","slide":27,"title":"Results & Discussion","textShapes":2}
+{"kind":"textbox","id":"sh/qtcj6tov","slide":27,"textChars":20,"textLines":1}
+{"kind":"textbox","id":"sh/87ed8bat","slide":27,"textChars":118,"textLines":1}
+{"kind":"image","id":"im/4nap4r65","slide":27,"name":"Picture 2","bbox":[357.94,110.4,570.51,499.2]}
+{"kind":"slide","id":"sl/gfmlkjm1","slide":28,"title":"Results & Discussion","textShapes":2}
+{"kind":"textbox","id":"sh/8jqh0fep","slide":28,"textChars":20,"textLines":1}
+{"kind":"textbox","id":"sh/qpg3ex0n","slide":28,"textChars":331,"textLines":4}
+{"kind":"image","id":"im/yhgn29gr","slide":28,"name":"Picture 2","bbox":[62.4,136.67,595.2,341.07]}
+{"kind":"slide","id":"sl/vahoza1g","slide":29,"title":"Results & Discussion","textShapes":2}
+{"kind":"textbox","id":"sh/2hwfyxob","slide":29,"textChars":20,"textLines":1}
+{"kind":"textbox","id":"sh/9gr2p8nq","slide":29,"textChars":177,"textLines":1}
+{"kind":"image","id":"im/val87ed8","slide":29,"name":"Picture 2","bbox":[100.8,115.2,475.2,475.2]}
+{"kind":"image","id":"im/6psfil0r","slide":29,"name":"Picture 3","bbox":[678.7,129.6,489.65,302.4]}
+{"kind":"slide","id":"sl/a1gvy90j","slide":30,"title":"Project Applications","textShapes":2}
+{"kind":"textbox","id":"sh/c3ylc7u5","slide":30,"textChars":20,"textLines":1}
+{"kind":"textbox","id":"sh/1kre1w7m","slide":30,"textChars":379,"textLines":5}
+{"kind":"slide","id":"sl/kre1w7mp","slide":31,"title":"Project Limitations","textShapes":2}
+{"kind":"textbox","id":"sh/hgn29gr2","slide":31,"textChars":19,"textLines":1}
+{"kind":"textbox","id":"sh/svu9knih","slide":31,"textChars":439,"textLines":5}
+{"kind":"slide","id":"sl/h0fepkzu","slide":32,"title":"Future Work","textShapes":2}
+{"kind":"textbox","id":"sh/y1kre1w7","slide":32,"textChars":11,"textLines":1}
+{"kind":"textbox","id":"sh/rmhk3q5o","slide":32,"textChars":452,"textLines":4}
+{"kind":"slide","id":"sl/yhgn29gr","slide":33,"title":"Conclusion","textShapes":2}
+{"kind":"textbox","id":"sh/l0rqd4vm","slide":33,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/wfyxobm5","slide":33,"textChars":541,"textLines":4}
+{"kind":"slide","id":"sl/3ex0nuxc","slide":34,"title":"References","textShapes":2}
+{"kind":"textbox","id":"sh/loj2t83i","slide":34,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/w3m94fu1","slide":34,"textChars":608,"textLines":9}
+{"kind":"slide","id":"sl/kb6xkf6d","slide":35,"title":"References","textShapes":2}
+{"kind":"textbox","id":"sh/pkzupwb2","slide":35,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/0z61032l","slide":35,"textChars":536,"textLines":9}
+{"kind":"slide","id":"sl/xs72x4na","slide":36,"title":"References","textShapes":2}
+{"kind":"textbox","id":"sh/m58z25kb","slide":36,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/bq1oryts","slide":36,"textChars":497,"textLines":9}
+{"kind":"notice","message":"Truncated: omitted 11 lines. Increase maxChars or narrow target."}

@@ -1,0 +1,1 @@
+Target deck is a 37-slide Ramaiah/MSRIT mini-project skeleton with white background, green border/line, slide number/date placeholders, and content tables. Most body slides were empty placeholders. The final output preserves the same master furniture and component rhythm, filling existing roles with source-backed content.

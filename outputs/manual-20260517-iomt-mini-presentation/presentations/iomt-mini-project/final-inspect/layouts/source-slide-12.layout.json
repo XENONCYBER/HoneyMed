@@ -1,0 +1,549 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/4fu18jqh",
+    "id": "4fu18jqh",
+    "slide": 13,
+    "layoutId": "/ppt/slideLayouts/slideLayout8.xml",
+    "layoutName": "Title and Content",
+    "layoutType": "obj",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Organic",
+    "colors": {
+      "accent1": "#83992A",
+      "accent2": "#3C9770",
+      "accent3": "#44709D",
+      "accent4": "#A23C33",
+      "accent5": "#D97828",
+      "accent6": "#DEB340",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#212121",
+      "lt2": "#DADADA",
+      "hlink": "#A8BF4D",
+      "folHlink": "#B4CA80"
+    },
+    "typefaces": [
+      "+mn-lt",
+      "Arial"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout8.xml",
+      "name": "Title and Content",
+      "type": "obj",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout8.xml/2",
+          "id": "2",
+          "name": "Title 1",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout8.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout8.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "Title Placeholder 1",
+          "bbox": [
+            136,
+            103.11,
+            1008,
+            136.89
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "Text Placeholder 2",
+          "bbox": [
+            136,
+            268.44,
+            1008,
+            348.44
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            911.02,
+            626.67,
+            168,
+            29.33
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            136,
+            626.67,
+            767.02,
+            29.33
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "Slide Number Placeholder 5",
+          "bbox": [
+            1087.02,
+            626.67,
+            56.98,
+            29.33
+          ],
+          "geometry": "rect"
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/s72x4nap",
+      "id": "2",
+      "name": "TextBox 1",
+      "bbox": [
+        96,
+        46.08,
+        1089.6,
+        46.08
+      ],
+      "geometry": "rect",
+      "text": "Requirements Specifications",
+      "textPreview": "Requirements Specifications",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Requirements Specifications"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Requirements Specifications",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Requirements Specifications",
+              "fontSize": 26.67,
+              "typeface": "Arial",
+              "color": "#1E1E1E",
+              "bold": true,
+              "alignment": "center"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/svu9knih",
+      "id": "3",
+      "name": "Table 2",
+      "bbox": [
+        96,
+        139.2,
+        1075.2,
+        446.4
+      ],
+      "text": "Functional Requirements | Non-Functional Requirements\nEmulate HL7 MLLP, DICOM, MQTT, SSH, and a medical web portal | Low-latency capture and classification for live alerting\nCapture payload, IP, port, timestamp, protocol, and service metadata | Secure local evidence storage with tamper-aware hashes\nNormalize logs and extract features for ML inference | Handle multiple concurrent connections across exposed services\nUpdate dashboard, REST API, SIEM alerts, and local analysis store | Clear analyst-facing dashboard for quick interpretation",
+      "textPreview": "Functional Requirements | Non-Functional Requirements | Emulate HL7 MLLP, DICOM, MQTT, SSH, and a medical web portal | Low-latency captur...",
+      "rows": 5,
+      "cols": 2,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            96,
+            139.2,
+            537.6,
+            89.28
+          ],
+          "text": "Functional Requirements",
+          "textPreview": "Functional Requirements",
+          "fillColor": "#DAE8CD",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Functional Requirements",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Functional Requirements",
+                  "fontSize": 12.67,
+                  "typeface": "Arial",
+                  "color": "#1E1E1E",
+                  "bold": true,
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            633.6,
+            139.2,
+            537.6,
+            89.28
+          ],
+          "text": "Non-Functional Requirements",
+          "textPreview": "Non-Functional Requirements",
+          "fillColor": "#DAE8CD",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Non-Functional Requirements",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Non-Functional Requirements",
+                  "fontSize": 12.67,
+                  "typeface": "Arial",
+                  "color": "#1E1E1E",
+                  "bold": true,
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            96,
+            228.48,
+            537.6,
+            89.28
+          ],
+          "text": "Emulate HL7 MLLP, DICOM, MQTT, SSH, and a medical web portal",
+          "textPreview": "Emulate HL7 MLLP, DICOM, MQTT, SSH, and a medical web portal",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Emulate HL7 MLLP, DICOM, MQTT, SSH, and a medical web portal",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Emulate HL7 MLLP, DICOM, MQTT, SSH, and a medical web portal",
+                  "fontSize": 12.67,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            633.6,
+            228.48,
+            537.6,
+            89.28
+          ],
+          "text": "Low-latency capture and classification for live alerting",
+          "textPreview": "Low-latency capture and classification for live alerting",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Low-latency capture and classification for live alerting",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Low-latency capture and classification for live alerting",
+                  "fontSize": 12.67,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            96,
+            317.76,
+            537.6,
+            89.28
+          ],
+          "text": "Capture payload, IP, port, timestamp, protocol, and service metadata",
+          "textPreview": "Capture payload, IP, port, timestamp, protocol, and service metadata",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Capture payload, IP, port, timestamp, protocol, and service metadata",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Capture payload, IP, port, timestamp, protocol, and service metadata",
+                  "fontSize": 12.67,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            633.6,
+            317.76,
+            537.6,
+            89.28
+          ],
+          "text": "Secure local evidence storage with tamper-aware hashes",
+          "textPreview": "Secure local evidence storage with tamper-aware hashes",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Secure local evidence storage with tamper-aware hashes",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Secure local evidence storage with tamper-aware hashes",
+                  "fontSize": 12.67,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            96,
+            407.04,
+            537.6,
+            89.28
+          ],
+          "text": "Normalize logs and extract features for ML inference",
+          "textPreview": "Normalize logs and extract features for ML inference",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Normalize logs and extract features for ML inference",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Normalize logs and extract features for ML inference",
+                  "fontSize": 12.67,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            633.6,
+            407.04,
+            537.6,
+            89.28
+          ],
+          "text": "Handle multiple concurrent connections across exposed services",
+          "textPreview": "Handle multiple concurrent connections across exposed services",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Handle multiple concurrent connections across exposed services",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Handle multiple concurrent connections across exposed services",
+                  "fontSize": 12.67,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            96,
+            496.32,
+            537.6,
+            89.28
+          ],
+          "text": "Update dashboard, REST API, SIEM alerts, and local analysis store",
+          "textPreview": "Update dashboard, REST API, SIEM alerts, and local analysis store",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Update dashboard, REST API, SIEM alerts, and local analysis store",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Update dashboard, REST API, SIEM alerts, and local analysis store",
+                  "fontSize": 12.67,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            633.6,
+            496.32,
+            537.6,
+            89.28
+          ],
+          "text": "Clear analyst-facing dashboard for quick interpretation",
+          "textPreview": "Clear analyst-facing dashboard for quick interpretation",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Clear analyst-facing dashboard for quick interpretation",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Clear analyst-facing dashboard for quick interpretation",
+                  "fontSize": 12.67,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

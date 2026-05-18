@@ -1,0 +1,461 @@
+{
+  "outputSlides": [
+    {
+      "outputSlide": 1,
+      "sourceSlide": 1,
+      "narrativeRole": "cover and project identity",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        "title",
+        "body",
+        "tables",
+        "images"
+      ]
+    },
+    {
+      "outputSlide": 2,
+      "sourceSlide": 2,
+      "narrativeRole": "contents",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        "title",
+        "body",
+        "tables",
+        "images"
+      ]
+    },
+    {
+      "outputSlide": 3,
+      "sourceSlide": 3,
+      "narrativeRole": "introduction",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        "title",
+        "body",
+        "tables",
+        "images"
+      ]
+    },
+    {
+      "outputSlide": 4,
+      "sourceSlide": 4,
+      "narrativeRole": "problem statement",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        "title",
+        "body",
+        "tables",
+        "images"
+      ]
+    },
+    {
+      "outputSlide": 5,
+      "sourceSlide": 5,
+      "narrativeRole": "objectives",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        "title",
+        "body",
+        "tables",
+        "images"
+      ]
+    },
+    {
+      "outputSlide": 6,
+      "sourceSlide": 6,
+      "narrativeRole": "literature survey 1",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        "title",
+        "body",
+        "tables",
+        "images"
+      ]
+    },
+    {
+      "outputSlide": 7,
+      "sourceSlide": 7,
+      "narrativeRole": "literature survey 2",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        "title",
+        "body",
+        "tables",
+        "images"
+      ]
+    },
+    {
+      "outputSlide": 8,
+      "sourceSlide": 8,
+      "narrativeRole": "literature survey 3",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        "title",
+        "body",
+        "tables",
+        "images"
+      ]
+    },
+    {
+      "outputSlide": 9,
+      "sourceSlide": 9,
+      "narrativeRole": "literature survey 4",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        "title",
+        "body",
+        "tables",
+        "images"
+      ]
+    },
+    {
+      "outputSlide": 10,
+      "sourceSlide": 10,
+      "narrativeRole": "literature survey 5",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        "title",
+        "body",
+        "tables",
+        "images"
+      ]
+    },
+    {
+      "outputSlide": 11,
+      "sourceSlide": 11,
+      "narrativeRole": "existing system limitations",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        "title",
+        "body",
+        "tables",
+        "images"
+      ]
+    },
+    {
+      "outputSlide": 12,
+      "sourceSlide": 12,
+      "narrativeRole": "functional and non-functional requirements",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        "title",
+        "body",
+        "tables",
+        "images"
+      ]
+    },
+    {
+      "outputSlide": 13,
+      "sourceSlide": 13,
+      "narrativeRole": "system requirements",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        "title",
+        "body",
+        "tables",
+        "images"
+      ]
+    },
+    {
+      "outputSlide": 14,
+      "sourceSlide": 14,
+      "narrativeRole": "tools and technologies",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        "title",
+        "body",
+        "tables",
+        "images"
+      ]
+    },
+    {
+      "outputSlide": 15,
+      "sourceSlide": 15,
+      "narrativeRole": "system design divider",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        "title",
+        "body",
+        "tables",
+        "images"
+      ]
+    },
+    {
+      "outputSlide": 16,
+      "sourceSlide": 16,
+      "narrativeRole": "dataset",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        "title",
+        "body",
+        "tables",
+        "images"
+      ]
+    },
+    {
+      "outputSlide": 17,
+      "sourceSlide": 17,
+      "narrativeRole": "architecture diagram",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        "title",
+        "body",
+        "tables",
+        "images"
+      ]
+    },
+    {
+      "outputSlide": 18,
+      "sourceSlide": 18,
+      "narrativeRole": "architecture components",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        "title",
+        "body",
+        "tables",
+        "images"
+      ]
+    },
+    {
+      "outputSlide": 19,
+      "sourceSlide": 19,
+      "narrativeRole": "detailed design edge and pipeline",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        "title",
+        "body",
+        "tables",
+        "images"
+      ]
+    },
+    {
+      "outputSlide": 20,
+      "sourceSlide": 20,
+      "narrativeRole": "detailed design inference and response",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        "title",
+        "body",
+        "tables",
+        "images"
+      ]
+    },
+    {
+      "outputSlide": 21,
+      "sourceSlide": 21,
+      "narrativeRole": "mathematical model",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        "title",
+        "body",
+        "tables",
+        "images"
+      ]
+    },
+    {
+      "outputSlide": 22,
+      "sourceSlide": 22,
+      "narrativeRole": "standard AI model comparison",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        "title",
+        "body",
+        "tables",
+        "images"
+      ]
+    },
+    {
+      "outputSlide": 23,
+      "sourceSlide": 23,
+      "narrativeRole": "proposed project model",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        "title",
+        "body",
+        "tables",
+        "images"
+      ]
+    },
+    {
+      "outputSlide": 24,
+      "sourceSlide": 24,
+      "narrativeRole": "methodology workflow",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        "title",
+        "body",
+        "tables",
+        "images"
+      ]
+    },
+    {
+      "outputSlide": 25,
+      "sourceSlide": 25,
+      "narrativeRole": "workflow components",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        "title",
+        "body",
+        "tables",
+        "images"
+      ]
+    },
+    {
+      "outputSlide": 26,
+      "sourceSlide": 26,
+      "narrativeRole": "results dashboard",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        "title",
+        "body",
+        "tables",
+        "images"
+      ]
+    },
+    {
+      "outputSlide": 27,
+      "sourceSlide": 27,
+      "narrativeRole": "results model metrics",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        "title",
+        "body",
+        "tables",
+        "images"
+      ]
+    },
+    {
+      "outputSlide": 28,
+      "sourceSlide": 28,
+      "narrativeRole": "results evidence and hashes",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        "title",
+        "body",
+        "tables",
+        "images"
+      ]
+    },
+    {
+      "outputSlide": 29,
+      "sourceSlide": 29,
+      "narrativeRole": "applications",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        "title",
+        "body",
+        "tables",
+        "images"
+      ]
+    },
+    {
+      "outputSlide": 30,
+      "sourceSlide": 30,
+      "narrativeRole": "limitations",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        "title",
+        "body",
+        "tables",
+        "images"
+      ]
+    },
+    {
+      "outputSlide": 31,
+      "sourceSlide": 31,
+      "narrativeRole": "future work",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        "title",
+        "body",
+        "tables",
+        "images"
+      ]
+    },
+    {
+      "outputSlide": 32,
+      "sourceSlide": 32,
+      "narrativeRole": "conclusion",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        "title",
+        "body",
+        "tables",
+        "images"
+      ]
+    },
+    {
+      "outputSlide": 33,
+      "sourceSlide": 33,
+      "narrativeRole": "references 1",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        "title",
+        "body",
+        "tables",
+        "images"
+      ]
+    },
+    {
+      "outputSlide": 34,
+      "sourceSlide": 34,
+      "narrativeRole": "references 2",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        "title",
+        "body",
+        "tables",
+        "images"
+      ]
+    },
+    {
+      "outputSlide": 35,
+      "sourceSlide": 35,
+      "narrativeRole": "references 3",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        "title",
+        "body",
+        "tables",
+        "images"
+      ]
+    },
+    {
+      "outputSlide": 36,
+      "sourceSlide": 36,
+      "narrativeRole": "references 4",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        "title",
+        "body",
+        "tables",
+        "images"
+      ]
+    },
+    {
+      "outputSlide": 37,
+      "sourceSlide": 36,
+      "narrativeRole": "references 5",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        "title",
+        "body",
+        "tables",
+        "images"
+      ]
+    },
+    {
+      "outputSlide": 38,
+      "sourceSlide": 37,
+      "narrativeRole": "thank you",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        "title",
+        "body",
+        "tables",
+        "images"
+      ]
+    }
+  ],
+  "omittedSourceSlides": []
+}

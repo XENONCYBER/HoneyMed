@@ -1,0 +1,683 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/yeux5g",
+    "id": "yeux5g",
+    "slide": 1,
+    "layoutId": "/ppt/slideLayouts/slideLayout7.xml",
+    "layoutName": "Blank",
+    "layoutType": "blank",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Organic",
+    "colors": {
+      "accent1": "#83992A",
+      "accent2": "#3C9770",
+      "accent3": "#44709D",
+      "accent4": "#A23C33",
+      "accent5": "#D97828",
+      "accent6": "#DEB340",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#212121",
+      "lt2": "#DADADA",
+      "hlink": "#A8BF4D",
+      "folHlink": "#B4CA80"
+    },
+    "typefaces": [
+      "+mj-lt",
+      "+mn-lt"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout7.xml",
+      "name": "Blank",
+      "type": "blank",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout7.xml/2",
+          "id": "2",
+          "name": "Date Placeholder 1",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout7.xml/3",
+          "id": "3",
+          "name": "Footer Placeholder 2",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "image",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/10",
+          "id": "10",
+          "name": "Picture 7",
+          "bbox": [
+            0,
+            0,
+            1279.67,
+            719.81
+          ],
+          "contentType": "image/png",
+          "asset": {
+            "assetId": "/ppt/media/image3.png",
+            "contentType": "image/png",
+            "byteLength": 182409
+          },
+          "fillImage": {
+            "assetId": "/ppt/media/image3.png",
+            "contentType": "image/png",
+            "byteLength": 182409
+          }
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/9",
+          "id": "9",
+          "name": "Rectangle 8",
+          "bbox": [
+            63.83,
+            64,
+            1152,
+            592
+          ],
+          "geometry": "rect",
+          "lineWidth": 1.67
+        },
+        {
+          "order": 3,
+          "kind": "image",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/11",
+          "id": "11",
+          "name": "Picture 9",
+          "bbox": [
+            -1.65,
+            331.11,
+            81.6,
+            63.67
+          ],
+          "contentType": "image/png",
+          "asset": {
+            "assetId": "/ppt/media/image4.png",
+            "contentType": "image/png",
+            "byteLength": 3535
+          },
+          "fillImage": {
+            "assetId": "/ppt/media/image4.png",
+            "contentType": "image/png",
+            "byteLength": 3535
+          }
+        },
+        {
+          "order": 4,
+          "kind": "image",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/12",
+          "id": "12",
+          "name": "Picture 10",
+          "bbox": [
+            1200.73,
+            331.11,
+            81.6,
+            63.67
+          ],
+          "contentType": "image/png",
+          "asset": {
+            "assetId": "/ppt/media/image4.png",
+            "contentType": "image/png",
+            "byteLength": 3535
+          },
+          "fillImage": {
+            "assetId": "/ppt/media/image4.png",
+            "contentType": "image/png",
+            "byteLength": 3535
+          }
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "Title Placeholder 1",
+          "bbox": [
+            136,
+            103.11,
+            1008,
+            136.89
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 6,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "Text Placeholder 2",
+          "bbox": [
+            136,
+            268.44,
+            1008,
+            348.44
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 7,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            911.02,
+            626.67,
+            168,
+            29.33
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 8,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            136,
+            626.67,
+            767.02,
+            29.33
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 9,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "Slide Number Placeholder 5",
+          "bbox": [
+            1087.02,
+            626.67,
+            56.98,
+            29.33
+          ],
+          "geometry": "rect"
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/w7mp0bi9",
+      "id": "7",
+      "name": "Google Shape;106;p13",
+      "bbox": [
+        66.84,
+        65.11,
+        315.44,
+        89.64
+      ],
+      "contentType": "image/png",
+      "asset": {
+        "assetId": "/ppt/media/image7.png",
+        "contentType": "image/png",
+        "byteLength": 59117
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image7.png",
+        "contentType": "image/png",
+        "byteLength": 59117
+      }
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/val87ed8",
+      "id": "5",
+      "name": "Google Shape;107;p13",
+      "bbox": [
+        573.9,
+        67.51,
+        564.8,
+        87.24
+      ],
+      "geometry": "rect",
+      "text": "Department of  CSE(Cyber Security) \nB.E , 6th SEMESTER  ",
+      "textPreview": "Department of  CSE(Cyber Security)  | B.E , 6th SEMESTER",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Department of  CSE(Cyber Security)"
+          },
+          {
+            "index": 2,
+            "text": "B.E , 6th SEMESTER"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Department of  CSE(Cyber Security) ",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Department of  CSE(Cyber Security) ",
+              "fontSize": 32,
+              "color": "dk1",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "text": "B.E , 6th SEMESTER  ",
+          "runs": [
+            {
+              "index": 1,
+              "text": "B.E , 6",
+              "fontSize": 32,
+              "color": "dk1",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "th",
+              "fontSize": 32,
+              "color": "dk1",
+              "bold": true
+            },
+            {
+              "index": 3,
+              "text": " SEMESTER ",
+              "fontSize": 32,
+              "color": "dk1",
+              "bold": true
+            },
+            {
+              "index": 4,
+              "text": " ",
+              "fontSize": 32,
+              "color": "dk1",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kre1w7mp",
+      "id": "6",
+      "name": "TextBox 5",
+      "bbox": [
+        120.84,
+        226.77,
+        1038.31,
+        255.27
+      ],
+      "geometry": "rect",
+      "text": "Title\n\n\n\n\n\n\n\n",
+      "textPreview": "Title |  |  |  |  |  |  |  |",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 9,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Title"
+          },
+          {
+            "index": 2,
+            "text": ""
+          },
+          {
+            "index": 3,
+            "text": ""
+          },
+          {
+            "index": 4,
+            "text": ""
+          },
+          {
+            "index": 5,
+            "text": ""
+          },
+          {
+            "index": 6,
+            "text": ""
+          },
+          {
+            "index": 7,
+            "text": ""
+          },
+          {
+            "index": 8,
+            "text": ""
+          },
+          {
+            "index": 9,
+            "text": ""
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Title",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Title",
+              "fontSize": 37.33,
+              "typeface": "+mj-lt",
+              "color": "accent1",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/72x4nap4",
+      "id": "8",
+      "name": "Table 6",
+      "bbox": [
+        253.76,
+        310.68,
+        748.06,
+        283.38
+      ],
+      "text": "Team members Name  | Ishan Chitkarsh\nPrathmesh Sayal\nTeam members USN | 1MS23CY023\n1MS23CY049\nGuide Name | Dr. Vishalakshi Prabhu",
+      "textPreview": "Team members Name  | Ishan Chitkarsh | Prathmesh Sayal | Team members USN | 1MS23CY023 | 1MS23CY049 | Guide Name | Dr. Vishalakshi Prabhu",
+      "rows": 3,
+      "cols": 2,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            253.76,
+            310.68,
+            333.96,
+            110.47
+          ],
+          "text": "Team members Name ",
+          "textPreview": "Team members Name",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Team members Name ",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Team members Name ",
+                  "fontSize": 26.67,
+                  "typeface": "+mn-lt",
+                  "color": "tx1",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            587.71,
+            310.68,
+            414.11,
+            110.47
+          ],
+          "text": "Ishan Chitkarsh\nPrathmesh Sayal",
+          "textPreview": "Ishan Chitkarsh | Prathmesh Sayal",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Ishan Chitkarsh",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Ishan ",
+                  "fontSize": 26.67,
+                  "typeface": "+mn-lt",
+                  "color": "tx1",
+                  "bold": true
+                },
+                {
+                  "index": 2,
+                  "text": "Chitkarsh",
+                  "fontSize": 26.67,
+                  "typeface": "+mn-lt",
+                  "color": "tx1",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "Prathmesh Sayal",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Prathmesh Sayal",
+                  "fontSize": 26.67,
+                  "typeface": "+mn-lt",
+                  "color": "tx1",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            253.76,
+            421.15,
+            333.96,
+            110.47
+          ],
+          "text": "Team members USN",
+          "textPreview": "Team members USN",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Team members USN",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Team members ",
+                  "fontSize": 26.67,
+                  "typeface": "+mn-lt",
+                  "color": "tx1",
+                  "bold": true
+                },
+                {
+                  "index": 2,
+                  "text": "USN",
+                  "fontSize": 26.67,
+                  "typeface": "+mn-lt",
+                  "color": "tx1",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            587.71,
+            421.15,
+            414.11,
+            110.47
+          ],
+          "text": "1MS23CY023\n1MS23CY049",
+          "textPreview": "1MS23CY023 | 1MS23CY049",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "1MS23CY023",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "1MS23CY023",
+                  "fontSize": 26.67,
+                  "typeface": "+mn-lt",
+                  "color": "tx1",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "1MS23CY049",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "1MS23CY049",
+                  "fontSize": 26.67,
+                  "typeface": "+mn-lt",
+                  "color": "tx1",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            253.76,
+            531.62,
+            333.96,
+            62.44
+          ],
+          "text": "Guide Name",
+          "textPreview": "Guide Name",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Guide Name",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Guide Name",
+                  "fontSize": 26.67,
+                  "typeface": "+mn-lt",
+                  "color": "tx1",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            587.71,
+            531.62,
+            414.11,
+            62.44
+          ],
+          "text": "Dr. Vishalakshi Prabhu",
+          "textPreview": "Dr. Vishalakshi Prabhu",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Dr. Vishalakshi Prabhu",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Dr. Vishalakshi Prabhu",
+                  "fontSize": 26.67,
+                  "typeface": "+mn-lt",
+                  "color": "tx1",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

@@ -1,0 +1,72 @@
+{"kind":"slide","id":"sl/2x4nap4r","slide":2,"title":"An Intelligent Honeypot Framework for Attack Detection in IoMT Networks","textShapes":4}
+{"kind":"textbox","id":"sh/cvixczed","slide":2,"textChars":71,"textLines":1}
+{"kind":"textbox","id":"sh/5gbq1ory","slide":2,"textChars":63,"textLines":6}
+{"kind":"textbox","id":"sh/nyd0z610","slide":2,"textChars":110,"textLines":3}
+{"kind":"textbox","id":"sh/cj6tovah","slide":2,"textChars":64,"textLines":3}
+{"kind":"image","id":"im/4byhgn29","slide":2,"name":"Picture 3","bbox":[13.86,7.58,401.64,114.13]}
+{"kind":"slide","id":"sl/pg3ex0nu","slide":3,"title":"Agenda","textShapes":2}
+{"kind":"textbox","id":"sh/5o7qpg3e","slide":3,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/g3ex0nux","slide":3,"textChars":181,"textLines":4}
+{"kind":"shape","id":"sh/r65wjudg","slide":3,"name":"Slide Number Placeholder 3","bbox":[0,0,0,0]}
+{"kind":"slide","id":"sl/s72x4nap","slide":4,"title":"Abstract","textShapes":2}
+{"kind":"textbox","id":"sh/o7qpg3ex","slide":4,"textChars":8,"textLines":1}
+{"kind":"textbox","id":"sh/dsji5sne","slide":4,"textChars":700,"textLines":2}
+{"kind":"shape","id":"sh/6dcbulwv","slide":4,"name":"Slide Number Placeholder 3","bbox":[0,0,0,0]}
+{"kind":"slide","id":"sl/val87ed8","slide":5,"title":"Introduction","textShapes":2}
+{"kind":"textbox","id":"sh/qtcj6tov","slide":5,"textChars":13,"textLines":2}
+{"kind":"textbox","id":"sh/je9cvixc","slide":5,"textChars":171,"textLines":5}
+{"kind":"shape","id":"sh/87ed8bat","slide":5,"name":"Slide Number Placeholder 3","bbox":[0,0,0,0]}
+{"kind":"slide","id":"sl/mlkjm1cf","slide":6,"title":"Incorporation of Suggestions","textShapes":2}
+{"kind":"textbox","id":"sh/ovahoza1","slide":6,"textChars":28,"textLines":1}
+{"kind":"textbox","id":"sh/dg7adsji","slide":6,"textChars":28,"textLines":1}
+{"kind":"shape","id":"sh/6hcrmhk3","slide":6,"name":"Slide Number Placeholder 3","bbox":[0,0,0,0]}
+{"kind":"slide","id":"sl/58z25kb6","slide":7,"title":"Literature Survey/Related Work (2021-2026) Papers (Phase 2)","textShapes":1}
+{"kind":"textbox","id":"sh/ylc7u54z","slide":7,"textChars":60,"textLines":2}
+{"kind":"shape","id":"sh/g3ex0nux","slide":7,"name":"Slide Number Placeholder 3","bbox":[0,0,0,0]}
+{"kind":"table","id":"tb/cvixczed","slide":7,"name":"Content Placeholder 4","rows":6,"cols":6,"preview":"Sl.No | Authors | Paper Title | Limitations | Publisher | Year","bbox":[60.68,160.04,1176,507.29]}
+{"kind":"slide","id":"sl/0z61032l","slide":8,"title":"Literature Survey/Related Work (2021-2026) Papers (Phase 2)","textShapes":1}
+{"kind":"textbox","id":"sh/x4nap4r6","slide":8,"textChars":60,"textLines":2}
+{"kind":"shape","id":"sh/8jqh0fep","slide":8,"name":"Content Placeholder 2","bbox":[82.09,137.02,1104,456.83]}
+{"kind":"shape","id":"sh/fa9w3m94","slide":8,"name":"Slide Number Placeholder 3","bbox":[0,0,0,0]}
+{"kind":"table","id":"tb/z61032ls","slide":8,"name":"Content Placeholder 4","rows":6,"cols":6,"preview":"Sl.No | Authors | Paper Title | Limitations | Publisher | Year","bbox":[82.09,137.02,1142.28,530.03]}
+{"kind":"slide","id":"sl/fu18jqh0","slide":9,"title":"Literature Survey/Related Work(Phase 2)","textShapes":1}
+{"kind":"textbox","id":"sh/u9knih4b","slide":9,"textChars":41,"textLines":2}
+{"kind":"shape","id":"sh/c7u54zid","slide":9,"name":"Slide Number Placeholder 3","bbox":[0,0,0,0]}
+{"kind":"table","id":"tb/0z61032l","slide":9,"name":"Content Placeholder 4","rows":6,"cols":6,"preview":"Sl.No | Authors | Paper Title | Limitations | Publisher | Year","bbox":[76.18,113.39,1162,507.29]}
+{"kind":"slide","id":"sl/qh0fepkz","slide":10,"title":"Problem Statement","textShapes":2}
+{"kind":"textbox","id":"sh/ovahoza1","slide":10,"textChars":18,"textLines":2}
+{"kind":"textbox","id":"sh/dg7adsji","slide":10,"textChars":492,"textLines":1}
+{"kind":"shape","id":"sh/6hcrmhk3","slide":10,"name":"Slide Number Placeholder 3","bbox":[0,0,0,0]}
+{"kind":"slide","id":"sl/29gr2p8n","slide":11,"title":"Research Gap","textShapes":2}
+{"kind":"textbox","id":"sh/9gr2p8nq","slide":11,"textChars":12,"textLines":1}
+{"kind":"shape","id":"sh/r2p8nqxs","slide":11,"name":"Slide Number Placeholder 3","bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/2hwfyxob","slide":11,"textChars":926,"textLines":5}
+{"kind":"slide","id":"sl/re1w7mp0","slide":12,"title":"Project Objectives","textShapes":2}
+{"kind":"textbox","id":"sh/6tovahoz","slide":12,"textChars":19,"textLines":1}
+{"kind":"shape","id":"sh/onyd0z61","slide":12,"name":"Slide Number Placeholder 3","bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/d8v6psfi","slide":12,"textChars":1000,"textLines":7}
+{"kind":"slide","id":"sl/4fu18jqh","slide":13,"title":"Dataset Description","textShapes":2}
+{"kind":"textbox","id":"sh/s72x4nap","slide":13,"textChars":19,"textLines":1}
+{"kind":"shape","id":"sh/adsji5sn","slide":13,"name":"Slide Number Placeholder 3","bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/3ylc7u54","slide":13,"textChars":744,"textLines":3}
+{"kind":"slide","id":"sl/lwval87e","slide":14,"title":"Proposed System Architecture","textShapes":1}
+{"kind":"textbox","id":"sh/l0rqd4vm","slide":14,"textChars":28,"textLines":1}
+{"kind":"shape","id":"sh/36hcrmhk","slide":14,"name":"Slide Number Placeholder 3","bbox":[0,0,0,0]}
+{"kind":"image","id":"im/7qpg3ex0","slide":14,"name":"Picture 5","bbox":[78.15,147.61,1123.71,549.61]}
+{"kind":"slide","id":"sl/25kb6xkf","slide":15,"title":"Algorithms/Techniques planned to be used","textShapes":2}
+{"kind":"textbox","id":"sh/kre1w7mp","slide":15,"textChars":41,"textLines":1}
+{"kind":"textbox","id":"sh/dcbulwva","slide":15,"textChars":349,"textLines":10}
+{"kind":"shape","id":"sh/2x4nap4r","slide":15,"name":"Slide Number Placeholder 3","bbox":[0,0,0,0]}
+{"kind":"slide","id":"sl/7y1kre1w","slide":16,"title":"Implementation Plan","textShapes":1}
+{"kind":"textbox","id":"sh/yd0z6103","slide":16,"textChars":19,"textLines":1}
+{"kind":"shape","id":"sh/g7adsji5","slide":16,"name":"Slide Number Placeholder 3","bbox":[0,0,0,0]}
+{"kind":"image","id":"im/w7mp0bi9","slide":16,"name":"Picture 2","bbox":[36.92,216.37,1224.8,196.43]}
+{"kind":"slide","id":"sl/8z25kb6x","slide":17,"title":"Expected Outcomes","textShapes":2}
+{"kind":"textbox","id":"sh/pg3ex0nu","slide":17,"textChars":17,"textLines":1}
+{"kind":"shape","id":"sh/7mp0bi9s","slide":17,"name":"Slide Number Placeholder 3","bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/psfil0rq","slide":17,"textChars":713,"textLines":5}
+{"kind":"slide","id":"sl/54zidony","slide":18,"title":"References","textShapes":2}
+{"kind":"textbox","id":"sh/x0nuxc3y","slide":18,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/4fu18jqh","slide":18,"textChars":1582,"textLines":15}
+{"kind":"shape","id":"sh/fil0rqd4","slide":18,"name":"Slide Number Placeholder 3","bbox":[0,0,0,0]}
+{"kind":"notice","message":"Truncated: omitted 0 lines. Increase maxChars or narrow target."}

@@ -1,0 +1,1 @@
+Sources inspected: target Mini Project Presentation-CSE(Cyber Security).pptx, phase1.pptx, Phase2_mp.pptx, Phase3.pptx, project report.pdf, and existing project artifact images under artifacts/. Reused source/project images include system architecture, dashboard screenshots, model metric visuals, confusion matrix, feature importance, and event/hash dashboard evidence.

@@ -1,0 +1,394 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/gfmlkjm1",
+    "id": "gfmlkjm1",
+    "slide": 28,
+    "layoutId": "/ppt/slideLayouts/slideLayout8.xml",
+    "layoutName": "Title and Content",
+    "layoutType": "obj",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Organic",
+    "colors": {
+      "accent1": "#83992A",
+      "accent2": "#3C9770",
+      "accent3": "#44709D",
+      "accent4": "#A23C33",
+      "accent5": "#D97828",
+      "accent6": "#DEB340",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#212121",
+      "lt2": "#DADADA",
+      "hlink": "#A8BF4D",
+      "folHlink": "#B4CA80"
+    },
+    "typefaces": [
+      "+mn-lt",
+      "Arial"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout8.xml",
+      "name": "Title and Content",
+      "type": "obj",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout8.xml/2",
+          "id": "2",
+          "name": "Title 1",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout8.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout8.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "Title Placeholder 1",
+          "bbox": [
+            136,
+            103.11,
+            1008,
+            136.89
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "Text Placeholder 2",
+          "bbox": [
+            136,
+            268.44,
+            1008,
+            348.44
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            911.02,
+            626.67,
+            168,
+            29.33
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            136,
+            626.67,
+            767.02,
+            29.33
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "Slide Number Placeholder 5",
+          "bbox": [
+            1087.02,
+            626.67,
+            56.98,
+            29.33
+          ],
+          "geometry": "rect"
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8jqh0fep",
+      "id": "2",
+      "name": "TextBox 1",
+      "bbox": [
+        96,
+        46.08,
+        1089.6,
+        46.08
+      ],
+      "geometry": "rect",
+      "text": "Results & Discussion",
+      "textPreview": "Results & Discussion",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Results & Discussion"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Results & Discussion",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Results & Discussion",
+              "fontSize": 26.67,
+              "typeface": "Arial",
+              "color": "#1E1E1E",
+              "bold": true,
+              "alignment": "center"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/yhgn29gr",
+      "id": "5",
+      "name": "Picture 2",
+      "bbox": [
+        62.4,
+        136.67,
+        595.2,
+        341.07
+      ],
+      "contentType": "image/png",
+      "asset": {
+        "assetId": "/ppt/media/image5.png",
+        "contentType": "image/png",
+        "byteLength": 98557
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image5.png",
+        "contentType": "image/png",
+        "byteLength": 98557
+      }
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qpg3ex0n",
+      "id": "4",
+      "name": "TextBox 3",
+      "bbox": [
+        672,
+        139.2,
+        513.6,
+        364.8
+      ],
+      "geometry": "rect",
+      "text": "Current selected model: Random Forest from the latest training artifact.\nClasses: Benign, DoS, PortScan, BruteForce, Reconnaissance.\nWhy it matters: fast enough for edge inference while keeping analyst-facing confidence scores.\nValidation: project stores model reports, confusion matrix, feature importance, and dashboard evidence.",
+      "textPreview": "Current selected model: Random Forest from the latest training artifact. | Classes: Benign, DoS, PortScan, BruteForce, Reconnaissance. | ...",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 7,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Current selected model: Random Forest from the latest training"
+          },
+          {
+            "index": 2,
+            "text": "artifact."
+          },
+          {
+            "index": 3,
+            "text": "Classes: Benign, DoS, PortScan, BruteForce, Reconnaissance."
+          },
+          {
+            "index": 4,
+            "text": "Why it matters: fast enough for edge inference while keeping"
+          },
+          {
+            "index": 5,
+            "text": "analyst-facing confidence scores."
+          },
+          {
+            "index": 6,
+            "text": "Validation: project stores model reports, confusion matrix,"
+          },
+          {
+            "index": 7,
+            "text": "feature importance, and dashboard evidence."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Current selected model: Random Forest from the latest training artifact.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Current selected model: ",
+              "fontSize": 17.33,
+              "typeface": "Arial",
+              "color": "#43612B",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "Random Forest from the latest training artifact.",
+              "fontSize": 17.33,
+              "typeface": "Arial",
+              "color": "#464646"
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "text": "Classes: Benign, DoS, PortScan, BruteForce, Reconnaissance.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Classes: ",
+              "fontSize": 17.33,
+              "typeface": "Arial",
+              "color": "#43612B",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "Benign, DoS, PortScan, BruteForce, Reconnaissance.",
+              "fontSize": 17.33,
+              "typeface": "Arial",
+              "color": "#464646"
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "text": "Why it matters: fast enough for edge inference while keeping analyst-facing confidence scores.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Why it matters: ",
+              "fontSize": 17.33,
+              "typeface": "Arial",
+              "color": "#43612B",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "fast enough for edge inference while keeping analyst-facing confidence scores.",
+              "fontSize": 17.33,
+              "typeface": "Arial",
+              "color": "#464646"
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "text": "Validation: project stores model reports, confusion matrix, feature importance, and dashboard evidence.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Validation: ",
+              "fontSize": 17.33,
+              "typeface": "Arial",
+              "color": "#43612B",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "project stores model reports, confusion matrix, feature importance, and dashboard evidence.",
+              "fontSize": 17.33,
+              "typeface": "Arial",
+              "color": "#464646"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

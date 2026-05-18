@@ -1,0 +1,506 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/fu18jqh0",
+    "id": "fu18jqh0",
+    "slide": 9,
+    "layoutId": "/ppt/slideLayouts/slideLayout2.xml",
+    "layoutName": "Title and Content",
+    "layoutType": "obj",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office",
+    "colors": {
+      "accent1": "#5B9BD5",
+      "accent2": "#ED7D31",
+      "accent3": "#A5A5A5",
+      "accent4": "#FFC000",
+      "accent5": "#4472C4",
+      "accent6": "#70AD47",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#44546A",
+      "lt2": "#E7E6E6",
+      "hlink": "#0563C1",
+      "folHlink": "#954F72"
+    },
+    "typefaces": [
+      "+mn-lt",
+      "Arial",
+      "Arial Unicode MS",
+      "Times New Roman"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout2.xml",
+      "name": "Title and Content",
+      "type": "obj",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/2",
+          "id": "2",
+          "name": "Title 1",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 4,
+          "kind": "image",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/7",
+          "id": "7",
+          "name": "Picture 6",
+          "bbox": [
+            1116.17,
+            2.64,
+            151.66,
+            43.05
+          ],
+          "contentType": "image/png",
+          "asset": {
+            "assetId": "/ppt/media/image2.png",
+            "contentType": "image/png",
+            "byteLength": 57155
+          },
+          "fillImage": {
+            "assetId": "/ppt/media/image2.png",
+            "contentType": "image/png",
+            "byteLength": 57155
+          }
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "Title Placeholder 1",
+          "bbox": [
+            88,
+            38.33,
+            1104,
+            139.17
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "Text Placeholder 2",
+          "bbox": [
+            88,
+            191.67,
+            1104,
+            456.83
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            88,
+            667.33,
+            288,
+            38.33
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            424,
+            667.33,
+            432,
+            38.33
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "Slide Number Placeholder 5",
+          "bbox": [
+            904,
+            667.33,
+            288,
+            38.33
+          ],
+          "geometry": "rect"
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/u9knih4b",
+      "id": "2",
+      "name": "Title 1",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "text": "Project Objectives ",
+      "textPreview": "Project Objectives",
+      "resolvedFontSize": 58.67,
+      "resolvedTextStyle": {
+        "fontSize": 58.67,
+        "typeface": "Times New Roman",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Project Objectives"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Project Objectives ",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Project Objectives "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/c7u54zid",
+      "id": "4",
+      "name": "Slide Number Placeholder 3",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      }
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1orytsvu",
+      "id": "5",
+      "name": "Rectangle 1",
+      "bbox": [
+        62.67,
+        175.23,
+        1137.33,
+        494.38
+      ],
+      "geometry": "rect",
+      "text": "Develop an Edge-Based IoMT Honeypot: Design and deploy a custom, medium-interaction decoy on a Raspberry Pi that convincingly simulates specific medical device protocols (such as HL7, DICOM, MQTT, and a Web UI) to attract and log malicious activities.\n\nEstablish a Real-Time Data Pipeline: Implement an automated feature extraction system to capture raw network traffic (.pcap), convert it into structured data, and securely process it (using SHA-256 hashing and SQLite) for immediate analysis.\n\nImplement AI/ML-Driven Threat Detection: Train and deploy a Machine Learning inference engine (using algorithms like Random Forest or XGBoost) to accurately classify incoming traffic and identify specific attack vectors (e.g., DoS, Port Scans, Brute Force) in real-time.\n\nCreate a Threat Intelligence Dashboard: Build an interactive, real-time visualization dashboard (using Streamlit and a REST API) to monitor attacker activities, display threat classifications, and provide actionable security alerts.",
+      "textPreview": "Develop an Edge-Based IoMT Honeypot: Design and deploy a custom, medium-interaction decoy on a Raspberry Pi that convincingly simulates s...",
+      "resolvedFontSize": 37.33,
+      "resolvedTextStyle": {
+        "fontSize": 37.33,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 15,
+        "lines": [
+          {
+            "index": 1,
+            "text": "• Develop an Edge-Based IoMT Honeypot: Design and deploy a custom, medium-interaction"
+          },
+          {
+            "index": 2,
+            "text": "decoy on a Raspberry Pi that convincingly simulates specific medical device protocols (such"
+          },
+          {
+            "index": 3,
+            "text": "as HL7, DICOM, MQTT, and a Web UI) to attract and log malicious activities."
+          },
+          {
+            "index": 4,
+            "text": ""
+          },
+          {
+            "index": 5,
+            "text": "• Establish a Real-Time Data Pipeline: Implement an automated feature extraction system to"
+          },
+          {
+            "index": 6,
+            "text": "capture raw network traffic (.pcap), convert it into structured data, and securely process it"
+          },
+          {
+            "index": 7,
+            "text": "(using SHA-256 hashing and SQLite) for immediate analysis."
+          },
+          {
+            "index": 8,
+            "text": ""
+          },
+          {
+            "index": 9,
+            "text": "• Implement AI/ML-Driven Threat Detection: Train and deploy a Machine Learning inference"
+          },
+          {
+            "index": 10,
+            "text": "engine (using algorithms like Random Forest or XGBoost) to accurately classify incoming"
+          },
+          {
+            "index": 11,
+            "text": "traffic and identify specific attack vectors (e.g., DoS, Port Scans, Brute Force) in real-time."
+          },
+          {
+            "index": 12,
+            "text": ""
+          },
+          {
+            "index": 13,
+            "text": "• Create a Threat Intelligence Dashboard: Build an interactive, real-time visualization"
+          },
+          {
+            "index": 14,
+            "text": "dashboard (using Streamlit and a REST API) to monitor attacker activities, display threat"
+          },
+          {
+            "index": 15,
+            "text": "classifications, and provide actionable security alerts."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Develop an Edge-Based IoMT Honeypot: Design and deploy a custom, medium-interaction decoy on a Raspberry Pi that convincingly simulates specific medical device protocols (such as HL7, DICOM, MQTT, and a Web UI) to attract and log malicious activities.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Develop an Edge-Based IoMT Honeypot:",
+              "fontSize": 26.67,
+              "typeface": "Arial",
+              "color": "tx1",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": " Design and deploy a custom, medium-interaction decoy on a Raspberry Pi that convincingly simulates specific medical device protocols (such as HL7, DICOM, MQTT, and a Web UI) to attract and log malicious activities.",
+              "fontSize": 26.67,
+              "typeface": "Arial",
+              "color": "tx1"
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "text": "Establish a Real-Time Data Pipeline: Implement an automated feature extraction system to capture raw network traffic (.pcap), convert it into structured data, and securely process it (using SHA-256 hashing and SQLite) for immediate analysis.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Establish a Real-Time Data Pipeline:",
+              "fontSize": 26.67,
+              "typeface": "Arial",
+              "color": "tx1",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": " Implement an automated feature extraction system to capture raw network traffic (",
+              "fontSize": 26.67,
+              "typeface": "Arial",
+              "color": "tx1"
+            },
+            {
+              "index": 3,
+              "text": ".",
+              "fontSize": 26.67,
+              "typeface": "Arial Unicode MS",
+              "color": "tx1"
+            },
+            {
+              "index": 4,
+              "text": "pcap",
+              "fontSize": 26.67,
+              "typeface": "Arial Unicode MS",
+              "color": "tx1"
+            },
+            {
+              "index": 5,
+              "text": "), ",
+              "fontSize": 26.67,
+              "color": "tx1"
+            },
+            {
+              "index": 6,
+              "text": "convert it into structured data, and securely process it (using SHA-256 hashing and SQLite) for immediate analysis.",
+              "fontSize": 26.67,
+              "typeface": "Arial",
+              "color": "tx1"
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "text": "Implement AI/ML-Driven Threat Detection: Train and deploy a Machine Learning inference engine (using algorithms like Random Forest or XGBoost) to accurately classify incoming traffic and identify specific attack vectors (e.g., DoS, Port Scans, Brute Force) in real-time.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Implement AI/ML-Driven Threat Detection:",
+              "fontSize": 26.67,
+              "typeface": "Arial",
+              "color": "tx1",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": " Train and deploy a Machine Learning inference engine (using algorithms like Random Forest or ",
+              "fontSize": 26.67,
+              "typeface": "Arial",
+              "color": "tx1"
+            },
+            {
+              "index": 3,
+              "text": "XGBoost",
+              "fontSize": 26.67,
+              "typeface": "Arial",
+              "color": "tx1"
+            },
+            {
+              "index": 4,
+              "text": ") to accurately classify incoming traffic and identify specific attack vectors (e.g., DoS, Port Scans, Brute Force) in real-time.",
+              "fontSize": 26.67,
+              "typeface": "Arial",
+              "color": "tx1"
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "text": "Create a Threat Intelligence Dashboard: Build an interactive, real-time visualization dashboard (using Streamlit and a REST API) to monitor attacker activities, display threat classifications, and provide actionable security alerts.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Create a Threat Intelligence Dashboard:",
+              "fontSize": 26.67,
+              "typeface": "Arial",
+              "color": "tx1",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": " Build an interactive, real-time visualization dashboard (using ",
+              "fontSize": 26.67,
+              "typeface": "Arial",
+              "color": "tx1"
+            },
+            {
+              "index": 3,
+              "text": "Streamlit",
+              "fontSize": 26.67,
+              "typeface": "Arial",
+              "color": "tx1"
+            },
+            {
+              "index": 4,
+              "text": " and a REST API) to monitor attacker activities, display threat classifications, and provide actionable security alerts.",
+              "fontSize": 26.67,
+              "typeface": "Arial",
+              "color": "tx1"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

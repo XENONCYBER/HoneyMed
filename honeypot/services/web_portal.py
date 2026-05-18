@@ -107,7 +107,13 @@ FAKE_VITALS = {
 # ---------------------------------------------------------------------------
 @app.before_request
 def log_every_request():
-    """Capture every single request hitting the honeypot."""
+    """Capture every single request hitting the honeypot.
+
+    Internal pipeline polling uses /internal/* and should not be
+    recorded, otherwise the pipeline creates its own DoS-like noise.
+    """
+    if request.path.startswith("/internal/"):
+        return
     _capture_event("HTTP_REQUEST", {
         "headers": dict(request.headers),
         "query_params": dict(request.args),

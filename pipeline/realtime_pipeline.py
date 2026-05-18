@@ -218,11 +218,29 @@ class RealTimePipeline:
         self.total_processed = 0
         self.total_attacks = 0
 
+        # Skip already-captured honeypot history so live demo mode starts
+        # from the current tip instead of reprocessing old noise.
+        self._prime_event_cursor()
+
         # Lazy-loaded integration modules (Phase 8 / Phase 11)
         self._hash_protocol = None
         self._auto_responder = None
 
         init_database()
+
+    def _prime_event_cursor(self):
+        """Start from the current honeypot event count, if available."""
+        try:
+            resp = requests.get(f"{self.honeypot_url}/internal/events", timeout=3)
+            if resp.status_code == 200:
+                self.last_event_count = len(resp.json())
+                logger.info(
+                    f"Primed pipeline cursor at {self.last_event_count} existing events; "
+                    "new traffic only will be processed."
+                )
+        except Exception:
+            # If the honeypot is not up yet, fall back to normal startup.
+            pass
 
     def _get_hash_protocol(self):
         """Lazy-load the blockchain hash protocol (Phase 8)."""

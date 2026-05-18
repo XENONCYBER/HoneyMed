@@ -1,0 +1,971 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/fu18jqh0",
+    "id": "fu18jqh0",
+    "slide": 9,
+    "layoutId": "/ppt/slideLayouts/slideLayout8.xml",
+    "layoutName": "Title and Content",
+    "layoutType": "obj",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Organic",
+    "colors": {
+      "accent1": "#83992A",
+      "accent2": "#3C9770",
+      "accent3": "#44709D",
+      "accent4": "#A23C33",
+      "accent5": "#D97828",
+      "accent6": "#DEB340",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#212121",
+      "lt2": "#DADADA",
+      "hlink": "#A8BF4D",
+      "folHlink": "#B4CA80"
+    },
+    "typefaces": [
+      "+mn-lt",
+      "Arial"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout8.xml",
+      "name": "Title and Content",
+      "type": "obj",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout8.xml/2",
+          "id": "2",
+          "name": "Title 1",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout8.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout8.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "Title Placeholder 1",
+          "bbox": [
+            136,
+            103.11,
+            1008,
+            136.89
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "Text Placeholder 2",
+          "bbox": [
+            136,
+            268.44,
+            1008,
+            348.44
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            911.02,
+            626.67,
+            168,
+            29.33
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            136,
+            626.67,
+            767.02,
+            29.33
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "Slide Number Placeholder 5",
+          "bbox": [
+            1087.02,
+            626.67,
+            56.98,
+            29.33
+          ],
+          "geometry": "rect"
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/u9knih4b",
+      "id": "2",
+      "name": "TextBox 1",
+      "bbox": [
+        96,
+        46.08,
+        1089.6,
+        46.08
+      ],
+      "geometry": "rect",
+      "text": "Literature Survey (11-15)",
+      "textPreview": "Literature Survey (11-15)",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Literature Survey (11-15)"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Literature Survey (11-15)",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Literature Survey (11-15)",
+              "fontSize": 26.67,
+              "typeface": "Arial",
+              "color": "#1E1E1E",
+              "bold": true,
+              "alignment": "center"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/ih4byhgn",
+      "id": "3",
+      "name": "Table 2",
+      "bbox": [
+        43.2,
+        120,
+        1195.2,
+        523.2
+      ],
+      "text": "No. | Authors / Year | Focus | Limitation / Gap\n11 | Wang et al. (2021) MedPot | Specialized medical honeypot | Static behavior can be fingerprinted by adaptive malware\n12 | Dowling et al. (2021) | Lightweight edge honeypot | Low-interaction design misses richer attacker payloads\n13 | Rathore et al. (2021) | Real-time IDS for edge | Works on known attacks but weak on zero-day behavior\n14 | Hameed et al. (2021) | Secure and scalable IoMT survey | Prioritizes crypto/access control over deception\n15 | Newaz et al. (2020) HealthGuard | ML smart healthcare framework | Monitors physiological data more than network attack traffic",
+      "textPreview": "No. | Authors / Year | Focus | Limitation / Gap | 11 | Wang et al. (2021) MedPot | Specialized medical honeypot | Static behavior can be ...",
+      "rows": 6,
+      "cols": 4,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            43.2,
+            120,
+            71.71,
+            87.2
+          ],
+          "text": "No.",
+          "textPreview": "No.",
+          "fillColor": "#DAE8CD",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "No.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "No.",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#1E1E1E",
+                  "bold": true,
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            114.91,
+            120,
+            262.94,
+            87.2
+          ],
+          "text": "Authors / Year",
+          "textPreview": "Authors / Year",
+          "fillColor": "#DAE8CD",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Authors / Year",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Authors / Year",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#1E1E1E",
+                  "bold": true,
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            377.86,
+            120,
+            298.8,
+            87.2
+          ],
+          "text": "Focus",
+          "textPreview": "Focus",
+          "fillColor": "#DAE8CD",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Focus",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Focus",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#1E1E1E",
+                  "bold": true,
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 1,
+          "column": 4,
+          "bbox": [
+            676.66,
+            120,
+            561.74,
+            87.2
+          ],
+          "text": "Limitation / Gap",
+          "textPreview": "Limitation / Gap",
+          "fillColor": "#DAE8CD",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Limitation / Gap",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Limitation / Gap",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#1E1E1E",
+                  "bold": true,
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            43.2,
+            207.2,
+            71.71,
+            87.2
+          ],
+          "text": "11",
+          "textPreview": "11",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "11",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "11",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            114.91,
+            207.2,
+            262.94,
+            87.2
+          ],
+          "text": "Wang et al. (2021) MedPot",
+          "textPreview": "Wang et al. (2021) MedPot",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Wang et al. (2021) MedPot",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Wang et al. (2021) MedPot",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            377.86,
+            207.2,
+            298.8,
+            87.2
+          ],
+          "text": "Specialized medical honeypot",
+          "textPreview": "Specialized medical honeypot",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Specialized medical honeypot",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Specialized medical honeypot",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 2,
+          "column": 4,
+          "bbox": [
+            676.66,
+            207.2,
+            561.74,
+            87.2
+          ],
+          "text": "Static behavior can be fingerprinted by adaptive malware",
+          "textPreview": "Static behavior can be fingerprinted by adaptive malware",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Static behavior can be fingerprinted by adaptive malware",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Static behavior can be fingerprinted by adaptive malware",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            43.2,
+            294.4,
+            71.71,
+            87.2
+          ],
+          "text": "12",
+          "textPreview": "12",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "12",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "12",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            114.91,
+            294.4,
+            262.94,
+            87.2
+          ],
+          "text": "Dowling et al. (2021)",
+          "textPreview": "Dowling et al. (2021)",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Dowling et al. (2021)",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Dowling et al. (2021)",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            377.86,
+            294.4,
+            298.8,
+            87.2
+          ],
+          "text": "Lightweight edge honeypot",
+          "textPreview": "Lightweight edge honeypot",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Lightweight edge honeypot",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Lightweight edge honeypot",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 3,
+          "column": 4,
+          "bbox": [
+            676.66,
+            294.4,
+            561.74,
+            87.2
+          ],
+          "text": "Low-interaction design misses richer attacker payloads",
+          "textPreview": "Low-interaction design misses richer attacker payloads",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Low-interaction design misses richer attacker payloads",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Low-interaction design misses richer attacker payloads",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            43.2,
+            381.6,
+            71.71,
+            87.2
+          ],
+          "text": "13",
+          "textPreview": "13",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "13",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "13",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            114.91,
+            381.6,
+            262.94,
+            87.2
+          ],
+          "text": "Rathore et al. (2021)",
+          "textPreview": "Rathore et al. (2021)",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Rathore et al. (2021)",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Rathore et al. (2021)",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            377.86,
+            381.6,
+            298.8,
+            87.2
+          ],
+          "text": "Real-time IDS for edge",
+          "textPreview": "Real-time IDS for edge",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Real-time IDS for edge",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Real-time IDS for edge",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 16,
+          "row": 4,
+          "column": 4,
+          "bbox": [
+            676.66,
+            381.6,
+            561.74,
+            87.2
+          ],
+          "text": "Works on known attacks but weak on zero-day behavior",
+          "textPreview": "Works on known attacks but weak on zero-day behavior",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Works on known attacks but weak on zero-day behavior",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Works on known attacks but weak on zero-day behavior",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 17,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            43.2,
+            468.8,
+            71.71,
+            87.2
+          ],
+          "text": "14",
+          "textPreview": "14",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "14",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "14",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 18,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            114.91,
+            468.8,
+            262.94,
+            87.2
+          ],
+          "text": "Hameed et al. (2021)",
+          "textPreview": "Hameed et al. (2021)",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Hameed et al. (2021)",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Hameed et al. (2021)",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 19,
+          "row": 5,
+          "column": 3,
+          "bbox": [
+            377.86,
+            468.8,
+            298.8,
+            87.2
+          ],
+          "text": "Secure and scalable IoMT survey",
+          "textPreview": "Secure and scalable IoMT survey",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Secure and scalable IoMT survey",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Secure and scalable IoMT survey",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 20,
+          "row": 5,
+          "column": 4,
+          "bbox": [
+            676.66,
+            468.8,
+            561.74,
+            87.2
+          ],
+          "text": "Prioritizes crypto/access control over deception",
+          "textPreview": "Prioritizes crypto/access control over deception",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Prioritizes crypto/access control over deception",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Prioritizes crypto/access control over deception",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 21,
+          "row": 6,
+          "column": 1,
+          "bbox": [
+            43.2,
+            556,
+            71.71,
+            87.2
+          ],
+          "text": "15",
+          "textPreview": "15",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "15",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "15",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 22,
+          "row": 6,
+          "column": 2,
+          "bbox": [
+            114.91,
+            556,
+            262.94,
+            87.2
+          ],
+          "text": "Newaz et al. (2020) HealthGuard",
+          "textPreview": "Newaz et al. (2020) HealthGuard",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Newaz et al. (2020) HealthGuard",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Newaz et al. (2020) HealthGuard",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 23,
+          "row": 6,
+          "column": 3,
+          "bbox": [
+            377.86,
+            556,
+            298.8,
+            87.2
+          ],
+          "text": "ML smart healthcare framework",
+          "textPreview": "ML smart healthcare framework",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "ML smart healthcare framework",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "ML smart healthcare framework",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 24,
+          "row": 6,
+          "column": 4,
+          "bbox": [
+            676.66,
+            556,
+            561.74,
+            87.2
+          ],
+          "text": "Monitors physiological data more than network attack traffic",
+          "textPreview": "Monitors physiological data more than network attack traffic",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Monitors physiological data more than network attack traffic",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Monitors physiological data more than network attack traffic",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

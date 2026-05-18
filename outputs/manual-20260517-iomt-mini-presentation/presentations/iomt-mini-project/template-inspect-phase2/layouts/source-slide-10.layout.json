@@ -1,0 +1,455 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/29gr2p8n",
+    "id": "29gr2p8n",
+    "slide": 11,
+    "layoutId": "/ppt/slideLayouts/slideLayout2.xml",
+    "layoutName": "Title and Content",
+    "layoutType": "obj",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office",
+    "colors": {
+      "accent1": "#5B9BD5",
+      "accent2": "#ED7D31",
+      "accent3": "#A5A5A5",
+      "accent4": "#FFC000",
+      "accent5": "#4472C4",
+      "accent6": "#70AD47",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#44546A",
+      "lt2": "#E7E6E6",
+      "hlink": "#0563C1",
+      "folHlink": "#954F72"
+    },
+    "typefaces": [
+      "+mn-lt",
+      "Arial",
+      "Times New Roman"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout2.xml",
+      "name": "Title and Content",
+      "type": "obj",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/2",
+          "id": "2",
+          "name": "Title 1",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 4,
+          "kind": "image",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/7",
+          "id": "7",
+          "name": "Picture 6",
+          "bbox": [
+            1116.17,
+            2.64,
+            151.66,
+            43.05
+          ],
+          "contentType": "image/png",
+          "asset": {
+            "assetId": "/ppt/media/image2.png",
+            "contentType": "image/png",
+            "byteLength": 57155
+          },
+          "fillImage": {
+            "assetId": "/ppt/media/image2.png",
+            "contentType": "image/png",
+            "byteLength": 57155
+          }
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "Title Placeholder 1",
+          "bbox": [
+            88,
+            38.33,
+            1104,
+            139.17
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "Text Placeholder 2",
+          "bbox": [
+            88,
+            191.67,
+            1104,
+            456.83
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            88,
+            667.33,
+            288,
+            38.33
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            424,
+            667.33,
+            432,
+            38.33
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "Slide Number Placeholder 5",
+          "bbox": [
+            904,
+            667.33,
+            288,
+            38.33
+          ],
+          "geometry": "rect"
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9gr2p8nq",
+      "id": "2",
+      "name": "Title 1",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "text": "Research Gap",
+      "textPreview": "Research Gap",
+      "resolvedFontSize": 58.67,
+      "resolvedTextStyle": {
+        "fontSize": 58.67,
+        "typeface": "Times New Roman",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Research Gap"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Research Gap",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Research Gap"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/r2p8nqxs",
+      "id": "4",
+      "name": "Slide Number Placeholder 3",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      }
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2hwfyxob",
+      "id": "5",
+      "name": "Rectangle 1",
+      "bbox": [
+        88,
+        189.05,
+        1121.6,
+        462.07
+      ],
+      "geometry": "rect",
+      "text": "Lack of Specialized Medical Decoys: Most existing honeypot frameworks (like Cowrie or T-Pot) focus on general IT protocols (SSH, Telnet) or Industrial systems (SCADA). There is a critical shortage of lightweight honeypots specifically emulating IoMT (Internet of Medical Things) protocols like HL7, DICOM, and medical web portals.\n\nOver-reliance on Static, Outdated Datasets: Many machine learning intrusion detection systems (IDS) are trained on old, static datasets (like NSL-KDD) that do not reflect modern IoT/IoMT attack vectors. Furthermore, they are rarely validated against live traffic generated on edge hardware.\n\nCloud-Dependency and Latency: Current threat intelligence models often send raw data to the cloud for analysis, which introduces latency and privacy risks for healthcare networks. There is a gap in deploying the ML inference engine directly on the edge device (Raspberry Pi) for zero-latency detection.",
+      "textPreview": "Lack of Specialized Medical Decoys: Most existing honeypot frameworks (like Cowrie or T-Pot) focus on general IT protocols (SSH, Telnet) ...",
+      "resolvedFontSize": 37.33,
+      "resolvedTextStyle": {
+        "fontSize": 37.33,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 14,
+        "lines": [
+          {
+            "index": 1,
+            "text": "• Lack of Specialized Medical Decoys: Most existing honeypot frameworks (like Cowrie or"
+          },
+          {
+            "index": 2,
+            "text": "T-Pot) focus on general IT protocols (SSH, Telnet) or Industrial systems (SCADA). There is a"
+          },
+          {
+            "index": 3,
+            "text": "critical shortage of lightweight honeypots specifically emulating IoMT (Internet of Medical"
+          },
+          {
+            "index": 4,
+            "text": "Things) protocols like HL7, DICOM, and medical web portals."
+          },
+          {
+            "index": 5,
+            "text": ""
+          },
+          {
+            "index": 6,
+            "text": "• Over-reliance on Static, Outdated Datasets: Many machine learning intrusion detection"
+          },
+          {
+            "index": 7,
+            "text": "systems (IDS) are trained on old, static datasets (like NSL-KDD) that do not reflect modern"
+          },
+          {
+            "index": 8,
+            "text": "IoT/IoMT attack vectors. Furthermore, they are rarely validated against live traffic generated"
+          },
+          {
+            "index": 9,
+            "text": "on edge hardware."
+          },
+          {
+            "index": 10,
+            "text": ""
+          },
+          {
+            "index": 11,
+            "text": "• Cloud-Dependency and Latency: Current threat intelligence models often send raw data"
+          },
+          {
+            "index": 12,
+            "text": "to the cloud for analysis, which introduces latency and privacy risks for healthcare networks."
+          },
+          {
+            "index": 13,
+            "text": "There is a gap in deploying the ML inference engine directly on the edge device (Raspberry"
+          },
+          {
+            "index": 14,
+            "text": "Pi) for zero-latency detection."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Lack of Specialized Medical Decoys: Most existing honeypot frameworks (like Cowrie or T-Pot) focus on general IT protocols (SSH, Telnet) or Industrial systems (SCADA). There is a critical shortage of lightweight honeypots specifically emulating IoMT (Internet of Medical Things) protocols like HL7, DICOM, and medical web portals.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Lack of Specialized Medical Decoys:",
+              "fontSize": 26.67,
+              "typeface": "Arial",
+              "color": "tx1",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": " Most existing honeypot frameworks (like Cowrie or T-Pot) focus on general IT protocols (SSH, Telnet) or Industrial systems (SCADA). There is a critical shortage of lightweight honeypots specifically emulating IoMT (Internet of Medical Things) protocols like HL7, DICOM, and medical web portals.",
+              "fontSize": 26.67,
+              "typeface": "Arial",
+              "color": "tx1"
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "text": "Over-reliance on Static, Outdated Datasets: Many machine learning intrusion detection systems (IDS) are trained on old, static datasets (like NSL-KDD) that do not reflect modern IoT/IoMT attack vectors. Furthermore, they are rarely validated against live traffic generated on edge hardware.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Over-reliance on Static, Outdated Datasets:",
+              "fontSize": 26.67,
+              "typeface": "Arial",
+              "color": "tx1",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": " Many machine learning intrusion detection systems (IDS) are trained on old, static datasets (like NSL-KDD) that do not reflect modern IoT/IoMT attack vectors. Furthermore, they are rarely validated against ",
+              "fontSize": 26.67,
+              "typeface": "Arial",
+              "color": "tx1"
+            },
+            {
+              "index": 3,
+              "text": "live",
+              "fontSize": 26.67,
+              "typeface": "Arial",
+              "color": "tx1",
+              "italic": true
+            },
+            {
+              "index": 4,
+              "text": " traffic generated on edge hardware.",
+              "fontSize": 26.67,
+              "typeface": "Arial",
+              "color": "tx1"
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "text": "Cloud-Dependency and Latency: Current threat intelligence models often send raw data to the cloud for analysis, which introduces latency and privacy risks for healthcare networks. There is a gap in deploying the ML inference engine directly on the edge device (Raspberry Pi) for zero-latency detection.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Cloud-Dependency and Latency:",
+              "fontSize": 26.67,
+              "typeface": "Arial",
+              "color": "tx1",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": " Current threat intelligence models often send raw data to the cloud for analysis, which introduces latency and privacy risks for healthcare networks. There is a gap in deploying the ML ",
+              "fontSize": 26.67,
+              "typeface": "Arial",
+              "color": "tx1"
+            },
+            {
+              "index": 3,
+              "text": "inference engine",
+              "fontSize": 26.67,
+              "typeface": "Arial",
+              "color": "tx1",
+              "italic": true
+            },
+            {
+              "index": 4,
+              "text": " directly on the edge device (Raspberry Pi) for zero-latency detection.",
+              "fontSize": 26.67,
+              "typeface": "Arial",
+              "color": "tx1"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

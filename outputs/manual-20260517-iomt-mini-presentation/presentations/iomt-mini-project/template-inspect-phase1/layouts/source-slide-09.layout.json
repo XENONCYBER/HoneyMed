@@ -1,0 +1,470 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/qh0fepkz",
+    "id": "qh0fepkz",
+    "slide": 10,
+    "layoutId": "/ppt/slideLayouts/slideLayout2.xml",
+    "layoutName": "Title and Content",
+    "layoutType": "obj",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office",
+    "colors": {
+      "accent1": "#5B9BD5",
+      "accent2": "#ED7D31",
+      "accent3": "#A5A5A5",
+      "accent4": "#FFC000",
+      "accent5": "#4472C4",
+      "accent6": "#70AD47",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#44546A",
+      "lt2": "#E7E6E6",
+      "hlink": "#0563C1",
+      "folHlink": "#954F72"
+    },
+    "typefaces": [
+      "+mn-lt",
+      "Times New Roman"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout2.xml",
+      "name": "Title and Content",
+      "type": "obj",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/2",
+          "id": "2",
+          "name": "Title 1",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 4,
+          "kind": "image",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/7",
+          "id": "7",
+          "name": "Picture 6",
+          "bbox": [
+            1116.17,
+            2.64,
+            151.66,
+            43.05
+          ],
+          "contentType": "image/png",
+          "asset": {
+            "assetId": "/ppt/media/image2.png",
+            "contentType": "image/png",
+            "byteLength": 57155
+          },
+          "fillImage": {
+            "assetId": "/ppt/media/image2.png",
+            "contentType": "image/png",
+            "byteLength": 57155
+          }
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "Title Placeholder 1",
+          "bbox": [
+            88,
+            38.33,
+            1104,
+            139.17
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "Text Placeholder 2",
+          "bbox": [
+            88,
+            191.67,
+            1104,
+            456.83
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            88,
+            667.33,
+            288,
+            38.33
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            424,
+            667.33,
+            432,
+            38.33
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "Slide Number Placeholder 5",
+          "bbox": [
+            904,
+            667.33,
+            288,
+            38.33
+          ],
+          "geometry": "rect"
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ovahoza1",
+      "id": "2",
+      "name": "Title 1",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "text": "References",
+      "textPreview": "References",
+      "resolvedFontSize": 58.67,
+      "resolvedTextStyle": {
+        "fontSize": 58.67,
+        "typeface": "Times New Roman",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "References"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "References",
+          "runs": [
+            {
+              "index": 1,
+              "text": "References"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dg7adsji",
+      "id": "3",
+      "name": "Content Placeholder 2",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "text": "[6] Zhao,J., Carlton, M., &Ahmed,Z.(2022). IoTHoney: A scalable framework for IoT device emulation and attack detection. Proceedings of the 2022 Network and Distributed System Security Symposium (NDSS ’22), 118-132. \n[7] Peterson, A., Garcia, M., & Williams, S. (2023). Protecting patient safety: Cyber security for Internet of Medical Things. Journal of Healthcare Information Management, 37(1), 45-58. \n[8] Garcia-Teodoro, P., Diaz-Verdejo, J., & Maciá-Fernández, G. (2022). Honey pots: A systematic review of current research and trends. ACM Computing Surveys, 55(3), 1-36. \n[9] Brown, S., Johnson, M., & Davis, K. (2023). Anomaly detection in industrial IoT using hybrid deep learning models. Journal of Network and Computer Ap plications, 218, 103681. \n[10] Liu, Y., Wang, X., & Chen, Z. (2022). EdgeGuard: Edge computing for IoT security monitoring. IEEE Internet of Things Journal, 9(13), 11052-11066.",
+      "textPreview": "[6] Zhao,J., Carlton, M., &Ahmed,Z.(2022). IoTHoney: A scalable framework for IoT device emulation and attack detection. Proceedings of t...",
+      "resolvedFontSize": 31.73,
+      "resolvedTextStyle": {
+        "fontSize": 37.33,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 19,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          },
+          {
+            "index": 2,
+            "text": "[6] Zhao,J., Carlton, M., &Ahmed,Z.(2022). IoTHoney: A scalable framework for IoT"
+          },
+          {
+            "index": 3,
+            "text": "device emulation and attack detection. Proceedings of the 2022 Network and"
+          },
+          {
+            "index": 4,
+            "text": "Distributed System Security Symposium (NDSS ’22), 118-132."
+          },
+          {
+            "index": 5,
+            "text": ""
+          },
+          {
+            "index": 6,
+            "text": "[7] Peterson, A., Garcia, M., & Williams, S. (2023). Protecting patient safety: Cyber"
+          },
+          {
+            "index": 7,
+            "text": "security for Internet of Medical Things. Journal of Healthcare Information"
+          },
+          {
+            "index": 8,
+            "text": "Management, 37(1), 45-58."
+          },
+          {
+            "index": 9,
+            "text": ""
+          },
+          {
+            "index": 10,
+            "text": "[8] Garcia-Teodoro, P., Diaz-Verdejo, J., & Maciá-Fernández, G. (2022). Honey pots: A"
+          },
+          {
+            "index": 11,
+            "text": "systematic review of current research and trends. ACM Computing Surveys, 55(3),"
+          },
+          {
+            "index": 12,
+            "text": "1-36."
+          },
+          {
+            "index": 13,
+            "text": ""
+          },
+          {
+            "index": 14,
+            "text": "[9] Brown, S., Johnson, M., & Davis, K. (2023). Anomaly detection in industrial IoT"
+          },
+          {
+            "index": 15,
+            "text": "using hybrid deep learning models. Journal of Network and Computer Ap plications,"
+          },
+          {
+            "index": 16,
+            "text": "218, 103681."
+          },
+          {
+            "index": 17,
+            "text": ""
+          },
+          {
+            "index": 18,
+            "text": "[10] Liu, Y., Wang, X., & Chen, Z. (2022). EdgeGuard: Edge computing for IoT security"
+          },
+          {
+            "index": 19,
+            "text": "monitoring. IEEE Internet of Things Journal, 9(13), 11052-11066."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "[6] Zhao,J., Carlton, M., &Ahmed,Z.(2022). IoTHoney: A scalable framework for IoT device emulation and attack detection. Proceedings of the 2022 Network and Distributed System Security Symposium (NDSS ’22), 118-132. ",
+          "runs": [
+            {
+              "index": 1,
+              "text": "[6] "
+            },
+            {
+              "index": 2,
+              "text": "Zhao,J"
+            },
+            {
+              "index": 3,
+              "text": "., Carlton, M., &"
+            },
+            {
+              "index": 4,
+              "text": "Ahmed,Z"
+            },
+            {
+              "index": 5,
+              "text": ".(2022). "
+            },
+            {
+              "index": 6,
+              "text": "IoTHoney"
+            },
+            {
+              "index": 7,
+              "text": ": A scalable framework for IoT device emulation and attack detection. Proceedings of the 2022 Network and Distributed System Security Symposium (NDSS ’22), 118-132. "
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "text": "[7] Peterson, A., Garcia, M., & Williams, S. (2023). Protecting patient safety: Cyber security for Internet of Medical Things. Journal of Healthcare Information Management, 37(1), 45-58. ",
+          "runs": [
+            {
+              "index": 1,
+              "text": "[7] Peterson, A., Garcia, M., & Williams, S. (2023). Protecting patient safety: Cyber security for Internet of Medical Things. Journal of Healthcare Information Management, 37(1), 45-58. "
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "text": "[8] Garcia-Teodoro, P., Diaz-Verdejo, J., & Maciá-Fernández, G. (2022). Honey pots: A systematic review of current research and trends. ACM Computing Surveys, 55(3), 1-36. ",
+          "runs": [
+            {
+              "index": 1,
+              "text": "[8] Garcia-Teodoro, P., Diaz-Verdejo, J., & "
+            },
+            {
+              "index": 2,
+              "text": "Maciá"
+            },
+            {
+              "index": 3,
+              "text": "-Fernández, G. (2022). Honey pots: A systematic review of current research and trends. ACM Computing Surveys, 55(3), 1-36. "
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "text": "[9] Brown, S., Johnson, M., & Davis, K. (2023). Anomaly detection in industrial IoT using hybrid deep learning models. Journal of Network and Computer Ap plications, 218, 103681. ",
+          "runs": [
+            {
+              "index": 1,
+              "text": "[9] Brown, S., Johnson, M., & Davis, K. (2023). Anomaly detection in industrial IoT using hybrid deep learning models. Journal of Network and Computer Ap plications, 218, 103681. "
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "text": "[10] Liu, Y., Wang, X., & Chen, Z. (2022). EdgeGuard: Edge computing for IoT security monitoring. IEEE Internet of Things Journal, 9(13), 11052-11066.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "[10] Liu, Y., Wang, X., & Chen, Z. (2022). "
+            },
+            {
+              "index": 2,
+              "text": "EdgeGuard"
+            },
+            {
+              "index": 3,
+              "text": ": Edge computing for IoT security monitoring. IEEE Internet of Things Journal, 9(13), 11052-11066."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6hcrmhk3",
+      "id": "4",
+      "name": "Slide Number Placeholder 3",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      }
+    }
+  ],
+  "composeRuns": []
+}

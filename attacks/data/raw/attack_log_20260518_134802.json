@@ -1,0 +1,18 @@
+[
+  {
+    "timestamp": "2026-05-18T08:18:01.725765+00:00",
+    "attack_type": "DOS_HTTP_FLOOD",
+    "target": "127.0.0.1",
+    "duration_seconds": 15,
+    "threads": 10,
+    "total_requests": 714
+  },
+  {
+    "timestamp": "2026-05-18T08:18:02.984750+00:00",
+    "attack_type": "DOS_TCP_SYN",
+    "target": "127.0.0.1",
+    "port": 80,
+    "attempts": 200,
+    "connections": 200
+  }
+]

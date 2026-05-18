@@ -1,0 +1,757 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/8z25kb6x",
+    "id": "8z25kb6x",
+    "slide": 17,
+    "layoutId": "/ppt/slideLayouts/slideLayout2.xml",
+    "layoutName": "Title and Content",
+    "layoutType": "obj",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office",
+    "colors": {
+      "accent1": "#5B9BD5",
+      "accent2": "#ED7D31",
+      "accent3": "#A5A5A5",
+      "accent4": "#FFC000",
+      "accent5": "#4472C4",
+      "accent6": "#70AD47",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#44546A",
+      "lt2": "#E7E6E6",
+      "hlink": "#0563C1",
+      "folHlink": "#954F72"
+    },
+    "typefaces": [
+      "+mn-lt",
+      "Times New Roman"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout2.xml",
+      "name": "Title and Content",
+      "type": "obj",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/2",
+          "id": "2",
+          "name": "Title 1",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 4,
+          "kind": "image",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/7",
+          "id": "7",
+          "name": "Picture 6",
+          "bbox": [
+            1116.17,
+            2.64,
+            151.66,
+            43.05
+          ],
+          "contentType": "image/png",
+          "asset": {
+            "assetId": "/ppt/media/image2.png",
+            "contentType": "image/png",
+            "byteLength": 57155
+          },
+          "fillImage": {
+            "assetId": "/ppt/media/image2.png",
+            "contentType": "image/png",
+            "byteLength": 57155
+          }
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "Title Placeholder 1",
+          "bbox": [
+            88,
+            38.33,
+            1104,
+            139.17
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "Text Placeholder 2",
+          "bbox": [
+            88,
+            191.67,
+            1104,
+            456.83
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            88,
+            667.33,
+            288,
+            38.33
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            424,
+            667.33,
+            432,
+            38.33
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "Slide Number Placeholder 5",
+          "bbox": [
+            904,
+            667.33,
+            288,
+            38.33
+          ],
+          "geometry": "rect"
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/pg3ex0nu",
+      "id": "2",
+      "name": "Title 1",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "text": "References",
+      "textPreview": "References",
+      "resolvedFontSize": 58.67,
+      "resolvedTextStyle": {
+        "fontSize": 58.67,
+        "typeface": "Times New Roman",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "References"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "References",
+          "runs": [
+            {
+              "index": 1,
+              "text": "References"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wval87ed",
+      "id": "3",
+      "name": "Content Placeholder 2",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "text": "[1] Bera, B., et al. (2022). AI-enabled threat detection in edge computing for industrial IoT. IEEE.\n[2] Ghaffar, Z., et al. (2022). Vulnerability analysis of HL7 and DICOM protocols in healthcare networks. ACM.\n[3] Awotunde, J. B., et al. (2021). Intrusion detection in IoMT networks using deep learning. IEEE.\n[4] Dowling, S., et al. (2021). A lightweight IoT honeypot for edge networks. IEEE.\n[5] Hameed, K., et al. (2021). Towards secure and scalable IoMT: A survey. IEEE.\n[6] Rathore, S., et al. (2021). Real-time intrusion detection system for edge computing environments. Elsevier.\n[7] Wang, Y., et al. (2021). MedPot: A specialized honeypot for medical network environments. Springer.\n[8] Al-Garadi, M. A., et al. (2020). A survey of machine and deep learning methods for IoT security. IEEE.\n[9] Ferrag, M. A., et al. (2020). Deep learning for cyber security intrusion detection: Approaches and datasets. Elsevier.\n[10] Hasan, M., et al. (2020). Intrusion detection system for IoT devices using machine learning techniques. Springer.\n[11] Kelly, J., et al. (2020). A comprehensive survey of IoT honeypot architectures. Springer.\n[12] Newaz, A. I., et al. (2020). HealthGuard: A machine learning-based security framework for smart healthcare. IEEE.\n[13] Tambe, A., et al. (2020). Detection of botnets using specialized IoT honeypots. ACM.\n[14] Thamilarasu, G., et al. (2020). An intrusion detection system for internet of medical things. IEEE.\n[15] Yaacoub, J. P., et al. (2020). Securing internet of medical things systems: Limitations, issues and recommendations. Elsevier.",
+      "textPreview": "[1] Bera, B., et al. (2022). AI-enabled threat detection in edge computing for industrial IoT. IEEE. | [2] Ghaffar, Z., et al. (2022). Vu...",
+      "resolvedFontSize": 20.53,
+      "resolvedTextStyle": {
+        "fontSize": 37.33,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 30,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          },
+          {
+            "index": 2,
+            "text": "[1] Bera, B., et al. (2022). AI-enabled threat detection in edge computing for industrial IoT. IEEE."
+          },
+          {
+            "index": 3,
+            "text": ""
+          },
+          {
+            "index": 4,
+            "text": "[2] Ghaffar, Z., et al. (2022). Vulnerability analysis of HL7 and DICOM protocols in healthcare networks. ACM."
+          },
+          {
+            "index": 5,
+            "text": ""
+          },
+          {
+            "index": 6,
+            "text": "[3] Awotunde, J. B., et al. (2021). Intrusion detection in IoMT networks using deep learning. IEEE."
+          },
+          {
+            "index": 7,
+            "text": ""
+          },
+          {
+            "index": 8,
+            "text": "[4] Dowling, S., et al. (2021). A lightweight IoT honeypot for edge networks. IEEE."
+          },
+          {
+            "index": 9,
+            "text": ""
+          },
+          {
+            "index": 10,
+            "text": "[5] Hameed, K., et al. (2021). Towards secure and scalable IoMT: A survey. IEEE."
+          },
+          {
+            "index": 11,
+            "text": ""
+          },
+          {
+            "index": 12,
+            "text": "[6] Rathore, S., et al. (2021). Real-time intrusion detection system for edge computing environments. Elsevier."
+          },
+          {
+            "index": 13,
+            "text": ""
+          },
+          {
+            "index": 14,
+            "text": "[7] Wang, Y., et al. (2021). MedPot: A specialized honeypot for medical network environments. Springer."
+          },
+          {
+            "index": 15,
+            "text": ""
+          },
+          {
+            "index": 16,
+            "text": "[8] Al-Garadi, M. A., et al. (2020). A survey of machine and deep learning methods for IoT security. IEEE."
+          },
+          {
+            "index": 17,
+            "text": ""
+          },
+          {
+            "index": 18,
+            "text": "[9] Ferrag, M. A., et al. (2020). Deep learning for cyber security intrusion detection: Approaches and datasets. Elsevier."
+          },
+          {
+            "index": 19,
+            "text": ""
+          },
+          {
+            "index": 20,
+            "text": "[10] Hasan, M., et al. (2020). Intrusion detection system for IoT devices using machine learning techniques. Springer."
+          },
+          {
+            "index": 21,
+            "text": ""
+          },
+          {
+            "index": 22,
+            "text": "[11] Kelly, J., et al. (2020). A comprehensive survey of IoT honeypot architectures. Springer."
+          },
+          {
+            "index": 23,
+            "text": ""
+          },
+          {
+            "index": 24,
+            "text": "[12] Newaz, A. I., et al. (2020). HealthGuard: A machine learning-based security framework for smart healthcare. IEEE."
+          },
+          {
+            "index": 25,
+            "text": ""
+          },
+          {
+            "index": 26,
+            "text": "[13] Tambe, A., et al. (2020). Detection of botnets using specialized IoT honeypots. ACM."
+          },
+          {
+            "index": 27,
+            "text": ""
+          },
+          {
+            "index": 28,
+            "text": "[14] Thamilarasu, G., et al. (2020). An intrusion detection system for internet of medical things. IEEE."
+          },
+          {
+            "index": 29,
+            "text": ""
+          },
+          {
+            "index": 30,
+            "text": "[15] Yaacoub, J. P., et al. (2020). Securing internet of medical things systems: Limitations, issues and recommendations. Elsevier."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "[1] Bera, B., et al. (2022). AI-enabled threat detection in edge computing for industrial IoT. IEEE.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "[1] Bera, B., et al. (2022). AI-enabled threat detection in edge computing for industrial IoT. "
+            },
+            {
+              "index": 2,
+              "text": "IEEE",
+              "italic": true
+            },
+            {
+              "index": 3,
+              "text": "."
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "text": "[2] Ghaffar, Z., et al. (2022). Vulnerability analysis of HL7 and DICOM protocols in healthcare networks. ACM.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "[2] Ghaffar, Z., et al. (2022). Vulnerability analysis of HL7 and DICOM protocols in healthcare networks. "
+            },
+            {
+              "index": 2,
+              "text": "ACM",
+              "italic": true
+            },
+            {
+              "index": 3,
+              "text": "."
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "text": "[3] Awotunde, J. B., et al. (2021). Intrusion detection in IoMT networks using deep learning. IEEE.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "[3] "
+            },
+            {
+              "index": 2,
+              "text": "Awotunde"
+            },
+            {
+              "index": 3,
+              "text": ", J. B., et al. (2021). Intrusion detection in IoMT networks using deep learning. "
+            },
+            {
+              "index": 4,
+              "text": "IEEE",
+              "italic": true
+            },
+            {
+              "index": 5,
+              "text": "."
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "text": "[4] Dowling, S., et al. (2021). A lightweight IoT honeypot for edge networks. IEEE.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "[4] Dowling, S., et al. (2021). A lightweight IoT honeypot for edge networks. "
+            },
+            {
+              "index": 2,
+              "text": "IEEE",
+              "italic": true
+            },
+            {
+              "index": 3,
+              "text": "."
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "text": "[5] Hameed, K., et al. (2021). Towards secure and scalable IoMT: A survey. IEEE.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "[5] Hameed, K., et al. (2021). Towards secure and scalable IoMT: A survey. "
+            },
+            {
+              "index": 2,
+              "text": "IEEE",
+              "italic": true
+            },
+            {
+              "index": 3,
+              "text": "."
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "text": "[6] Rathore, S., et al. (2021). Real-time intrusion detection system for edge computing environments. Elsevier.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "[6] Rathore, S., et al. (2021). Real-time intrusion detection system for edge computing environments. "
+            },
+            {
+              "index": 2,
+              "text": "Elsevier",
+              "italic": true
+            },
+            {
+              "index": 3,
+              "text": "."
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "text": "[7] Wang, Y., et al. (2021). MedPot: A specialized honeypot for medical network environments. Springer.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "[7] Wang, Y., et al. (2021). "
+            },
+            {
+              "index": 2,
+              "text": "MedPot"
+            },
+            {
+              "index": 3,
+              "text": ": A specialized honeypot for medical network environments. "
+            },
+            {
+              "index": 4,
+              "text": "Springer",
+              "italic": true
+            },
+            {
+              "index": 5,
+              "text": "."
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "text": "[8] Al-Garadi, M. A., et al. (2020). A survey of machine and deep learning methods for IoT security. IEEE.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "[8] Al-"
+            },
+            {
+              "index": 2,
+              "text": "Garadi"
+            },
+            {
+              "index": 3,
+              "text": ", M. A., et al. (2020). A survey of machine and deep learning methods for IoT security. "
+            },
+            {
+              "index": 4,
+              "text": "IEEE",
+              "italic": true
+            },
+            {
+              "index": 5,
+              "text": "."
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "text": "[9] Ferrag, M. A., et al. (2020). Deep learning for cyber security intrusion detection: Approaches and datasets. Elsevier.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "[9] "
+            },
+            {
+              "index": 2,
+              "text": "Ferrag"
+            },
+            {
+              "index": 3,
+              "text": ", M. A., et al. (2020). Deep learning for cyber security intrusion detection: Approaches and datasets. "
+            },
+            {
+              "index": 4,
+              "text": "Elsevier",
+              "italic": true
+            },
+            {
+              "index": 5,
+              "text": "."
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "text": "[10] Hasan, M., et al. (2020). Intrusion detection system for IoT devices using machine learning techniques. Springer.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "[10] Hasan, M., et al. (2020). Intrusion detection system for IoT devices using machine learning techniques. "
+            },
+            {
+              "index": 2,
+              "text": "Springer",
+              "italic": true
+            },
+            {
+              "index": 3,
+              "text": "."
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "text": "[11] Kelly, J., et al. (2020). A comprehensive survey of IoT honeypot architectures. Springer.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "[11] Kelly, J., et al. (2020). A comprehensive survey of IoT honeypot architectures. "
+            },
+            {
+              "index": 2,
+              "text": "Springer",
+              "italic": true
+            },
+            {
+              "index": 3,
+              "text": "."
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "text": "[12] Newaz, A. I., et al. (2020). HealthGuard: A machine learning-based security framework for smart healthcare. IEEE.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "[12] Newaz, A. I., et al. (2020). "
+            },
+            {
+              "index": 2,
+              "text": "HealthGuard"
+            },
+            {
+              "index": 3,
+              "text": ": A machine learning-based security framework for smart healthcare. "
+            },
+            {
+              "index": 4,
+              "text": "IEEE",
+              "italic": true
+            },
+            {
+              "index": 5,
+              "text": "."
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "text": "[13] Tambe, A., et al. (2020). Detection of botnets using specialized IoT honeypots. ACM.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "[13] Tambe, A., et al. (2020). Detection of botnets using specialized IoT honeypots. "
+            },
+            {
+              "index": 2,
+              "text": "ACM",
+              "italic": true
+            },
+            {
+              "index": 3,
+              "text": "."
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "text": "[14] Thamilarasu, G., et al. (2020). An intrusion detection system for internet of medical things. IEEE.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "[14] Thamilarasu, G., et al. (2020). An intrusion detection system for internet of medical things. "
+            },
+            {
+              "index": 2,
+              "text": "IEEE",
+              "italic": true
+            },
+            {
+              "index": 3,
+              "text": "."
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "text": "[15] Yaacoub, J. P., et al. (2020). Securing internet of medical things systems: Limitations, issues and recommendations. Elsevier.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "[15] "
+            },
+            {
+              "index": 2,
+              "text": "Yaacoub"
+            },
+            {
+              "index": 3,
+              "text": ", J. P., et al. (2020). Securing internet of medical things systems: Limitations, issues and recommendations. "
+            },
+            {
+              "index": 4,
+              "text": "Elsevier",
+              "italic": true
+            },
+            {
+              "index": 5,
+              "text": "."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7mp0bi9s",
+      "id": "4",
+      "name": "Slide Number Placeholder 3",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      }
+    }
+  ],
+  "composeRuns": []
+}

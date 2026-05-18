@@ -1,0 +1,700 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/re1w7mp0",
+    "id": "re1w7mp0",
+    "slide": 12,
+    "layoutId": "/ppt/slideLayouts/slideLayout8.xml",
+    "layoutName": "Title and Content",
+    "layoutType": "obj",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Organic",
+    "colors": {
+      "accent1": "#83992A",
+      "accent2": "#3C9770",
+      "accent3": "#44709D",
+      "accent4": "#A23C33",
+      "accent5": "#D97828",
+      "accent6": "#DEB340",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#212121",
+      "lt2": "#DADADA",
+      "hlink": "#A8BF4D",
+      "folHlink": "#B4CA80"
+    },
+    "typefaces": [
+      "+mn-lt",
+      "Arial"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout8.xml",
+      "name": "Title and Content",
+      "type": "obj",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout8.xml/2",
+          "id": "2",
+          "name": "Title 1",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout8.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout8.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "Title Placeholder 1",
+          "bbox": [
+            136,
+            103.11,
+            1008,
+            136.89
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "Text Placeholder 2",
+          "bbox": [
+            136,
+            268.44,
+            1008,
+            348.44
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            911.02,
+            626.67,
+            168,
+            29.33
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            136,
+            626.67,
+            767.02,
+            29.33
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "Slide Number Placeholder 5",
+          "bbox": [
+            1087.02,
+            626.67,
+            56.98,
+            29.33
+          ],
+          "geometry": "rect"
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6tovahoz",
+      "id": "2",
+      "name": "TextBox 1",
+      "bbox": [
+        96,
+        46.08,
+        1089.6,
+        46.08
+      ],
+      "geometry": "rect",
+      "text": "Existing System & Limitation",
+      "textPreview": "Existing System & Limitation",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Existing System & Limitation"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Existing System & Limitation",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Existing System & Limitation",
+              "fontSize": 26.67,
+              "typeface": "Arial",
+              "color": "#1E1E1E",
+              "bold": true,
+              "alignment": "center"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/e1w7mp0b",
+      "id": "3",
+      "name": "Table 2",
+      "bbox": [
+        72,
+        139.2,
+        1132.8,
+        441.6
+      ],
+      "text": "Existing approach | What it does | Limitation that HoneyMed addresses\nGeneric IDS | Monitors traffic and raises alerts | High false positives and limited IoMT protocol context\nGeneral honeypots | Decoys for SSH, Telnet, FTP, web traffic | Often miss HL7/DICOM/MQTT medical behavior\nCloud-only analytics | Sends logs to remote platform for scoring | Latency, privacy concerns, and weaker local forensics\nManual log review | Analyst reads raw logs after incidents | Too slow for high-volume attacks and zero-day investigation",
+      "textPreview": "Existing approach | What it does | Limitation that HoneyMed addresses | Generic IDS | Monitors traffic and raises alerts | High false pos...",
+      "rows": 5,
+      "cols": 3,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            72,
+            139.2,
+            249.22,
+            88.32
+          ],
+          "text": "Existing approach",
+          "textPreview": "Existing approach",
+          "fillColor": "#DAE8CD",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Existing approach",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Existing approach",
+                  "fontSize": 12.67,
+                  "typeface": "Arial",
+                  "color": "#1E1E1E",
+                  "bold": true,
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            321.22,
+            139.2,
+            373.82,
+            88.32
+          ],
+          "text": "What it does",
+          "textPreview": "What it does",
+          "fillColor": "#DAE8CD",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "What it does",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "What it does",
+                  "fontSize": 12.67,
+                  "typeface": "Arial",
+                  "color": "#1E1E1E",
+                  "bold": true,
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            695.04,
+            139.2,
+            509.76,
+            88.32
+          ],
+          "text": "Limitation that HoneyMed addresses",
+          "textPreview": "Limitation that HoneyMed addresses",
+          "fillColor": "#DAE8CD",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Limitation that HoneyMed addresses",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Limitation that HoneyMed addresses",
+                  "fontSize": 12.67,
+                  "typeface": "Arial",
+                  "color": "#1E1E1E",
+                  "bold": true,
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            72,
+            227.52,
+            249.22,
+            88.32
+          ],
+          "text": "Generic IDS",
+          "textPreview": "Generic IDS",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Generic IDS",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Generic IDS",
+                  "fontSize": 12.67,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            321.22,
+            227.52,
+            373.82,
+            88.32
+          ],
+          "text": "Monitors traffic and raises alerts",
+          "textPreview": "Monitors traffic and raises alerts",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Monitors traffic and raises alerts",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Monitors traffic and raises alerts",
+                  "fontSize": 12.67,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            695.04,
+            227.52,
+            509.76,
+            88.32
+          ],
+          "text": "High false positives and limited IoMT protocol context",
+          "textPreview": "High false positives and limited IoMT protocol context",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "High false positives and limited IoMT protocol context",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "High false positives and limited IoMT protocol context",
+                  "fontSize": 12.67,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            72,
+            315.84,
+            249.22,
+            88.32
+          ],
+          "text": "General honeypots",
+          "textPreview": "General honeypots",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "General honeypots",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "General honeypots",
+                  "fontSize": 12.67,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            321.22,
+            315.84,
+            373.82,
+            88.32
+          ],
+          "text": "Decoys for SSH, Telnet, FTP, web traffic",
+          "textPreview": "Decoys for SSH, Telnet, FTP, web traffic",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Decoys for SSH, Telnet, FTP, web traffic",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Decoys for SSH, Telnet, FTP, web traffic",
+                  "fontSize": 12.67,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            695.04,
+            315.84,
+            509.76,
+            88.32
+          ],
+          "text": "Often miss HL7/DICOM/MQTT medical behavior",
+          "textPreview": "Often miss HL7/DICOM/MQTT medical behavior",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Often miss HL7/DICOM/MQTT medical behavior",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Often miss HL7/DICOM/MQTT medical behavior",
+                  "fontSize": 12.67,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            72,
+            404.16,
+            249.22,
+            88.32
+          ],
+          "text": "Cloud-only analytics",
+          "textPreview": "Cloud-only analytics",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Cloud-only analytics",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Cloud-only analytics",
+                  "fontSize": 12.67,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            321.22,
+            404.16,
+            373.82,
+            88.32
+          ],
+          "text": "Sends logs to remote platform for scoring",
+          "textPreview": "Sends logs to remote platform for scoring",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Sends logs to remote platform for scoring",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Sends logs to remote platform for scoring",
+                  "fontSize": 12.67,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            695.04,
+            404.16,
+            509.76,
+            88.32
+          ],
+          "text": "Latency, privacy concerns, and weaker local forensics",
+          "textPreview": "Latency, privacy concerns, and weaker local forensics",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Latency, privacy concerns, and weaker local forensics",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Latency, privacy concerns, and weaker local forensics",
+                  "fontSize": 12.67,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            72,
+            492.48,
+            249.22,
+            88.32
+          ],
+          "text": "Manual log review",
+          "textPreview": "Manual log review",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Manual log review",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Manual log review",
+                  "fontSize": 12.67,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            321.22,
+            492.48,
+            373.82,
+            88.32
+          ],
+          "text": "Analyst reads raw logs after incidents",
+          "textPreview": "Analyst reads raw logs after incidents",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Analyst reads raw logs after incidents",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Analyst reads raw logs after incidents",
+                  "fontSize": 12.67,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 5,
+          "column": 3,
+          "bbox": [
+            695.04,
+            492.48,
+            509.76,
+            88.32
+          ],
+          "text": "Too slow for high-volume attacks and zero-day investigation",
+          "textPreview": "Too slow for high-volume attacks and zero-day investigation",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Too slow for high-volume attacks and zero-day investigation",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Too slow for high-volume attacks and zero-day investigation",
+                  "fontSize": 12.67,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

@@ -1,0 +1,461 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/j2t83itg",
+    "id": "j2t83itg",
+    "slide": 21,
+    "layoutId": "/ppt/slideLayouts/slideLayout8.xml",
+    "layoutName": "Title and Content",
+    "layoutType": "obj",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Organic",
+    "colors": {
+      "accent1": "#83992A",
+      "accent2": "#3C9770",
+      "accent3": "#44709D",
+      "accent4": "#A23C33",
+      "accent5": "#D97828",
+      "accent6": "#DEB340",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#212121",
+      "lt2": "#DADADA",
+      "hlink": "#A8BF4D",
+      "folHlink": "#B4CA80"
+    },
+    "typefaces": [
+      "+mn-lt",
+      "Arial"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout8.xml",
+      "name": "Title and Content",
+      "type": "obj",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout8.xml/2",
+          "id": "2",
+          "name": "Title 1",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout8.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout8.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "Title Placeholder 1",
+          "bbox": [
+            136,
+            103.11,
+            1008,
+            136.89
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "Text Placeholder 2",
+          "bbox": [
+            136,
+            268.44,
+            1008,
+            348.44
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            911.02,
+            626.67,
+            168,
+            29.33
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            136,
+            626.67,
+            767.02,
+            29.33
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "Slide Number Placeholder 5",
+          "bbox": [
+            1087.02,
+            626.67,
+            56.98,
+            29.33
+          ],
+          "geometry": "rect"
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mhk3q5o7",
+      "id": "2",
+      "name": "TextBox 1",
+      "bbox": [
+        96,
+        46.08,
+        1089.6,
+        46.08
+      ],
+      "geometry": "rect",
+      "text": "Detailed Design",
+      "textPreview": "Detailed Design",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Detailed Design"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Detailed Design",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Detailed Design",
+              "fontSize": 26.67,
+              "typeface": "Arial",
+              "color": "#1E1E1E",
+              "bold": true,
+              "alignment": "center"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/b2hwfyxo",
+      "id": "3",
+      "name": "TextBox 2",
+      "bbox": [
+        86.4,
+        129.6,
+        547.2,
+        451.2
+      ],
+      "geometry": "rect",
+      "text": "Inference engine: A scaler and classifier load from the model registry, then classify each feature vector into attack categories.\nRisk scoring: Confidence, threshold, protocol, and recent behavior are combined into an analyst-friendly risk interpretation.\nLocal LLM support: Captured logs can be summarized into plain-language explanations for faster incident triage.",
+      "textPreview": "Inference engine: A scaler and classifier load from the model registry, then classify each feature vector into attack categories. | Risk ...",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 6,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Inference engine: A scaler and classifier load from the model"
+          },
+          {
+            "index": 2,
+            "text": "registry, then classify each feature vector into attack categories."
+          },
+          {
+            "index": 3,
+            "text": "Risk scoring: Confidence, threshold, protocol, and recent behavior"
+          },
+          {
+            "index": 4,
+            "text": "are combined into an analyst-friendly risk interpretation."
+          },
+          {
+            "index": 5,
+            "text": "Local LLM support: Captured logs can be summarized into"
+          },
+          {
+            "index": 6,
+            "text": "plain-language explanations for faster incident triage."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Inference engine: A scaler and classifier load from the model registry, then classify each feature vector into attack categories.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Inference engine: ",
+              "fontSize": 18,
+              "typeface": "Arial",
+              "color": "#43612B",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "A scaler and classifier load from the model registry, then classify each feature vector into attack categories.",
+              "fontSize": 18,
+              "typeface": "Arial",
+              "color": "#464646"
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "text": "Risk scoring: Confidence, threshold, protocol, and recent behavior are combined into an analyst-friendly risk interpretation.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Risk scoring: ",
+              "fontSize": 18,
+              "typeface": "Arial",
+              "color": "#43612B",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "Confidence, threshold, protocol, and recent behavior are combined into an analyst-friendly risk interpretation.",
+              "fontSize": 18,
+              "typeface": "Arial",
+              "color": "#464646"
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "text": "Local LLM support: Captured logs can be summarized into plain-language explanations for faster incident triage.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Local LLM support: ",
+              "fontSize": 18,
+              "typeface": "Arial",
+              "color": "#43612B",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "Captured logs can be summarized into plain-language explanations for faster incident triage.",
+              "fontSize": 18,
+              "typeface": "Arial",
+              "color": "#464646"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4byhgn29",
+      "id": "4",
+      "name": "TextBox 3",
+      "bbox": [
+        648,
+        129.6,
+        542.4,
+        451.2
+      ],
+      "geometry": "rect",
+      "text": "Dashboard: Streamlit shows attack type distribution, attackers, targeted services, event feed, and hash evidence.\nSIEM response: Alert hooks and simulated IP blocking turn detection into an operational response workflow.\nQuery path: REST endpoints expose status, stats, search, hashes, and response data for integration.",
+      "textPreview": "Dashboard: Streamlit shows attack type distribution, attackers, targeted services, event feed, and hash evidence. | SIEM response: Alert ...",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 6,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Dashboard: Streamlit shows attack type distribution, attackers,"
+          },
+          {
+            "index": 2,
+            "text": "targeted services, event feed, and hash evidence."
+          },
+          {
+            "index": 3,
+            "text": "SIEM response: Alert hooks and simulated IP blocking turn"
+          },
+          {
+            "index": 4,
+            "text": "detection into an operational response workflow."
+          },
+          {
+            "index": 5,
+            "text": "Query path: REST endpoints expose status, stats, search,"
+          },
+          {
+            "index": 6,
+            "text": "hashes, and response data for integration."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Dashboard: Streamlit shows attack type distribution, attackers, targeted services, event feed, and hash evidence.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Dashboard: ",
+              "fontSize": 18,
+              "typeface": "Arial",
+              "color": "#43612B",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "Streamlit shows attack type distribution, attackers, targeted services, event feed, and hash evidence.",
+              "fontSize": 18,
+              "typeface": "Arial",
+              "color": "#464646"
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "text": "SIEM response: Alert hooks and simulated IP blocking turn detection into an operational response workflow.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "SIEM response: ",
+              "fontSize": 18,
+              "typeface": "Arial",
+              "color": "#43612B",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "Alert hooks and simulated IP blocking turn detection into an operational response workflow.",
+              "fontSize": 18,
+              "typeface": "Arial",
+              "color": "#464646"
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "text": "Query path: REST endpoints expose status, stats, search, hashes, and response data for integration.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Query path: ",
+              "fontSize": 18,
+              "typeface": "Arial",
+              "color": "#43612B",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "REST endpoints expose status, stats, search, hashes, and response data for integration.",
+              "fontSize": 18,
+              "typeface": "Arial",
+              "color": "#464646"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

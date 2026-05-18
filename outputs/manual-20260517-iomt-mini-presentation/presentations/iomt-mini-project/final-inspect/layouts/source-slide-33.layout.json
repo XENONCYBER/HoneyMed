@@ -1,0 +1,403 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/3ex0nuxc",
+    "id": "3ex0nuxc",
+    "slide": 34,
+    "layoutId": "/ppt/slideLayouts/slideLayout8.xml",
+    "layoutName": "Title and Content",
+    "layoutType": "obj",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Organic",
+    "colors": {
+      "accent1": "#83992A",
+      "accent2": "#3C9770",
+      "accent3": "#44709D",
+      "accent4": "#A23C33",
+      "accent5": "#D97828",
+      "accent6": "#DEB340",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#212121",
+      "lt2": "#DADADA",
+      "hlink": "#A8BF4D",
+      "folHlink": "#B4CA80"
+    },
+    "typefaces": [
+      "+mn-lt",
+      "Arial"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout8.xml",
+      "name": "Title and Content",
+      "type": "obj",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout8.xml/2",
+          "id": "2",
+          "name": "Title 1",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout8.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout8.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "Title Placeholder 1",
+          "bbox": [
+            136,
+            103.11,
+            1008,
+            136.89
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "Text Placeholder 2",
+          "bbox": [
+            136,
+            268.44,
+            1008,
+            348.44
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            911.02,
+            626.67,
+            168,
+            29.33
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            136,
+            626.67,
+            767.02,
+            29.33
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "Slide Number Placeholder 5",
+          "bbox": [
+            1087.02,
+            626.67,
+            56.98,
+            29.33
+          ],
+          "geometry": "rect"
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/loj2t83i",
+      "id": "2",
+      "name": "TextBox 1",
+      "bbox": [
+        96,
+        46.08,
+        1089.6,
+        46.08
+      ],
+      "geometry": "rect",
+      "text": "References",
+      "textPreview": "References",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "References"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "References",
+          "runs": [
+            {
+              "index": 1,
+              "text": "References",
+              "fontSize": 26.67,
+              "typeface": "Arial",
+              "color": "#1E1E1E",
+              "bold": true,
+              "alignment": "center"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/w3m94fu1",
+      "id": "3",
+      "name": "TextBox 2",
+      "bbox": [
+        72,
+        120,
+        1142.4,
+        499.2
+      ],
+      "geometry": "rect",
+      "text": "[1] Al-Turjman, F., et al. Deep Learning-based Intrusion Detection System for IoMT. IEEE IoT Journal, 2021.\n\n[2] Gupta, R., and Singh, A. Design and Implementation of a Deception Framework for Healthcare Networks. JMIR, 2022.\n\n[3] Sharma, P., et al. Blockchain Technology for Electronic Health Records: A Comprehensive Review. IEEE Access, 2023.\n\n[4] Wang, Y., et al. XGBoost-based Network Anomaly Detection in Smart Hospital Environments. Computers in Biology and Medicine, 2021.\n\n[5] Kumar, S., and Patel, N. Federated Learning for Collaborative Threat Detection in Multi-Hospital Systems. IEEE TNSE, 2024.",
+      "textPreview": "[1] Al-Turjman, F., et al. Deep Learning-based Intrusion Detection System for IoMT. IEEE IoT Journal, 2021. |  | [2] Gupta, R., and Singh...",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 9,
+        "lines": [
+          {
+            "index": 1,
+            "text": "[1] Al-Turjman, F., et al. Deep Learning-based Intrusion Detection System for IoMT. IEEE IoT Journal, 2021."
+          },
+          {
+            "index": 2,
+            "text": ""
+          },
+          {
+            "index": 3,
+            "text": "[2] Gupta, R., and Singh, A. Design and Implementation of a Deception Framework for Healthcare Networks. JMIR, 2022."
+          },
+          {
+            "index": 4,
+            "text": ""
+          },
+          {
+            "index": 5,
+            "text": "[3] Sharma, P., et al. Blockchain Technology for Electronic Health Records: A Comprehensive Review. IEEE Access, 2023."
+          },
+          {
+            "index": 6,
+            "text": ""
+          },
+          {
+            "index": 7,
+            "text": "[4] Wang, Y., et al. XGBoost-based Network Anomaly Detection in Smart Hospital Environments. Computers in Biology and Medicine, 2021."
+          },
+          {
+            "index": 8,
+            "text": ""
+          },
+          {
+            "index": 9,
+            "text": "[5] Kumar, S., and Patel, N. Federated Learning for Collaborative Threat Detection in Multi-Hospital Systems. IEEE TNSE, 2024."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "[1] Al-Turjman, F., et al. Deep Learning-based Intrusion Detection System for IoMT. IEEE IoT Journal, 2021.\n\n[2] Gupta, R., and Singh, A. Design and Implementation of a Deception Framework for Healthcare Networks. JMIR, 2022.\n\n[3] Sharma, P., et al. Blockchain Technology for Electronic Health Records: A Comprehensive Review. IEEE Access, 2023.\n\n[4] Wang, Y., et al. XGBoost-based Network Anomaly Detection in Smart Hospital Environments. Computers in Biology and Medicine, 2021.\n\n[5] Kumar, S., and Patel, N. Federated Learning for Collaborative Threat Detection in Multi-Hospital Systems. IEEE TNSE, 2024.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "[1] Al-Turjman, F., et al. Deep Learning-based Intrusion Detection System for IoMT. IEEE IoT Journal, 2021.",
+              "fontSize": 14.27,
+              "typeface": "Arial",
+              "color": "#464646",
+              "alignment": "left"
+            },
+            {
+              "index": 2,
+              "text": "\n",
+              "fontSize": 14.27,
+              "typeface": "Arial",
+              "color": "#464646",
+              "alignment": "left"
+            },
+            {
+              "index": 3,
+              "text": "\n",
+              "fontSize": 14.27,
+              "typeface": "Arial",
+              "color": "#464646",
+              "alignment": "left"
+            },
+            {
+              "index": 4,
+              "text": "[2] Gupta, R., and Singh, A. Design and Implementation of a Deception Framework for Healthcare Networks. JMIR, 2022.",
+              "fontSize": 14.27,
+              "typeface": "Arial",
+              "color": "#464646",
+              "alignment": "left"
+            },
+            {
+              "index": 5,
+              "text": "\n",
+              "fontSize": 14.27,
+              "typeface": "Arial",
+              "color": "#464646",
+              "alignment": "left"
+            },
+            {
+              "index": 6,
+              "text": "\n",
+              "fontSize": 14.27,
+              "typeface": "Arial",
+              "color": "#464646",
+              "alignment": "left"
+            },
+            {
+              "index": 7,
+              "text": "[3] Sharma, P., et al. Blockchain Technology for Electronic Health Records: A Comprehensive Review. IEEE Access, 2023.",
+              "fontSize": 14.27,
+              "typeface": "Arial",
+              "color": "#464646",
+              "alignment": "left"
+            },
+            {
+              "index": 8,
+              "text": "\n",
+              "fontSize": 14.27,
+              "typeface": "Arial",
+              "color": "#464646",
+              "alignment": "left"
+            },
+            {
+              "index": 9,
+              "text": "\n",
+              "fontSize": 14.27,
+              "typeface": "Arial",
+              "color": "#464646",
+              "alignment": "left"
+            },
+            {
+              "index": 10,
+              "text": "[4] Wang, Y., et al. XGBoost-based Network Anomaly Detection in Smart Hospital Environments. Computers in Biology and Medicine, 2021.",
+              "fontSize": 14.27,
+              "typeface": "Arial",
+              "color": "#464646",
+              "alignment": "left"
+            },
+            {
+              "index": 11,
+              "text": "\n",
+              "fontSize": 14.27,
+              "typeface": "Arial",
+              "color": "#464646",
+              "alignment": "left"
+            },
+            {
+              "index": 12,
+              "text": "\n",
+              "fontSize": 14.27,
+              "typeface": "Arial",
+              "color": "#464646",
+              "alignment": "left"
+            },
+            {
+              "index": 13,
+              "text": "[5] Kumar, S., and Patel, N. Federated Learning for Collaborative Threat Detection in Multi-Hospital Systems. IEEE TNSE, 2024.",
+              "fontSize": 14.27,
+              "typeface": "Arial",
+              "color": "#464646",
+              "alignment": "left"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

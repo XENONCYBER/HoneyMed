@@ -1,0 +1,1203 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/mlkjm1cf",
+    "id": "mlkjm1cf",
+    "slide": 6,
+    "layoutId": "/ppt/slideLayouts/slideLayout2.xml",
+    "layoutName": "Title and Content",
+    "layoutType": "obj",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office",
+    "colors": {
+      "accent1": "#5B9BD5",
+      "accent2": "#ED7D31",
+      "accent3": "#A5A5A5",
+      "accent4": "#FFC000",
+      "accent5": "#4472C4",
+      "accent6": "#70AD47",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#44546A",
+      "lt2": "#E7E6E6",
+      "hlink": "#0563C1",
+      "folHlink": "#954F72"
+    },
+    "typefaces": [
+      "+mn-lt",
+      "Times New Roman"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout2.xml",
+      "name": "Title and Content",
+      "type": "obj",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/2",
+          "id": "2",
+          "name": "Title 1",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 4,
+          "kind": "image",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/7",
+          "id": "7",
+          "name": "Picture 6",
+          "bbox": [
+            1116.17,
+            2.64,
+            151.66,
+            43.05
+          ],
+          "contentType": "image/png",
+          "asset": {
+            "assetId": "/ppt/media/image2.png",
+            "contentType": "image/png",
+            "byteLength": 57155
+          },
+          "fillImage": {
+            "assetId": "/ppt/media/image2.png",
+            "contentType": "image/png",
+            "byteLength": 57155
+          }
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "Title Placeholder 1",
+          "bbox": [
+            88,
+            38.33,
+            1104,
+            139.17
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "Text Placeholder 2",
+          "bbox": [
+            88,
+            191.67,
+            1104,
+            456.83
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            88,
+            667.33,
+            288,
+            38.33
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            424,
+            667.33,
+            432,
+            38.33
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "Slide Number Placeholder 5",
+          "bbox": [
+            904,
+            667.33,
+            288,
+            38.33
+          ],
+          "geometry": "rect"
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ovahoza1",
+      "id": "2",
+      "name": "Title 1",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "text": "Literature Survey/Related Work\n",
+      "textPreview": "Literature Survey/Related Work |",
+      "resolvedFontSize": 58.67,
+      "resolvedTextStyle": {
+        "fontSize": 58.67,
+        "typeface": "Times New Roman",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Literature Survey/Related Work"
+          },
+          {
+            "index": 2,
+            "text": ""
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Literature Survey/Related Work\n",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Literature Survey/Related Work"
+            },
+            {
+              "index": 2,
+              "text": "\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/mp0bi9s3",
+      "id": "5",
+      "name": "Content Placeholder 4",
+      "bbox": [
+        52,
+        129.28,
+        1176,
+        463.33
+      ],
+      "text": "Sl.No | Authors | Paper Title | Limitations | Publisher | Year\n1. | Mehta, R., et al. | Security Vulnerabilities in Connected Medical Devices | Focuses on vulnerability assessment rather than active defense mechanisms. | Elsevier | 2023\n2. | Williams, J., & Chen, T. | Medical Device Honeypots: Detecting Attacks on Healthcare Infrastructure | Lacks robust data verification; prone to centralized logging risks. | JMIR | 2023\n3. | Zhang, L., & Hernandez, D. | Deep Learning Models for Predictive Threat Intelligence | Relies on centralized data collection, creating privacy and failure risks. | ACM | 2024\n4. | Sharma, V., et al. | Analysis of IoT Security Challenges in Indian Smart City Initiatives | Survey-based study; does not propose a real-time detection model. | Elsevier | 2022\n5. | Gupta, A., et al. | Machine Learning Techniques for Attack Pattern Recognition | Centralized processing approach raises data privacy concerns. | IEEE | 2024",
+      "textPreview": "Sl.No | Authors | Paper Title | Limitations | Publisher | Year | 1. | Mehta, R., et al. | Security Vulnerabilities in Connected Medical D...",
+      "rows": 6,
+      "cols": 6,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            52,
+            129.28,
+            102.97,
+            77.22
+          ],
+          "text": "Sl.No",
+          "textPreview": "Sl.No",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Sl.No",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Sl.No"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            154.97,
+            129.28,
+            170.43,
+            77.22
+          ],
+          "text": "Authors",
+          "textPreview": "Authors",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Authors",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Authors"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            325.41,
+            129.28,
+            314.59,
+            77.22
+          ],
+          "text": "Paper Title",
+          "textPreview": "Paper Title",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Paper Title",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Paper Title"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 1,
+          "column": 4,
+          "bbox": [
+            640,
+            129.28,
+            308.91,
+            77.22
+          ],
+          "text": "Limitations",
+          "textPreview": "Limitations",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Limitations",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Limitations"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 1,
+          "column": 5,
+          "bbox": [
+            948.91,
+            129.28,
+            175.76,
+            77.22
+          ],
+          "text": "Publisher",
+          "textPreview": "Publisher",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Publisher",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Publisher"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 1,
+          "column": 6,
+          "bbox": [
+            1124.67,
+            129.28,
+            103.33,
+            77.22
+          ],
+          "text": "Year",
+          "textPreview": "Year",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Year",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Year"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            52,
+            206.5,
+            102.97,
+            77.22
+          ],
+          "text": "1.",
+          "textPreview": "1.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "1.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "1."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            154.97,
+            206.5,
+            170.43,
+            77.22
+          ],
+          "text": "Mehta, R., et al.",
+          "textPreview": "Mehta, R., et al.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Mehta, R., et al.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Mehta, R., et al."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            325.41,
+            206.5,
+            314.59,
+            77.22
+          ],
+          "text": "Security Vulnerabilities in Connected Medical Devices",
+          "textPreview": "Security Vulnerabilities in Connected Medical Devices",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Security Vulnerabilities in Connected Medical Devices",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Security Vulnerabilities in Connected Medical Devices"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 2,
+          "column": 4,
+          "bbox": [
+            640,
+            206.5,
+            308.91,
+            77.22
+          ],
+          "text": "Focuses on vulnerability assessment rather than active defense mechanisms.",
+          "textPreview": "Focuses on vulnerability assessment rather than active defense mechanisms.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Focuses on vulnerability assessment rather than active defense mechanisms.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Focuses on vulnerability assessment rather than active defense mechanisms."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 2,
+          "column": 5,
+          "bbox": [
+            948.91,
+            206.5,
+            175.76,
+            77.22
+          ],
+          "text": "Elsevier",
+          "textPreview": "Elsevier",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Elsevier",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Elsevier"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 2,
+          "column": 6,
+          "bbox": [
+            1124.67,
+            206.5,
+            103.33,
+            77.22
+          ],
+          "text": "2023",
+          "textPreview": "2023",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2023",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2023"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            52,
+            283.72,
+            102.97,
+            77.22
+          ],
+          "text": "2.",
+          "textPreview": "2.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            154.97,
+            283.72,
+            170.43,
+            77.22
+          ],
+          "text": "Williams, J., & Chen, T.",
+          "textPreview": "Williams, J., & Chen, T.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Williams, J., & Chen, T.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Williams, J., & Chen, T."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            325.41,
+            283.72,
+            314.59,
+            77.22
+          ],
+          "text": "Medical Device Honeypots: Detecting Attacks on Healthcare Infrastructure",
+          "textPreview": "Medical Device Honeypots: Detecting Attacks on Healthcare Infrastructure",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Medical Device Honeypots: Detecting Attacks on Healthcare Infrastructure",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Medical Device Honeypots: Detecting Attacks on Healthcare Infrastructure"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 16,
+          "row": 3,
+          "column": 4,
+          "bbox": [
+            640,
+            283.72,
+            308.91,
+            77.22
+          ],
+          "text": "Lacks robust data verification; prone to centralized logging risks.",
+          "textPreview": "Lacks robust data verification; prone to centralized logging risks.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Lacks robust data verification; prone to centralized logging risks.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Lacks robust data verification; prone to centralized logging risks."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 17,
+          "row": 3,
+          "column": 5,
+          "bbox": [
+            948.91,
+            283.72,
+            175.76,
+            77.22
+          ],
+          "text": "JMIR",
+          "textPreview": "JMIR",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "JMIR",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "JMIR"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 18,
+          "row": 3,
+          "column": 6,
+          "bbox": [
+            1124.67,
+            283.72,
+            103.33,
+            77.22
+          ],
+          "text": "2023",
+          "textPreview": "2023",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2023",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2023"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 19,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            52,
+            360.94,
+            102.97,
+            77.22
+          ],
+          "text": "3.",
+          "textPreview": "3.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "3.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "3."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 20,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            154.97,
+            360.94,
+            170.43,
+            77.22
+          ],
+          "text": "Zhang, L., & Hernandez, D.",
+          "textPreview": "Zhang, L., & Hernandez, D.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Zhang, L., & Hernandez, D.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Zhang, L., & Hernandez, D."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 21,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            325.41,
+            360.94,
+            314.59,
+            77.22
+          ],
+          "text": "Deep Learning Models for Predictive Threat Intelligence",
+          "textPreview": "Deep Learning Models for Predictive Threat Intelligence",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Deep Learning Models for Predictive Threat Intelligence",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Deep Learning Models for Predictive Threat Intelligence"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 22,
+          "row": 4,
+          "column": 4,
+          "bbox": [
+            640,
+            360.94,
+            308.91,
+            77.22
+          ],
+          "text": "Relies on centralized data collection, creating privacy and failure risks.",
+          "textPreview": "Relies on centralized data collection, creating privacy and failure risks.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Relies on centralized data collection, creating privacy and failure risks.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Relies on centralized data collection, creating privacy and failure risks."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 23,
+          "row": 4,
+          "column": 5,
+          "bbox": [
+            948.91,
+            360.94,
+            175.76,
+            77.22
+          ],
+          "text": "ACM",
+          "textPreview": "ACM",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "ACM",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "ACM"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 24,
+          "row": 4,
+          "column": 6,
+          "bbox": [
+            1124.67,
+            360.94,
+            103.33,
+            77.22
+          ],
+          "text": "2024",
+          "textPreview": "2024",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2024",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2024"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 25,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            52,
+            438.17,
+            102.97,
+            77.22
+          ],
+          "text": "4.",
+          "textPreview": "4.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "4.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "4."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 26,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            154.97,
+            438.17,
+            170.43,
+            77.22
+          ],
+          "text": "Sharma, V., et al.",
+          "textPreview": "Sharma, V., et al.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Sharma, V., et al.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Sharma, V., et al."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 27,
+          "row": 5,
+          "column": 3,
+          "bbox": [
+            325.41,
+            438.17,
+            314.59,
+            77.22
+          ],
+          "text": "Analysis of IoT Security Challenges in Indian Smart City Initiatives",
+          "textPreview": "Analysis of IoT Security Challenges in Indian Smart City Initiatives",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Analysis of IoT Security Challenges in Indian Smart City Initiatives",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Analysis of IoT Security Challenges in Indian Smart City Initiatives"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 28,
+          "row": 5,
+          "column": 4,
+          "bbox": [
+            640,
+            438.17,
+            308.91,
+            77.22
+          ],
+          "text": "Survey-based study; does not propose a real-time detection model.",
+          "textPreview": "Survey-based study; does not propose a real-time detection model.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Survey-based study; does not propose a real-time detection model.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Survey-based study; does not propose a real-time detection model."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 29,
+          "row": 5,
+          "column": 5,
+          "bbox": [
+            948.91,
+            438.17,
+            175.76,
+            77.22
+          ],
+          "text": "Elsevier",
+          "textPreview": "Elsevier",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Elsevier",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Elsevier"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 30,
+          "row": 5,
+          "column": 6,
+          "bbox": [
+            1124.67,
+            438.17,
+            103.33,
+            77.22
+          ],
+          "text": "2022",
+          "textPreview": "2022",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2022",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2022"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 31,
+          "row": 6,
+          "column": 1,
+          "bbox": [
+            52,
+            515.39,
+            102.97,
+            77.22
+          ],
+          "text": "5.",
+          "textPreview": "5.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "5.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "5."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 32,
+          "row": 6,
+          "column": 2,
+          "bbox": [
+            154.97,
+            515.39,
+            170.43,
+            77.22
+          ],
+          "text": "Gupta, A., et al.",
+          "textPreview": "Gupta, A., et al.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Gupta, A., et al.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Gupta, A., et al."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 33,
+          "row": 6,
+          "column": 3,
+          "bbox": [
+            325.41,
+            515.39,
+            314.59,
+            77.22
+          ],
+          "text": "Machine Learning Techniques for Attack Pattern Recognition",
+          "textPreview": "Machine Learning Techniques for Attack Pattern Recognition",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Machine Learning Techniques for Attack Pattern Recognition",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Machine Learning Techniques for Attack Pattern Recognition"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 34,
+          "row": 6,
+          "column": 4,
+          "bbox": [
+            640,
+            515.39,
+            308.91,
+            77.22
+          ],
+          "text": "Centralized processing approach raises data privacy concerns.",
+          "textPreview": "Centralized processing approach raises data privacy concerns.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Centralized processing approach raises data privacy concerns.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Centralized processing approach raises data privacy concerns."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 35,
+          "row": 6,
+          "column": 5,
+          "bbox": [
+            948.91,
+            515.39,
+            175.76,
+            77.22
+          ],
+          "text": "IEEE",
+          "textPreview": "IEEE",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "IEEE",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "IEEE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 36,
+          "row": 6,
+          "column": 6,
+          "bbox": [
+            1124.67,
+            515.39,
+            103.33,
+            77.22
+          ],
+          "text": "2024",
+          "textPreview": "2024",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2024",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2024"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6hcrmhk3",
+      "id": "4",
+      "name": "Slide Number Placeholder 3",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      }
+    }
+  ],
+  "composeRuns": []
+}

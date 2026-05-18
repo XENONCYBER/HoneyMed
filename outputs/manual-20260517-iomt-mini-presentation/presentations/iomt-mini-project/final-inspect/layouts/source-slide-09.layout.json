@@ -1,0 +1,971 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/qh0fepkz",
+    "id": "qh0fepkz",
+    "slide": 10,
+    "layoutId": "/ppt/slideLayouts/slideLayout8.xml",
+    "layoutName": "Title and Content",
+    "layoutType": "obj",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Organic",
+    "colors": {
+      "accent1": "#83992A",
+      "accent2": "#3C9770",
+      "accent3": "#44709D",
+      "accent4": "#A23C33",
+      "accent5": "#D97828",
+      "accent6": "#DEB340",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#212121",
+      "lt2": "#DADADA",
+      "hlink": "#A8BF4D",
+      "folHlink": "#B4CA80"
+    },
+    "typefaces": [
+      "+mn-lt",
+      "Arial"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout8.xml",
+      "name": "Title and Content",
+      "type": "obj",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout8.xml/2",
+          "id": "2",
+          "name": "Title 1",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout8.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout8.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "Title Placeholder 1",
+          "bbox": [
+            136,
+            103.11,
+            1008,
+            136.89
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "Text Placeholder 2",
+          "bbox": [
+            136,
+            268.44,
+            1008,
+            348.44
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            911.02,
+            626.67,
+            168,
+            29.33
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            136,
+            626.67,
+            767.02,
+            29.33
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "Slide Number Placeholder 5",
+          "bbox": [
+            1087.02,
+            626.67,
+            56.98,
+            29.33
+          ],
+          "geometry": "rect"
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ovahoza1",
+      "id": "2",
+      "name": "TextBox 1",
+      "bbox": [
+        96,
+        46.08,
+        1089.6,
+        46.08
+      ],
+      "geometry": "rect",
+      "text": "Literature Survey (16-20)",
+      "textPreview": "Literature Survey (16-20)",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Literature Survey (16-20)"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Literature Survey (16-20)",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Literature Survey (16-20)",
+              "fontSize": 26.67,
+              "typeface": "Arial",
+              "color": "#1E1E1E",
+              "bold": true,
+              "alignment": "center"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/4zidonyd",
+      "id": "3",
+      "name": "Table 2",
+      "bbox": [
+        43.2,
+        120,
+        1195.2,
+        523.2
+      ],
+      "text": "No. | Authors / Year | Focus | Limitation / Gap\n16 | Thamilarasu et al. (2020) | IoMT intrusion detection | Evaluated on older datasets instead of live medical traffic\n17 | Yaacoub et al. (2020) | IoMT security limitations | Theoretical recommendations without empirical testbed\n18 | Hasan et al. (2020) | ML IDS for IoT devices | Does not fully handle memory and power constraints\n19 | Tambe et al. (2020) | Specialized botnet honeypots | Mostly Mirai-focused, not broad IoMT exploitation\n20 | Ferrag et al. (2020) | DL cybersecurity datasets | High false positives in noisy real-world traffic",
+      "textPreview": "No. | Authors / Year | Focus | Limitation / Gap | 16 | Thamilarasu et al. (2020) | IoMT intrusion detection | Evaluated on older datasets...",
+      "rows": 6,
+      "cols": 4,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            43.2,
+            120,
+            71.71,
+            87.2
+          ],
+          "text": "No.",
+          "textPreview": "No.",
+          "fillColor": "#DAE8CD",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "No.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "No.",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#1E1E1E",
+                  "bold": true,
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            114.91,
+            120,
+            262.94,
+            87.2
+          ],
+          "text": "Authors / Year",
+          "textPreview": "Authors / Year",
+          "fillColor": "#DAE8CD",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Authors / Year",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Authors / Year",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#1E1E1E",
+                  "bold": true,
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            377.86,
+            120,
+            298.8,
+            87.2
+          ],
+          "text": "Focus",
+          "textPreview": "Focus",
+          "fillColor": "#DAE8CD",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Focus",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Focus",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#1E1E1E",
+                  "bold": true,
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 1,
+          "column": 4,
+          "bbox": [
+            676.66,
+            120,
+            561.74,
+            87.2
+          ],
+          "text": "Limitation / Gap",
+          "textPreview": "Limitation / Gap",
+          "fillColor": "#DAE8CD",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Limitation / Gap",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Limitation / Gap",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#1E1E1E",
+                  "bold": true,
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            43.2,
+            207.2,
+            71.71,
+            87.2
+          ],
+          "text": "16",
+          "textPreview": "16",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "16",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "16",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            114.91,
+            207.2,
+            262.94,
+            87.2
+          ],
+          "text": "Thamilarasu et al. (2020)",
+          "textPreview": "Thamilarasu et al. (2020)",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Thamilarasu et al. (2020)",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Thamilarasu et al. (2020)",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            377.86,
+            207.2,
+            298.8,
+            87.2
+          ],
+          "text": "IoMT intrusion detection",
+          "textPreview": "IoMT intrusion detection",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "IoMT intrusion detection",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "IoMT intrusion detection",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 2,
+          "column": 4,
+          "bbox": [
+            676.66,
+            207.2,
+            561.74,
+            87.2
+          ],
+          "text": "Evaluated on older datasets instead of live medical traffic",
+          "textPreview": "Evaluated on older datasets instead of live medical traffic",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Evaluated on older datasets instead of live medical traffic",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Evaluated on older datasets instead of live medical traffic",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            43.2,
+            294.4,
+            71.71,
+            87.2
+          ],
+          "text": "17",
+          "textPreview": "17",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "17",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "17",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            114.91,
+            294.4,
+            262.94,
+            87.2
+          ],
+          "text": "Yaacoub et al. (2020)",
+          "textPreview": "Yaacoub et al. (2020)",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Yaacoub et al. (2020)",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Yaacoub et al. (2020)",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            377.86,
+            294.4,
+            298.8,
+            87.2
+          ],
+          "text": "IoMT security limitations",
+          "textPreview": "IoMT security limitations",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "IoMT security limitations",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "IoMT security limitations",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 3,
+          "column": 4,
+          "bbox": [
+            676.66,
+            294.4,
+            561.74,
+            87.2
+          ],
+          "text": "Theoretical recommendations without empirical testbed",
+          "textPreview": "Theoretical recommendations without empirical testbed",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Theoretical recommendations without empirical testbed",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Theoretical recommendations without empirical testbed",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            43.2,
+            381.6,
+            71.71,
+            87.2
+          ],
+          "text": "18",
+          "textPreview": "18",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "18",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "18",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            114.91,
+            381.6,
+            262.94,
+            87.2
+          ],
+          "text": "Hasan et al. (2020)",
+          "textPreview": "Hasan et al. (2020)",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Hasan et al. (2020)",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Hasan et al. (2020)",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            377.86,
+            381.6,
+            298.8,
+            87.2
+          ],
+          "text": "ML IDS for IoT devices",
+          "textPreview": "ML IDS for IoT devices",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "ML IDS for IoT devices",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "ML IDS for IoT devices",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 16,
+          "row": 4,
+          "column": 4,
+          "bbox": [
+            676.66,
+            381.6,
+            561.74,
+            87.2
+          ],
+          "text": "Does not fully handle memory and power constraints",
+          "textPreview": "Does not fully handle memory and power constraints",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Does not fully handle memory and power constraints",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Does not fully handle memory and power constraints",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 17,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            43.2,
+            468.8,
+            71.71,
+            87.2
+          ],
+          "text": "19",
+          "textPreview": "19",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "19",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "19",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 18,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            114.91,
+            468.8,
+            262.94,
+            87.2
+          ],
+          "text": "Tambe et al. (2020)",
+          "textPreview": "Tambe et al. (2020)",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Tambe et al. (2020)",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Tambe et al. (2020)",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 19,
+          "row": 5,
+          "column": 3,
+          "bbox": [
+            377.86,
+            468.8,
+            298.8,
+            87.2
+          ],
+          "text": "Specialized botnet honeypots",
+          "textPreview": "Specialized botnet honeypots",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Specialized botnet honeypots",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Specialized botnet honeypots",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 20,
+          "row": 5,
+          "column": 4,
+          "bbox": [
+            676.66,
+            468.8,
+            561.74,
+            87.2
+          ],
+          "text": "Mostly Mirai-focused, not broad IoMT exploitation",
+          "textPreview": "Mostly Mirai-focused, not broad IoMT exploitation",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Mostly Mirai-focused, not broad IoMT exploitation",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Mostly Mirai-focused, not broad IoMT exploitation",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 21,
+          "row": 6,
+          "column": 1,
+          "bbox": [
+            43.2,
+            556,
+            71.71,
+            87.2
+          ],
+          "text": "20",
+          "textPreview": "20",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "20",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "20",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 22,
+          "row": 6,
+          "column": 2,
+          "bbox": [
+            114.91,
+            556,
+            262.94,
+            87.2
+          ],
+          "text": "Ferrag et al. (2020)",
+          "textPreview": "Ferrag et al. (2020)",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Ferrag et al. (2020)",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Ferrag et al. (2020)",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 23,
+          "row": 6,
+          "column": 3,
+          "bbox": [
+            377.86,
+            556,
+            298.8,
+            87.2
+          ],
+          "text": "DL cybersecurity datasets",
+          "textPreview": "DL cybersecurity datasets",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "DL cybersecurity datasets",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "DL cybersecurity datasets",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 24,
+          "row": 6,
+          "column": 4,
+          "bbox": [
+            676.66,
+            556,
+            561.74,
+            87.2
+          ],
+          "text": "High false positives in noisy real-world traffic",
+          "textPreview": "High false positives in noisy real-world traffic",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "High false positives in noisy real-world traffic",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "High false positives in noisy real-world traffic",
+                  "fontSize": 10.27,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

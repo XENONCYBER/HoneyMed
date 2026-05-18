@@ -1,0 +1,600 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/2x4nap4r",
+    "id": "2x4nap4r",
+    "slide": 2,
+    "layoutId": "/ppt/slideLayouts/slideLayout5.xml",
+    "layoutName": "Blank",
+    "layoutType": "blank",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Organic",
+    "colors": {
+      "accent1": "#83992A",
+      "accent2": "#3C9770",
+      "accent3": "#44709D",
+      "accent4": "#A23C33",
+      "accent5": "#D97828",
+      "accent6": "#DEB340",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#212121",
+      "lt2": "#DADADA",
+      "hlink": "#A8BF4D",
+      "folHlink": "#B4CA80"
+    },
+    "typefaces": [
+      "+mn-lt",
+      "Arial"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout5.xml",
+      "name": "Blank",
+      "type": "blank",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/2",
+          "id": "2",
+          "name": "Date Placeholder 1",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/3",
+          "id": "3",
+          "name": "Footer Placeholder 2",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "Title Placeholder 1",
+          "bbox": [
+            136,
+            103.11,
+            1008,
+            136.89
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "Text Placeholder 2",
+          "bbox": [
+            136,
+            268.44,
+            1008,
+            348.44
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            911.02,
+            626.67,
+            168,
+            29.33
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            136,
+            626.67,
+            767.02,
+            29.33
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "Slide Number Placeholder 5",
+          "bbox": [
+            1087.02,
+            626.67,
+            56.98,
+            29.33
+          ],
+          "geometry": "rect"
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/twra5gbq",
+      "id": "6",
+      "name": "Google Shape;106;p13",
+      "bbox": [
+        66.84,
+        65.11,
+        315.44,
+        89.64
+      ],
+      "contentType": "image/png",
+      "asset": {
+        "assetId": "/ppt/media/image.png",
+        "contentType": "image/png",
+        "byteLength": 59117
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image.png",
+        "contentType": "image/png",
+        "byteLength": 59117
+      }
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cvixczed",
+      "id": "2",
+      "name": "TextBox 1",
+      "bbox": [
+        76.8,
+        139.2,
+        1132.8,
+        100.8
+      ],
+      "geometry": "rect",
+      "text": "An Intelligent Honeypot Framework for Attack Detection in IoMT Networks",
+      "textPreview": "An Intelligent Honeypot Framework for Attack Detection in IoMT Networks",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "An Intelligent Honeypot Framework for Attack Detection in IoMT"
+          },
+          {
+            "index": 2,
+            "text": "Networks"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "An Intelligent Honeypot Framework for Attack Detection in IoMT Networks",
+          "runs": [
+            {
+              "index": 1,
+              "text": "An Intelligent Honeypot Framework for Attack Detection in IoMT Networks",
+              "fontSize": 32,
+              "typeface": "Arial",
+              "color": "#1E1E1E",
+              "bold": true,
+              "alignment": "center"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5gbq1ory",
+      "id": "3",
+      "name": "TextBox 2",
+      "bbox": [
+        76.8,
+        228.48,
+        1132.8,
+        33.6
+      ],
+      "geometry": "rect",
+      "text": "HoneyMed: Edge-based deception, ML classification, and forensic-ready local logging",
+      "textPreview": "HoneyMed: Edge-based deception, ML classification, and forensic-ready local logging",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "HoneyMed: Edge-based deception, ML classification, and forensic-ready local logging"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "HoneyMed: Edge-based deception, ML classification, and forensic-ready local logging",
+          "runs": [
+            {
+              "index": 1,
+              "text": "HoneyMed: Edge-based deception, ML classification, and forensic-ready local logging",
+              "fontSize": 17.33,
+              "typeface": "Arial",
+              "color": "#464646",
+              "alignment": "center"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/czed8v6p",
+      "id": "7",
+      "name": "Table 3",
+      "bbox": [
+        292.8,
+        312,
+        696,
+        177.6
+      ],
+      "text": "Team members | USN\nIshan Chitkarsh | 1MS23CY023\nPrathmesh Sayal | 1MS23CY049\nGuide | Dr. Vishalakshi Prabhu, Associate Professor",
+      "textPreview": "Team members | USN | Ishan Chitkarsh | 1MS23CY023 | Prathmesh Sayal | 1MS23CY049 | Guide | Dr. Vishalakshi Prabhu, Associate Professor",
+      "rows": 4,
+      "cols": 2,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            292.8,
+            312,
+            292.32,
+            44.4
+          ],
+          "text": "Team members",
+          "textPreview": "Team members",
+          "fillColor": "#DAE8CD",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Team members",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Team members",
+                  "fontSize": 16,
+                  "typeface": "Arial",
+                  "color": "#1E1E1E",
+                  "bold": true,
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            585.12,
+            312,
+            403.68,
+            44.4
+          ],
+          "text": "USN",
+          "textPreview": "USN",
+          "fillColor": "#DAE8CD",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "USN",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "USN",
+                  "fontSize": 16,
+                  "typeface": "Arial",
+                  "color": "#1E1E1E",
+                  "bold": true,
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            292.8,
+            356.4,
+            292.32,
+            44.4
+          ],
+          "text": "Ishan Chitkarsh",
+          "textPreview": "Ishan Chitkarsh",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Ishan Chitkarsh",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Ishan Chitkarsh",
+                  "fontSize": 16,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            585.12,
+            356.4,
+            403.68,
+            44.4
+          ],
+          "text": "1MS23CY023",
+          "textPreview": "1MS23CY023",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "1MS23CY023",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "1MS23CY023",
+                  "fontSize": 16,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            292.8,
+            400.8,
+            292.32,
+            44.4
+          ],
+          "text": "Prathmesh Sayal",
+          "textPreview": "Prathmesh Sayal",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Prathmesh Sayal",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Prathmesh Sayal",
+                  "fontSize": 16,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            585.12,
+            400.8,
+            403.68,
+            44.4
+          ],
+          "text": "1MS23CY049",
+          "textPreview": "1MS23CY049",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "1MS23CY049",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "1MS23CY049",
+                  "fontSize": 16,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            292.8,
+            445.2,
+            292.32,
+            44.4
+          ],
+          "text": "Guide",
+          "textPreview": "Guide",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Guide",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Guide",
+                  "fontSize": 16,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            585.12,
+            445.2,
+            403.68,
+            44.4
+          ],
+          "text": "Dr. Vishalakshi Prabhu, Associate Professor",
+          "textPreview": "Dr. Vishalakshi Prabhu, Associate Professor",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Dr. Vishalakshi Prabhu, Associate Professor",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Dr. Vishalakshi Prabhu, Associate Professor",
+                  "fontSize": 16,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nyd0z610",
+      "id": "5",
+      "name": "TextBox 4",
+      "bbox": [
+        96,
+        539.52,
+        1075.2,
+        52.8
+      ],
+      "geometry": "rect",
+      "text": "CYP67 - Mini Project Work | B.E. 6th Semester | Department of CSE (Cyber Security)",
+      "textPreview": "CYP67 - Mini Project Work | B.E. 6th Semester | Department of CSE (Cyber Security)",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "CYP67 - Mini Project Work | B.E. 6th Semester | Department of CSE (Cyber Security)"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "CYP67 - Mini Project Work | B.E. 6th Semester | Department of CSE (Cyber Security)",
+          "runs": [
+            {
+              "index": 1,
+              "text": "CYP67 - Mini Project Work | B.E. 6th Semester | Department of CSE (Cyber Security)",
+              "fontSize": 16,
+              "typeface": "Arial",
+              "color": "#464646",
+              "alignment": "center"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

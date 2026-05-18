@@ -1,0 +1,1253 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/58z25kb6",
+    "id": "58z25kb6",
+    "slide": 7,
+    "layoutId": "/ppt/slideLayouts/slideLayout2.xml",
+    "layoutName": "Title and Content",
+    "layoutType": "obj",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office",
+    "colors": {
+      "accent1": "#5B9BD5",
+      "accent2": "#ED7D31",
+      "accent3": "#A5A5A5",
+      "accent4": "#FFC000",
+      "accent5": "#4472C4",
+      "accent6": "#70AD47",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#44546A",
+      "lt2": "#E7E6E6",
+      "hlink": "#0563C1",
+      "folHlink": "#954F72"
+    },
+    "typefaces": [
+      "+mn-lt",
+      "Times New Roman"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout2.xml",
+      "name": "Title and Content",
+      "type": "obj",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/2",
+          "id": "2",
+          "name": "Title 1",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 4,
+          "kind": "image",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/7",
+          "id": "7",
+          "name": "Picture 6",
+          "bbox": [
+            1116.17,
+            2.64,
+            151.66,
+            43.05
+          ],
+          "contentType": "image/png",
+          "asset": {
+            "assetId": "/ppt/media/image2.png",
+            "contentType": "image/png",
+            "byteLength": 57155
+          },
+          "fillImage": {
+            "assetId": "/ppt/media/image2.png",
+            "contentType": "image/png",
+            "byteLength": 57155
+          }
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "Title Placeholder 1",
+          "bbox": [
+            88,
+            38.33,
+            1104,
+            139.17
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "Text Placeholder 2",
+          "bbox": [
+            88,
+            191.67,
+            1104,
+            456.83
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            88,
+            667.33,
+            288,
+            38.33
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            424,
+            667.33,
+            432,
+            38.33
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "Slide Number Placeholder 5",
+          "bbox": [
+            904,
+            667.33,
+            288,
+            38.33
+          ],
+          "geometry": "rect"
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ylc7u54z",
+      "id": "2",
+      "name": "Title 1",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "text": "Literature Survey/Related Work (2021-2026) Papers (Phase 2)\n",
+      "textPreview": "Literature Survey/Related Work (2021-2026) Papers (Phase 2) |",
+      "resolvedFontSize": 52.8,
+      "resolvedTextStyle": {
+        "fontSize": 58.67,
+        "typeface": "Times New Roman",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Literature Survey/Related Work (2021-2026)"
+          },
+          {
+            "index": 2,
+            "text": "Papers (Phase 2)"
+          },
+          {
+            "index": 3,
+            "text": ""
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Literature Survey/Related Work (2021-2026) Papers (Phase 2)\n",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Literature Survey/Related Work (2021-2026) Papers (Phase 2)"
+            },
+            {
+              "index": 2,
+              "text": "\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/cvixczed",
+      "id": "5",
+      "name": "Content Placeholder 4",
+      "bbox": [
+        60.68,
+        160.04,
+        1176,
+        463.34
+      ],
+      "text": "Sl.No | Authors | Paper Title | Limitations | Publisher | Year\n1. | Bera, B., et al. | AI-Enabled Threat Detection in Edge Computing for Industrial IoT | Optimized strictly for Industrial Control Systems (ICS/Modbus), not healthcare protocols (HL7/DICOM). | IEEE | 2022\n2. | Ghaffar, Z., et al. | Vulnerability Analysis of HL7 and DICOM Protocols in Healthcare Networks | Explores the exact vulnerabilities of medical protocols but fails to propose an active detection or defense mechanism. | ACM | 2022\n3. | Awotunde, J. B., et al. | Intrusion Detection in IoMT Networks Using Deep Learning | High computational overhead makes it difficult to deploy directly on edge devices like Raspberry Pi. | IEEE | 2021\n4. | Wang, Y., et al. | MedPot: A Specialized Honeypot for Medical Network Environments | Uses static interaction profiles that can be identified and bypassed by advanced, adaptive malware. | Springer | 2021\n5. | Dowling, S., et al. | A Lightweight IoT Honeypot for Edge Networks | Strictly a low-interaction honeypot, meaning it cannot capture complex attack payloads or command sequences. | IEEE | 2021",
+      "textPreview": "Sl.No | Authors | Paper Title | Limitations | Publisher | Year | 1. | Bera, B., et al. | AI-Enabled Threat Detection in Edge Computing fo...",
+      "rows": 6,
+      "cols": 6,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            60.68,
+            160.04,
+            102.97,
+            77.22
+          ],
+          "text": "Sl.No",
+          "textPreview": "Sl.No",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Sl.No",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Sl.No",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            163.65,
+            160.04,
+            170.43,
+            77.22
+          ],
+          "text": "Authors",
+          "textPreview": "Authors",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Authors",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Authors",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            334.08,
+            160.04,
+            314.59,
+            77.22
+          ],
+          "text": "Paper Title",
+          "textPreview": "Paper Title",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Paper Title",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Paper Title",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 1,
+          "column": 4,
+          "bbox": [
+            648.68,
+            160.04,
+            308.91,
+            77.22
+          ],
+          "text": "Limitations",
+          "textPreview": "Limitations",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Limitations",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Limitations",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 1,
+          "column": 5,
+          "bbox": [
+            957.59,
+            160.04,
+            175.76,
+            77.22
+          ],
+          "text": "Publisher",
+          "textPreview": "Publisher",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Publisher",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Publisher",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 1,
+          "column": 6,
+          "bbox": [
+            1133.35,
+            160.04,
+            103.33,
+            77.22
+          ],
+          "text": "Year",
+          "textPreview": "Year",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Year",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Year",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            60.68,
+            237.27,
+            102.97,
+            77.22
+          ],
+          "text": "1.",
+          "textPreview": "1.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "1.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "1.",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            163.65,
+            237.27,
+            170.43,
+            77.22
+          ],
+          "text": "Bera, B., et al.",
+          "textPreview": "Bera, B., et al.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Bera, B., et al.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Bera, B., et al.",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            334.08,
+            237.27,
+            314.59,
+            77.22
+          ],
+          "text": "AI-Enabled Threat Detection in Edge Computing for Industrial IoT",
+          "textPreview": "AI-Enabled Threat Detection in Edge Computing for Industrial IoT",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "AI-Enabled Threat Detection in Edge Computing for Industrial IoT",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "AI-Enabled Threat Detection in Edge Computing for Industrial IoT",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 2,
+          "column": 4,
+          "bbox": [
+            648.68,
+            237.27,
+            308.91,
+            77.22
+          ],
+          "text": "Optimized strictly for Industrial Control Systems (ICS/Modbus), not healthcare protocols (HL7/DICOM).",
+          "textPreview": "Optimized strictly for Industrial Control Systems (ICS/Modbus), not healthcare protocols (HL7/DICOM).",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Optimized strictly for Industrial Control Systems (ICS/Modbus), not healthcare protocols (HL7/DICOM).",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Optimized strictly for Industrial Control Systems (ICS/Modbus), not healthcare protocols (HL7/DICOM).",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 2,
+          "column": 5,
+          "bbox": [
+            957.59,
+            237.27,
+            175.76,
+            77.22
+          ],
+          "text": "IEEE",
+          "textPreview": "IEEE",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "IEEE",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "IEEE",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 2,
+          "column": 6,
+          "bbox": [
+            1133.35,
+            237.27,
+            103.33,
+            77.22
+          ],
+          "text": "2022",
+          "textPreview": "2022",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2022",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2022",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            60.68,
+            314.49,
+            102.97,
+            77.22
+          ],
+          "text": "2.",
+          "textPreview": "2.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2.",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            163.65,
+            314.49,
+            170.43,
+            77.22
+          ],
+          "text": "Ghaffar, Z., et al.",
+          "textPreview": "Ghaffar, Z., et al.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Ghaffar, Z., et al.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Ghaffar, Z., et al.",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            334.08,
+            314.49,
+            314.59,
+            77.22
+          ],
+          "text": "Vulnerability Analysis of HL7 and DICOM Protocols in Healthcare Networks",
+          "textPreview": "Vulnerability Analysis of HL7 and DICOM Protocols in Healthcare Networks",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Vulnerability Analysis of HL7 and DICOM Protocols in Healthcare Networks",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Vulnerability Analysis of HL7 and DICOM Protocols in Healthcare Networks",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 16,
+          "row": 3,
+          "column": 4,
+          "bbox": [
+            648.68,
+            314.49,
+            308.91,
+            77.22
+          ],
+          "text": "Explores the exact vulnerabilities of medical protocols but fails to propose an active detection or defense mechanism.",
+          "textPreview": "Explores the exact vulnerabilities of medical protocols but fails to propose an active detection or defense mechanism.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Explores the exact vulnerabilities of medical protocols but fails to propose an active detection or defense mechanism.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Explores the exact vulnerabilities of medical protocols but fails to propose an active detection or defense mechanism.",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 17,
+          "row": 3,
+          "column": 5,
+          "bbox": [
+            957.59,
+            314.49,
+            175.76,
+            77.22
+          ],
+          "text": "ACM",
+          "textPreview": "ACM",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "ACM",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "ACM",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 18,
+          "row": 3,
+          "column": 6,
+          "bbox": [
+            1133.35,
+            314.49,
+            103.33,
+            77.22
+          ],
+          "text": "2022",
+          "textPreview": "2022",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2022",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2022",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 19,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            60.68,
+            391.71,
+            102.97,
+            77.22
+          ],
+          "text": "3.",
+          "textPreview": "3.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "3.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "3.",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 20,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            163.65,
+            391.71,
+            170.43,
+            77.22
+          ],
+          "text": "Awotunde, J. B., et al.",
+          "textPreview": "Awotunde, J. B., et al.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Awotunde, J. B., et al.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Awotunde",
+                  "fontSize": 18.67
+                },
+                {
+                  "index": 2,
+                  "text": ", J. B., et al.",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 21,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            334.08,
+            391.71,
+            314.59,
+            77.22
+          ],
+          "text": "Intrusion Detection in IoMT Networks Using Deep Learning",
+          "textPreview": "Intrusion Detection in IoMT Networks Using Deep Learning",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Intrusion Detection in IoMT Networks Using Deep Learning",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Intrusion Detection in IoMT Networks Using Deep Learning",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 22,
+          "row": 4,
+          "column": 4,
+          "bbox": [
+            648.68,
+            391.71,
+            308.91,
+            77.22
+          ],
+          "text": "High computational overhead makes it difficult to deploy directly on edge devices like Raspberry Pi.",
+          "textPreview": "High computational overhead makes it difficult to deploy directly on edge devices like Raspberry Pi.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "High computational overhead makes it difficult to deploy directly on edge devices like Raspberry Pi.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "High computational overhead makes it difficult to deploy directly on edge devices like Raspberry Pi.",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 23,
+          "row": 4,
+          "column": 5,
+          "bbox": [
+            957.59,
+            391.71,
+            175.76,
+            77.22
+          ],
+          "text": "IEEE",
+          "textPreview": "IEEE",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "IEEE",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "IEEE",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 24,
+          "row": 4,
+          "column": 6,
+          "bbox": [
+            1133.35,
+            391.71,
+            103.33,
+            77.22
+          ],
+          "text": "2021",
+          "textPreview": "2021",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2021",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2021",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 25,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            60.68,
+            468.93,
+            102.97,
+            77.22
+          ],
+          "text": "4.",
+          "textPreview": "4.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "4.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "4.",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 26,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            163.65,
+            468.93,
+            170.43,
+            77.22
+          ],
+          "text": "Wang, Y., et al.",
+          "textPreview": "Wang, Y., et al.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Wang, Y., et al.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Wang, Y., et al.",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 27,
+          "row": 5,
+          "column": 3,
+          "bbox": [
+            334.08,
+            468.93,
+            314.59,
+            77.22
+          ],
+          "text": "MedPot: A Specialized Honeypot for Medical Network Environments",
+          "textPreview": "MedPot: A Specialized Honeypot for Medical Network Environments",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "MedPot: A Specialized Honeypot for Medical Network Environments",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "MedPot",
+                  "fontSize": 18.67
+                },
+                {
+                  "index": 2,
+                  "text": ": A Specialized Honeypot for Medical Network Environments",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 28,
+          "row": 5,
+          "column": 4,
+          "bbox": [
+            648.68,
+            468.93,
+            308.91,
+            77.22
+          ],
+          "text": "Uses static interaction profiles that can be identified and bypassed by advanced, adaptive malware.",
+          "textPreview": "Uses static interaction profiles that can be identified and bypassed by advanced, adaptive malware.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Uses static interaction profiles that can be identified and bypassed by advanced, adaptive malware.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Uses static interaction profiles that can be identified and bypassed by advanced, adaptive malware.",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 29,
+          "row": 5,
+          "column": 5,
+          "bbox": [
+            957.59,
+            468.93,
+            175.76,
+            77.22
+          ],
+          "text": "Springer",
+          "textPreview": "Springer",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Springer",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Springer",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 30,
+          "row": 5,
+          "column": 6,
+          "bbox": [
+            1133.35,
+            468.93,
+            103.33,
+            77.22
+          ],
+          "text": "2021",
+          "textPreview": "2021",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2021",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2021",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 31,
+          "row": 6,
+          "column": 1,
+          "bbox": [
+            60.68,
+            546.16,
+            102.97,
+            77.22
+          ],
+          "text": "5.",
+          "textPreview": "5.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "5.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "5.",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 32,
+          "row": 6,
+          "column": 2,
+          "bbox": [
+            163.65,
+            546.16,
+            170.43,
+            77.22
+          ],
+          "text": "Dowling, S., et al.",
+          "textPreview": "Dowling, S., et al.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Dowling, S., et al.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Dowling, S., et al.",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 33,
+          "row": 6,
+          "column": 3,
+          "bbox": [
+            334.08,
+            546.16,
+            314.59,
+            77.22
+          ],
+          "text": "A Lightweight IoT Honeypot for Edge Networks",
+          "textPreview": "A Lightweight IoT Honeypot for Edge Networks",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "A Lightweight IoT Honeypot for Edge Networks",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "A Lightweight IoT Honeypot for Edge Networks",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 34,
+          "row": 6,
+          "column": 4,
+          "bbox": [
+            648.68,
+            546.16,
+            308.91,
+            77.22
+          ],
+          "text": "Strictly a low-interaction honeypot, meaning it cannot capture complex attack payloads or command sequences.",
+          "textPreview": "Strictly a low-interaction honeypot, meaning it cannot capture complex attack payloads or command sequences.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Strictly a low-interaction honeypot, meaning it cannot capture complex attack payloads or command sequences.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Strictly a low-interaction honeypot, meaning it cannot capture complex attack payloads or command sequences.",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 35,
+          "row": 6,
+          "column": 5,
+          "bbox": [
+            957.59,
+            546.16,
+            175.76,
+            77.22
+          ],
+          "text": "IEEE",
+          "textPreview": "IEEE",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "IEEE",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "IEEE",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 36,
+          "row": 6,
+          "column": 6,
+          "bbox": [
+            1133.35,
+            546.16,
+            103.33,
+            77.22
+          ],
+          "text": "2021",
+          "textPreview": "2021",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2021",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2021",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/g3ex0nux",
+      "id": "4",
+      "name": "Slide Number Placeholder 3",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      }
+    }
+  ],
+  "composeRuns": []
+}

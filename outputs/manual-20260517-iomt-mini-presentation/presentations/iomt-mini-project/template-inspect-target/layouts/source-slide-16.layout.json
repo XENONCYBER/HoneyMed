@@ -1,0 +1,1087 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/8z25kb6x",
+    "id": "8z25kb6x",
+    "slide": 17,
+    "layoutId": "/ppt/slideLayouts/slideLayout2.xml",
+    "layoutName": "Title and Content",
+    "layoutType": "obj",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Organic",
+    "colors": {
+      "accent1": "#83992A",
+      "accent2": "#3C9770",
+      "accent3": "#44709D",
+      "accent4": "#A23C33",
+      "accent5": "#D97828",
+      "accent6": "#DEB340",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#212121",
+      "lt2": "#DADADA",
+      "hlink": "#A8BF4D",
+      "folHlink": "#B4CA80"
+    },
+    "typefaces": [
+      "+mj-lt",
+      "+mn-lt"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout2.xml",
+      "name": "Title and Content",
+      "type": "obj",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/7",
+          "id": "7",
+          "name": "Straight Connector 6",
+          "bbox": [
+            146.58,
+            254.22,
+            987.64,
+            0
+          ],
+          "geometry": "line",
+          "lineWidth": 1.67
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/2",
+          "id": "2",
+          "name": "Title 1",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "image",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/10",
+          "id": "10",
+          "name": "Picture 7",
+          "bbox": [
+            0,
+            0,
+            1279.67,
+            719.81
+          ],
+          "contentType": "image/png",
+          "asset": {
+            "assetId": "/ppt/media/image3.png",
+            "contentType": "image/png",
+            "byteLength": 182409
+          },
+          "fillImage": {
+            "assetId": "/ppt/media/image3.png",
+            "contentType": "image/png",
+            "byteLength": 182409
+          }
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/9",
+          "id": "9",
+          "name": "Rectangle 8",
+          "bbox": [
+            63.83,
+            64,
+            1152,
+            592
+          ],
+          "geometry": "rect",
+          "lineWidth": 1.67
+        },
+        {
+          "order": 3,
+          "kind": "image",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/11",
+          "id": "11",
+          "name": "Picture 9",
+          "bbox": [
+            -1.65,
+            331.11,
+            81.6,
+            63.67
+          ],
+          "contentType": "image/png",
+          "asset": {
+            "assetId": "/ppt/media/image4.png",
+            "contentType": "image/png",
+            "byteLength": 3535
+          },
+          "fillImage": {
+            "assetId": "/ppt/media/image4.png",
+            "contentType": "image/png",
+            "byteLength": 3535
+          }
+        },
+        {
+          "order": 4,
+          "kind": "image",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/12",
+          "id": "12",
+          "name": "Picture 10",
+          "bbox": [
+            1200.73,
+            331.11,
+            81.6,
+            63.67
+          ],
+          "contentType": "image/png",
+          "asset": {
+            "assetId": "/ppt/media/image4.png",
+            "contentType": "image/png",
+            "byteLength": 3535
+          },
+          "fillImage": {
+            "assetId": "/ppt/media/image4.png",
+            "contentType": "image/png",
+            "byteLength": 3535
+          }
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "Title Placeholder 1",
+          "bbox": [
+            136,
+            103.11,
+            1008,
+            136.89
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 6,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "Text Placeholder 2",
+          "bbox": [
+            136,
+            268.44,
+            1008,
+            348.44
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 7,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            911.02,
+            626.67,
+            168,
+            29.33
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 8,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            136,
+            626.67,
+            767.02,
+            29.33
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 9,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "Slide Number Placeholder 5",
+          "bbox": [
+            1087.02,
+            626.67,
+            56.98,
+            29.33
+          ],
+          "geometry": "rect"
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/pg3ex0nu",
+      "id": "2",
+      "name": "Title 1",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "text": "Dataset",
+      "textPreview": "Dataset",
+      "resolvedFontSize": 58.67,
+      "resolvedTextStyle": {
+        "fontSize": 58.67,
+        "typeface": "+mj-lt",
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Dataset"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Dataset",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Dataset",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7mp0bi9s",
+      "id": "4",
+      "name": "Date Placeholder 3",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      }
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/e1w7mp0b",
+      "id": "5",
+      "name": "Slide Number Placeholder 4",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      }
+    },
+    {
+      "order": 4,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/g3ex0nux",
+      "id": "6",
+      "name": "Content Placeholder 11",
+      "bbox": [
+        246.23,
+        273.49,
+        753.69,
+        368.09
+      ],
+      "text": "Parameter | Description\nDataset Name\nSource\nDataset Type\nData Format\nTotal Number of Files\nDays Covered\nTotal Records (Rows)\nTotal Features\nLabel Type\nFeature Categories\nTraffic Type\nCollection Tool\nAttack Scenarios Included\nBenign Traffic\nClass Imbalance\nDataset Size",
+      "textPreview": "Parameter | Description | Dataset Name | Source | Dataset Type | Data Format | Total Number of Files | Days Covered | Total Records (Rows...",
+      "rows": 17,
+      "cols": 2,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            246.23,
+            273.49,
+            230.54,
+            21.65
+          ],
+          "text": "Parameter",
+          "textPreview": "Parameter",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Parameter",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Parameter",
+                  "fontSize": 14.67,
+                  "color": "tx1",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            476.76,
+            273.49,
+            523.16,
+            21.65
+          ],
+          "text": "Description",
+          "textPreview": "Description",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Description",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Description",
+                  "fontSize": 14.67,
+                  "color": "tx1",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            246.23,
+            295.14,
+            230.54,
+            21.65
+          ],
+          "text": "Dataset Name",
+          "textPreview": "Dataset Name",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Dataset Name",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Dataset Name",
+                  "fontSize": 14.67,
+                  "typeface": "+mn-lt",
+                  "color": "tx1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            476.76,
+            295.14,
+            523.16,
+            21.65
+          ]
+        },
+        {
+          "index": 5,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            246.23,
+            316.79,
+            230.54,
+            21.65
+          ],
+          "text": "Source",
+          "textPreview": "Source",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Source",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Source",
+                  "fontSize": 14.67,
+                  "typeface": "+mn-lt",
+                  "color": "tx1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            476.76,
+            316.79,
+            523.16,
+            21.65
+          ]
+        },
+        {
+          "index": 7,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            246.23,
+            338.44,
+            230.54,
+            21.65
+          ],
+          "text": "Dataset Type",
+          "textPreview": "Dataset Type",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Dataset Type",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Dataset Type",
+                  "fontSize": 14.67,
+                  "typeface": "+mn-lt",
+                  "color": "tx1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            476.76,
+            338.44,
+            523.16,
+            21.65
+          ]
+        },
+        {
+          "index": 9,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            246.23,
+            360.1,
+            230.54,
+            21.65
+          ],
+          "text": "Data Format",
+          "textPreview": "Data Format",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Data Format",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Data Format",
+                  "fontSize": 14.67,
+                  "typeface": "+mn-lt",
+                  "color": "tx1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            476.76,
+            360.1,
+            523.16,
+            21.65
+          ]
+        },
+        {
+          "index": 11,
+          "row": 6,
+          "column": 1,
+          "bbox": [
+            246.23,
+            381.75,
+            230.54,
+            21.65
+          ],
+          "text": "Total Number of Files",
+          "textPreview": "Total Number of Files",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Total Number of Files",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Total Number of Files",
+                  "fontSize": 14.67,
+                  "typeface": "+mn-lt",
+                  "color": "tx1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 6,
+          "column": 2,
+          "bbox": [
+            476.76,
+            381.75,
+            523.16,
+            21.65
+          ]
+        },
+        {
+          "index": 13,
+          "row": 7,
+          "column": 1,
+          "bbox": [
+            246.23,
+            403.4,
+            230.54,
+            21.65
+          ],
+          "text": "Days Covered",
+          "textPreview": "Days Covered",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Days Covered",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Days Covered",
+                  "fontSize": 14.67,
+                  "typeface": "+mn-lt",
+                  "color": "tx1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 7,
+          "column": 2,
+          "bbox": [
+            476.76,
+            403.4,
+            523.16,
+            21.65
+          ]
+        },
+        {
+          "index": 15,
+          "row": 8,
+          "column": 1,
+          "bbox": [
+            246.23,
+            425.06,
+            230.54,
+            21.65
+          ],
+          "text": "Total Records (Rows)",
+          "textPreview": "Total Records (Rows)",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Total Records (Rows)",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Total Records (Rows)",
+                  "fontSize": 14.67,
+                  "typeface": "+mn-lt",
+                  "color": "tx1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 16,
+          "row": 8,
+          "column": 2,
+          "bbox": [
+            476.76,
+            425.06,
+            523.16,
+            21.65
+          ]
+        },
+        {
+          "index": 17,
+          "row": 9,
+          "column": 1,
+          "bbox": [
+            246.23,
+            446.71,
+            230.54,
+            21.65
+          ],
+          "text": "Total Features",
+          "textPreview": "Total Features",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Total Features",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Total Features",
+                  "fontSize": 14.67,
+                  "typeface": "+mn-lt",
+                  "color": "tx1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 18,
+          "row": 9,
+          "column": 2,
+          "bbox": [
+            476.76,
+            446.71,
+            523.16,
+            21.65
+          ]
+        },
+        {
+          "index": 19,
+          "row": 10,
+          "column": 1,
+          "bbox": [
+            246.23,
+            468.36,
+            230.54,
+            21.65
+          ],
+          "text": "Label Type",
+          "textPreview": "Label Type",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Label Type",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Label Type",
+                  "fontSize": 14.67,
+                  "typeface": "+mn-lt",
+                  "color": "tx1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 20,
+          "row": 10,
+          "column": 2,
+          "bbox": [
+            476.76,
+            468.36,
+            523.16,
+            21.65
+          ]
+        },
+        {
+          "index": 21,
+          "row": 11,
+          "column": 1,
+          "bbox": [
+            246.23,
+            490.01,
+            230.54,
+            21.65
+          ],
+          "text": "Feature Categories",
+          "textPreview": "Feature Categories",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Feature Categories",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Feature Categories",
+                  "fontSize": 14.67,
+                  "typeface": "+mn-lt",
+                  "color": "tx1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 22,
+          "row": 11,
+          "column": 2,
+          "bbox": [
+            476.76,
+            490.01,
+            523.16,
+            21.65
+          ]
+        },
+        {
+          "index": 23,
+          "row": 12,
+          "column": 1,
+          "bbox": [
+            246.23,
+            511.67,
+            230.54,
+            21.65
+          ],
+          "text": "Traffic Type",
+          "textPreview": "Traffic Type",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Traffic Type",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Traffic Type",
+                  "fontSize": 14.67,
+                  "typeface": "+mn-lt",
+                  "color": "tx1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 24,
+          "row": 12,
+          "column": 2,
+          "bbox": [
+            476.76,
+            511.67,
+            523.16,
+            21.65
+          ]
+        },
+        {
+          "index": 25,
+          "row": 13,
+          "column": 1,
+          "bbox": [
+            246.23,
+            533.32,
+            230.54,
+            21.65
+          ],
+          "text": "Collection Tool",
+          "textPreview": "Collection Tool",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Collection Tool",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Collection Tool",
+                  "fontSize": 14.67,
+                  "typeface": "+mn-lt",
+                  "color": "tx1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 26,
+          "row": 13,
+          "column": 2,
+          "bbox": [
+            476.76,
+            533.32,
+            523.16,
+            21.65
+          ]
+        },
+        {
+          "index": 27,
+          "row": 14,
+          "column": 1,
+          "bbox": [
+            246.23,
+            554.97,
+            230.54,
+            21.65
+          ],
+          "text": "Attack Scenarios Included",
+          "textPreview": "Attack Scenarios Included",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Attack Scenarios Included",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Attack Scenarios Included",
+                  "fontSize": 14.67,
+                  "typeface": "+mn-lt",
+                  "color": "tx1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 28,
+          "row": 14,
+          "column": 2,
+          "bbox": [
+            476.76,
+            554.97,
+            523.16,
+            21.65
+          ]
+        },
+        {
+          "index": 29,
+          "row": 15,
+          "column": 1,
+          "bbox": [
+            246.23,
+            576.63,
+            230.54,
+            21.65
+          ],
+          "text": "Benign Traffic",
+          "textPreview": "Benign Traffic",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Benign Traffic",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Benign Traffic",
+                  "fontSize": 14.67,
+                  "typeface": "+mn-lt",
+                  "color": "tx1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 30,
+          "row": 15,
+          "column": 2,
+          "bbox": [
+            476.76,
+            576.63,
+            523.16,
+            21.65
+          ]
+        },
+        {
+          "index": 31,
+          "row": 16,
+          "column": 1,
+          "bbox": [
+            246.23,
+            598.28,
+            230.54,
+            21.65
+          ],
+          "text": "Class Imbalance",
+          "textPreview": "Class Imbalance",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Class Imbalance",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Class Imbalance",
+                  "fontSize": 14.67,
+                  "typeface": "+mn-lt",
+                  "color": "tx1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 32,
+          "row": 16,
+          "column": 2,
+          "bbox": [
+            476.76,
+            598.28,
+            523.16,
+            21.65
+          ]
+        },
+        {
+          "index": 33,
+          "row": 17,
+          "column": 1,
+          "bbox": [
+            246.23,
+            619.93,
+            230.54,
+            21.65
+          ],
+          "text": "Dataset Size",
+          "textPreview": "Dataset Size",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Dataset Size",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Dataset Size",
+                  "fontSize": 14.67,
+                  "typeface": "+mn-lt",
+                  "color": "tx1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 34,
+          "row": 17,
+          "column": 2,
+          "bbox": [
+            476.76,
+            619.93,
+            523.16,
+            21.65
+          ]
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

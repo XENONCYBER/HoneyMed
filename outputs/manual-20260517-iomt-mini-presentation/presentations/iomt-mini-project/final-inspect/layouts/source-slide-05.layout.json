@@ -1,0 +1,539 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/mlkjm1cf",
+    "id": "mlkjm1cf",
+    "slide": 6,
+    "layoutId": "/ppt/slideLayouts/slideLayout8.xml",
+    "layoutName": "Title and Content",
+    "layoutType": "obj",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Organic",
+    "colors": {
+      "accent1": "#83992A",
+      "accent2": "#3C9770",
+      "accent3": "#44709D",
+      "accent4": "#A23C33",
+      "accent5": "#D97828",
+      "accent6": "#DEB340",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#212121",
+      "lt2": "#DADADA",
+      "hlink": "#A8BF4D",
+      "folHlink": "#B4CA80"
+    },
+    "typefaces": [
+      "+mn-lt",
+      "Arial"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout8.xml",
+      "name": "Title and Content",
+      "type": "obj",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout8.xml/2",
+          "id": "2",
+          "name": "Title 1",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout8.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout8.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "Title Placeholder 1",
+          "bbox": [
+            136,
+            103.11,
+            1008,
+            136.89
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "Text Placeholder 2",
+          "bbox": [
+            136,
+            268.44,
+            1008,
+            348.44
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            911.02,
+            626.67,
+            168,
+            29.33
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            136,
+            626.67,
+            767.02,
+            29.33
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "Slide Number Placeholder 5",
+          "bbox": [
+            1087.02,
+            626.67,
+            56.98,
+            29.33
+          ],
+          "geometry": "rect"
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ovahoza1",
+      "id": "2",
+      "name": "TextBox 1",
+      "bbox": [
+        96,
+        46.08,
+        1089.6,
+        46.08
+      ],
+      "geometry": "rect",
+      "text": "Objectives",
+      "textPreview": "Objectives",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Objectives"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Objectives",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Objectives",
+              "fontSize": 26.67,
+              "typeface": "Arial",
+              "color": "#1E1E1E",
+              "bold": true,
+              "alignment": "center"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dg7adsji",
+      "id": "3",
+      "name": "Rounded Rectangle 2",
+      "bbox": [
+        81.6,
+        139.2,
+        532.8,
+        148.8
+      ],
+      "geometry": "roundRect",
+      "text": "1. Build edge IoMT decoys\nEmulate Web UI, HL7, DICOM, MQTT, and SSH surfaces for a fake patient monitor.",
+      "textPreview": "1. Build edge IoMT decoys | Emulate Web UI, HL7, DICOM, MQTT, and SSH surfaces for a fake patient monitor.",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "1. Build edge IoMT decoys"
+          },
+          {
+            "index": 2,
+            "text": "Emulate Web UI, HL7, DICOM, MQTT, and SSH surfaces for a fake"
+          },
+          {
+            "index": 3,
+            "text": "patient monitor."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "1. Build edge IoMT decoys\nEmulate Web UI, HL7, DICOM, MQTT, and SSH surfaces for a fake patient monitor.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "1. Build edge IoMT decoys",
+              "fontSize": 16,
+              "typeface": "Arial",
+              "color": "#1E1E1E",
+              "bold": true,
+              "alignment": "center"
+            },
+            {
+              "index": 2,
+              "text": "\n",
+              "fontSize": 16,
+              "typeface": "Arial",
+              "color": "#1E1E1E",
+              "bold": true,
+              "alignment": "center"
+            },
+            {
+              "index": 3,
+              "text": "Emulate Web UI, HL7, DICOM, MQTT, and SSH surfaces for a fake patient monitor.",
+              "fontSize": 16,
+              "typeface": "Arial",
+              "color": "#1E1E1E",
+              "bold": true,
+              "alignment": "center"
+            }
+          ]
+        }
+      ],
+      "fillColor": "#EBF3E4",
+      "lineColor": "#A0B091",
+      "lineWidth": 1
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6hcrmhk3",
+      "id": "4",
+      "name": "Rounded Rectangle 3",
+      "bbox": [
+        662.4,
+        139.2,
+        532.8,
+        148.8
+      ],
+      "geometry": "roundRect",
+      "text": "2. Capture and enrich telemetry\nConvert raw sessions into structured logs with protocol, source, payload, timing, and metadata.",
+      "textPreview": "2. Capture and enrich telemetry | Convert raw sessions into structured logs with protocol, source, payload, timing, and metadata.",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "2. Capture and enrich telemetry"
+          },
+          {
+            "index": 2,
+            "text": "Convert raw sessions into structured logs with protocol, source,"
+          },
+          {
+            "index": 3,
+            "text": "payload, timing, and metadata."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "2. Capture and enrich telemetry\nConvert raw sessions into structured logs with protocol, source, payload, timing, and metadata.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "2. Capture and enrich telemetry",
+              "fontSize": 16,
+              "typeface": "Arial",
+              "color": "#1E1E1E",
+              "bold": true,
+              "alignment": "center"
+            },
+            {
+              "index": 2,
+              "text": "\n",
+              "fontSize": 16,
+              "typeface": "Arial",
+              "color": "#1E1E1E",
+              "bold": true,
+              "alignment": "center"
+            },
+            {
+              "index": 3,
+              "text": "Convert raw sessions into structured logs with protocol, source, payload, timing, and metadata.",
+              "fontSize": 16,
+              "typeface": "Arial",
+              "color": "#1E1E1E",
+              "bold": true,
+              "alignment": "center"
+            }
+          ]
+        }
+      ],
+      "fillColor": "#EBF3E4",
+      "lineColor": "#A0B091",
+      "lineWidth": 1
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/z25kb6xk",
+      "id": "5",
+      "name": "Rounded Rectangle 4",
+      "bbox": [
+        81.6,
+        355.2,
+        532.8,
+        148.8
+      ],
+      "geometry": "roundRect",
+      "text": "3. Classify attacks using ML\nTrain and deploy Random Forest / XGBoost models for Benign, DoS, PortScan, BruteForce, and Reconnaissance.",
+      "textPreview": "3. Classify attacks using ML | Train and deploy Random Forest / XGBoost models for Benign, DoS, PortScan, BruteForce, and Reconnaissance.",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "3. Classify attacks using ML"
+          },
+          {
+            "index": 2,
+            "text": "Train and deploy Random Forest / XGBoost models for Benign, DoS,"
+          },
+          {
+            "index": 3,
+            "text": "PortScan, BruteForce, and Reconnaissance."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "3. Classify attacks using ML\nTrain and deploy Random Forest / XGBoost models for Benign, DoS, PortScan, BruteForce, and Reconnaissance.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "3. Classify attacks using ML",
+              "fontSize": 16,
+              "typeface": "Arial",
+              "color": "#1E1E1E",
+              "bold": true,
+              "alignment": "center"
+            },
+            {
+              "index": 2,
+              "text": "\n",
+              "fontSize": 16,
+              "typeface": "Arial",
+              "color": "#1E1E1E",
+              "bold": true,
+              "alignment": "center"
+            },
+            {
+              "index": 3,
+              "text": "Train and deploy Random Forest / XGBoost models for Benign, DoS, PortScan, BruteForce, and Reconnaissance.",
+              "fontSize": 16,
+              "typeface": "Arial",
+              "color": "#1E1E1E",
+              "bold": true,
+              "alignment": "center"
+            }
+          ]
+        }
+      ],
+      "fillColor": "#EBF3E4",
+      "lineColor": "#A0B091",
+      "lineWidth": 1
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/onyd0z61",
+      "id": "6",
+      "name": "Rounded Rectangle 5",
+      "bbox": [
+        662.4,
+        355.2,
+        532.8,
+        148.8
+      ],
+      "geometry": "roundRect",
+      "text": "4. Present actionable intelligence\nExpose results through Streamlit, REST endpoints, SIEM response hooks, and hash-backed evidence.",
+      "textPreview": "4. Present actionable intelligence | Expose results through Streamlit, REST endpoints, SIEM response hooks, and hash-backed evidence.",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "4. Present actionable intelligence"
+          },
+          {
+            "index": 2,
+            "text": "Expose results through Streamlit, REST endpoints, SIEM response"
+          },
+          {
+            "index": 3,
+            "text": "hooks, and hash-backed evidence."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "4. Present actionable intelligence\nExpose results through Streamlit, REST endpoints, SIEM response hooks, and hash-backed evidence.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "4. Present actionable intelligence",
+              "fontSize": 16,
+              "typeface": "Arial",
+              "color": "#1E1E1E",
+              "bold": true,
+              "alignment": "center"
+            },
+            {
+              "index": 2,
+              "text": "\n",
+              "fontSize": 16,
+              "typeface": "Arial",
+              "color": "#1E1E1E",
+              "bold": true,
+              "alignment": "center"
+            },
+            {
+              "index": 3,
+              "text": "Expose results through Streamlit, REST endpoints, SIEM response hooks, and hash-backed evidence.",
+              "fontSize": 16,
+              "typeface": "Arial",
+              "color": "#1E1E1E",
+              "bold": true,
+              "alignment": "center"
+            }
+          ]
+        }
+      ],
+      "fillColor": "#EBF3E4",
+      "lineColor": "#A0B091",
+      "lineWidth": 1
+    }
+  ],
+  "composeRuns": []
+}

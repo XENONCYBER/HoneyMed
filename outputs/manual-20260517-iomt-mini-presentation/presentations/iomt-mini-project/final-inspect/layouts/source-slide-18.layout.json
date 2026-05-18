@@ -1,0 +1,700 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/m58z25kb",
+    "id": "m58z25kb",
+    "slide": 19,
+    "layoutId": "/ppt/slideLayouts/slideLayout8.xml",
+    "layoutName": "Title and Content",
+    "layoutType": "obj",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Organic",
+    "colors": {
+      "accent1": "#83992A",
+      "accent2": "#3C9770",
+      "accent3": "#44709D",
+      "accent4": "#A23C33",
+      "accent5": "#D97828",
+      "accent6": "#DEB340",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#212121",
+      "lt2": "#DADADA",
+      "hlink": "#A8BF4D",
+      "folHlink": "#B4CA80"
+    },
+    "typefaces": [
+      "+mn-lt",
+      "Arial"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout8.xml",
+      "name": "Title and Content",
+      "type": "obj",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout8.xml/2",
+          "id": "2",
+          "name": "Title 1",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout8.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout8.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "Title Placeholder 1",
+          "bbox": [
+            136,
+            103.11,
+            1008,
+            136.89
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "Text Placeholder 2",
+          "bbox": [
+            136,
+            268.44,
+            1008,
+            348.44
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            911.02,
+            626.67,
+            168,
+            29.33
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            136,
+            626.67,
+            767.02,
+            29.33
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "Slide Number Placeholder 5",
+          "bbox": [
+            1087.02,
+            626.67,
+            56.98,
+            29.33
+          ],
+          "geometry": "rect"
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/t83itgfm",
+      "id": "2",
+      "name": "TextBox 1",
+      "bbox": [
+        96,
+        46.08,
+        1089.6,
+        46.08
+      ],
+      "geometry": "rect",
+      "text": "Major components in the Project Architecture",
+      "textPreview": "Major components in the Project Architecture",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Major components in the Project Architecture"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Major components in the Project Architecture",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Major components in the Project Architecture",
+              "fontSize": 26.67,
+              "typeface": "Arial",
+              "color": "#1E1E1E",
+              "bold": true,
+              "alignment": "center"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/pkzupwb2",
+      "id": "3",
+      "name": "Table 2",
+      "bbox": [
+        76.8,
+        139.2,
+        1123.2,
+        456
+      ],
+      "text": "Layer | Component | Role\n1 | Clinical Decoy Zone | Fake VitalSync web UI, HL7 listener, DICOM PACS, MQTT broker, SSH banner\n2 | Evidence Pipeline | Session capture, feature extraction, SHA-256 hash, local SQLite storage\n3 | Detection Core | Model registry, inference service, risk scoring, event classifier\n4 | Operations Zone | REST API, SOC dashboard, ledger-ready metadata, SIEM response automation",
+      "textPreview": "Layer | Component | Role | 1 | Clinical Decoy Zone | Fake VitalSync web UI, HL7 listener, DICOM PACS, MQTT broker, SSH banner | 2 | Evide...",
+      "rows": 5,
+      "cols": 3,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            76.8,
+            139.2,
+            112.32,
+            91.2
+          ],
+          "text": "Layer",
+          "textPreview": "Layer",
+          "fillColor": "#DAE8CD",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Layer",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Layer",
+                  "fontSize": 12.92,
+                  "typeface": "Arial",
+                  "color": "#1E1E1E",
+                  "bold": true,
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            189.12,
+            139.2,
+            336.96,
+            91.2
+          ],
+          "text": "Component",
+          "textPreview": "Component",
+          "fillColor": "#DAE8CD",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Component",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Component",
+                  "fontSize": 12.92,
+                  "typeface": "Arial",
+                  "color": "#1E1E1E",
+                  "bold": true,
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            526.08,
+            139.2,
+            673.92,
+            91.2
+          ],
+          "text": "Role",
+          "textPreview": "Role",
+          "fillColor": "#DAE8CD",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Role",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Role",
+                  "fontSize": 12.92,
+                  "typeface": "Arial",
+                  "color": "#1E1E1E",
+                  "bold": true,
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            76.8,
+            230.4,
+            112.32,
+            91.2
+          ],
+          "text": "1",
+          "textPreview": "1",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "1",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "1",
+                  "fontSize": 12.92,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            189.12,
+            230.4,
+            336.96,
+            91.2
+          ],
+          "text": "Clinical Decoy Zone",
+          "textPreview": "Clinical Decoy Zone",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Clinical Decoy Zone",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Clinical Decoy Zone",
+                  "fontSize": 12.92,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            526.08,
+            230.4,
+            673.92,
+            91.2
+          ],
+          "text": "Fake VitalSync web UI, HL7 listener, DICOM PACS, MQTT broker, SSH banner",
+          "textPreview": "Fake VitalSync web UI, HL7 listener, DICOM PACS, MQTT broker, SSH banner",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Fake VitalSync web UI, HL7 listener, DICOM PACS, MQTT broker, SSH banner",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Fake VitalSync web UI, HL7 listener, DICOM PACS, MQTT broker, SSH banner",
+                  "fontSize": 12.92,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            76.8,
+            321.6,
+            112.32,
+            91.2
+          ],
+          "text": "2",
+          "textPreview": "2",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2",
+                  "fontSize": 12.92,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            189.12,
+            321.6,
+            336.96,
+            91.2
+          ],
+          "text": "Evidence Pipeline",
+          "textPreview": "Evidence Pipeline",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Evidence Pipeline",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Evidence Pipeline",
+                  "fontSize": 12.92,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            526.08,
+            321.6,
+            673.92,
+            91.2
+          ],
+          "text": "Session capture, feature extraction, SHA-256 hash, local SQLite storage",
+          "textPreview": "Session capture, feature extraction, SHA-256 hash, local SQLite storage",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Session capture, feature extraction, SHA-256 hash, local SQLite storage",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Session capture, feature extraction, SHA-256 hash, local SQLite storage",
+                  "fontSize": 12.92,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            76.8,
+            412.8,
+            112.32,
+            91.2
+          ],
+          "text": "3",
+          "textPreview": "3",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "3",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "3",
+                  "fontSize": 12.92,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            189.12,
+            412.8,
+            336.96,
+            91.2
+          ],
+          "text": "Detection Core",
+          "textPreview": "Detection Core",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Detection Core",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Detection Core",
+                  "fontSize": 12.92,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            526.08,
+            412.8,
+            673.92,
+            91.2
+          ],
+          "text": "Model registry, inference service, risk scoring, event classifier",
+          "textPreview": "Model registry, inference service, risk scoring, event classifier",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Model registry, inference service, risk scoring, event classifier",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Model registry, inference service, risk scoring, event classifier",
+                  "fontSize": 12.92,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            76.8,
+            504,
+            112.32,
+            91.2
+          ],
+          "text": "4",
+          "textPreview": "4",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "4",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "4",
+                  "fontSize": 12.92,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            189.12,
+            504,
+            336.96,
+            91.2
+          ],
+          "text": "Operations Zone",
+          "textPreview": "Operations Zone",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Operations Zone",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Operations Zone",
+                  "fontSize": 12.92,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 5,
+          "column": 3,
+          "bbox": [
+            526.08,
+            504,
+            673.92,
+            91.2
+          ],
+          "text": "REST API, SOC dashboard, ledger-ready metadata, SIEM response automation",
+          "textPreview": "REST API, SOC dashboard, ledger-ready metadata, SIEM response automation",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "REST API, SOC dashboard, ledger-ready metadata, SIEM response automation",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "REST API, SOC dashboard, ledger-ready metadata, SIEM response automation",
+                  "fontSize": 12.92,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

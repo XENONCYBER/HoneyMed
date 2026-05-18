@@ -1,0 +1,369 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/h0fepkzu",
+    "id": "h0fepkzu",
+    "slide": 32,
+    "layoutId": "/ppt/slideLayouts/slideLayout8.xml",
+    "layoutName": "Title and Content",
+    "layoutType": "obj",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Organic",
+    "colors": {
+      "accent1": "#83992A",
+      "accent2": "#3C9770",
+      "accent3": "#44709D",
+      "accent4": "#A23C33",
+      "accent5": "#D97828",
+      "accent6": "#DEB340",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#212121",
+      "lt2": "#DADADA",
+      "hlink": "#A8BF4D",
+      "folHlink": "#B4CA80"
+    },
+    "typefaces": [
+      "+mn-lt",
+      "Arial"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout8.xml",
+      "name": "Title and Content",
+      "type": "obj",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout8.xml/2",
+          "id": "2",
+          "name": "Title 1",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout8.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout8.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "Title Placeholder 1",
+          "bbox": [
+            136,
+            103.11,
+            1008,
+            136.89
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "Text Placeholder 2",
+          "bbox": [
+            136,
+            268.44,
+            1008,
+            348.44
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            911.02,
+            626.67,
+            168,
+            29.33
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            136,
+            626.67,
+            767.02,
+            29.33
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "Slide Number Placeholder 5",
+          "bbox": [
+            1087.02,
+            626.67,
+            56.98,
+            29.33
+          ],
+          "geometry": "rect"
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/y1kre1w7",
+      "id": "2",
+      "name": "TextBox 1",
+      "bbox": [
+        96,
+        46.08,
+        1089.6,
+        46.08
+      ],
+      "geometry": "rect",
+      "text": "Future Work",
+      "textPreview": "Future Work",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Future Work"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Future Work",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Future Work",
+              "fontSize": 26.67,
+              "typeface": "Arial",
+              "color": "#1E1E1E",
+              "bold": true,
+              "alignment": "center"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/rmhk3q5o",
+      "id": "3",
+      "name": "TextBox 2",
+      "bbox": [
+        96,
+        129.6,
+        1080,
+        470.4
+      ],
+      "geometry": "rect",
+      "text": "More realistic decoys: add surgical robotics, imaging workflows, infusion pump behavior, and richer patient-monitor interactions.\nFederated learning: let multiple hospitals improve the model without sharing raw patient or telemetry data.\nBlockchain-backed logs: commit selected event hashes to a tamper-proof ledger for stronger evidence chains.\nExpanded response automation: connect SIEM alerts to ticketing, firewall rules, and MITRE ATT&CK mappings.",
+      "textPreview": "More realistic decoys: add surgical robotics, imaging workflows, infusion pump behavior, and richer patient-monitor interactions. | Feder...",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 7,
+        "lines": [
+          {
+            "index": 1,
+            "text": "More realistic decoys: add surgical robotics, imaging workflows, infusion pump behavior, and richer"
+          },
+          {
+            "index": 2,
+            "text": "patient-monitor interactions."
+          },
+          {
+            "index": 3,
+            "text": "Federated learning: let multiple hospitals improve the model without sharing raw patient or telemetry data."
+          },
+          {
+            "index": 4,
+            "text": "Blockchain-backed logs: commit selected event hashes to a tamper-proof ledger for stronger evidence"
+          },
+          {
+            "index": 5,
+            "text": "chains."
+          },
+          {
+            "index": 6,
+            "text": "Expanded response automation: connect SIEM alerts to ticketing, firewall rules, and MITRE ATT&CK"
+          },
+          {
+            "index": 7,
+            "text": "mappings."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "More realistic decoys: add surgical robotics, imaging workflows, infusion pump behavior, and richer patient-monitor interactions.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "More realistic decoys: ",
+              "fontSize": 21.73,
+              "typeface": "Arial",
+              "color": "#43612B",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "add surgical robotics, imaging workflows, infusion pump behavior, and richer patient-monitor interactions.",
+              "fontSize": 21.73,
+              "typeface": "Arial",
+              "color": "#464646"
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "text": "Federated learning: let multiple hospitals improve the model without sharing raw patient or telemetry data.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Federated learning: ",
+              "fontSize": 21.73,
+              "typeface": "Arial",
+              "color": "#43612B",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "let multiple hospitals improve the model without sharing raw patient or telemetry data.",
+              "fontSize": 21.73,
+              "typeface": "Arial",
+              "color": "#464646"
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "text": "Blockchain-backed logs: commit selected event hashes to a tamper-proof ledger for stronger evidence chains.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Blockchain-backed logs: ",
+              "fontSize": 21.73,
+              "typeface": "Arial",
+              "color": "#43612B",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "commit selected event hashes to a tamper-proof ledger for stronger evidence chains.",
+              "fontSize": 21.73,
+              "typeface": "Arial",
+              "color": "#464646"
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "text": "Expanded response automation: connect SIEM alerts to ticketing, firewall rules, and MITRE ATT&CK mappings.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Expanded response automation: ",
+              "fontSize": 21.73,
+              "typeface": "Arial",
+              "color": "#43612B",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "connect SIEM alerts to ticketing, firewall rules, and MITRE ATT&CK mappings.",
+              "fontSize": 21.73,
+              "typeface": "Arial",
+              "color": "#464646"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

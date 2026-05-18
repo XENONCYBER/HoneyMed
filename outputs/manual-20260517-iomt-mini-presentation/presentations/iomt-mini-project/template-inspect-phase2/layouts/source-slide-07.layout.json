@@ -1,0 +1,1281 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/0z61032l",
+    "id": "0z61032l",
+    "slide": 8,
+    "layoutId": "/ppt/slideLayouts/slideLayout2.xml",
+    "layoutName": "Title and Content",
+    "layoutType": "obj",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office",
+    "colors": {
+      "accent1": "#5B9BD5",
+      "accent2": "#ED7D31",
+      "accent3": "#A5A5A5",
+      "accent4": "#FFC000",
+      "accent5": "#4472C4",
+      "accent6": "#70AD47",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#44546A",
+      "lt2": "#E7E6E6",
+      "hlink": "#0563C1",
+      "folHlink": "#954F72"
+    },
+    "typefaces": [
+      "+mn-lt",
+      "Times New Roman"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout2.xml",
+      "name": "Title and Content",
+      "type": "obj",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/2",
+          "id": "2",
+          "name": "Title 1",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 4,
+          "kind": "image",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/7",
+          "id": "7",
+          "name": "Picture 6",
+          "bbox": [
+            1116.17,
+            2.64,
+            151.66,
+            43.05
+          ],
+          "contentType": "image/png",
+          "asset": {
+            "assetId": "/ppt/media/image2.png",
+            "contentType": "image/png",
+            "byteLength": 57155
+          },
+          "fillImage": {
+            "assetId": "/ppt/media/image2.png",
+            "contentType": "image/png",
+            "byteLength": 57155
+          }
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "Title Placeholder 1",
+          "bbox": [
+            88,
+            38.33,
+            1104,
+            139.17
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "Text Placeholder 2",
+          "bbox": [
+            88,
+            191.67,
+            1104,
+            456.83
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            88,
+            667.33,
+            288,
+            38.33
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            424,
+            667.33,
+            432,
+            38.33
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "Slide Number Placeholder 5",
+          "bbox": [
+            904,
+            667.33,
+            288,
+            38.33
+          ],
+          "geometry": "rect"
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/x4nap4r6",
+      "id": "2",
+      "name": "Title 1",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "text": "Literature Survey/Related Work (2021-2026) Papers (Phase 2)\n",
+      "textPreview": "Literature Survey/Related Work (2021-2026) Papers (Phase 2) |",
+      "resolvedFontSize": 52.8,
+      "resolvedTextStyle": {
+        "fontSize": 58.67,
+        "typeface": "Times New Roman",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Literature Survey/Related Work (2021-2026)"
+          },
+          {
+            "index": 2,
+            "text": "Papers (Phase 2)"
+          },
+          {
+            "index": 3,
+            "text": ""
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Literature Survey/Related Work (2021-2026) Papers (Phase 2)\n",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Literature Survey/Related Work (2021-2026) Papers (Phase 2)"
+            },
+            {
+              "index": 2,
+              "text": "\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8jqh0fep",
+      "id": "3",
+      "name": "Content Placeholder 2",
+      "bbox": [
+        82.09,
+        137.02,
+        1104,
+        456.83
+      ],
+      "resolvedFontSize": 37.33,
+      "resolvedTextStyle": {
+        "fontSize": 37.33,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          },
+          {
+            "index": 2,
+            "text": ""
+          }
+        ]
+      }
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fa9w3m94",
+      "id": "4",
+      "name": "Slide Number Placeholder 3",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      }
+    },
+    {
+      "order": 4,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/z61032ls",
+      "id": "5",
+      "name": "Content Placeholder 4",
+      "bbox": [
+        82.09,
+        137.02,
+        1142.28,
+        523.9
+      ],
+      "text": "Sl.No | Authors | Paper Title | Limitations | Publisher | Year\n6. | Rathore, S., et al. | Real-Time Intrusion Detection System for Edge Computing Environments | High accuracy on known attacks but struggles significantly with identifying zero-day (novel) attack patterns. | Elsevier | 2021\n7. | Hameed, K., et al. | Towards Secure and Scalable IoMT: A Survey | Focuses heavily on cryptography and blockchain access control rather than active deception technology. | IEEE | 2021\n8. | Newaz, A. I., et al. | HealthGuard: A Machine Learning-Based Security Framework for Smart Healthcare | Relies heavily on monitoring patient physiological data rather than pure network traffic analysis. | IEEE | 2020\n9. | Thamilarasu, G., et al. | An Intrusion Detection System for Internet of Medical Things | Evaluated primarily on outdated IT datasets (like NSL-KDD) rather than modern, specialized medical traffic. | IEEE | 2020\n10. | Yaacoub, J. P., et al. | Securing Internet of Medical Things Systems: Limitations, Issues and Recommendations | Primarily a theoretical framework and literature review; lacks empirical hardware validation. | Elsevier | 2020",
+      "textPreview": "Sl.No | Authors | Paper Title | Limitations | Publisher | Year | 6. | Rathore, S., et al. | Real-Time Intrusion Detection System for Edge...",
+      "rows": 6,
+      "cols": 6,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            82.09,
+            137.02,
+            100.02,
+            25.87
+          ],
+          "text": "Sl.No",
+          "textPreview": "Sl.No",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Sl.No",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Sl.No",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            182.11,
+            137.02,
+            193.83,
+            25.87
+          ],
+          "text": "Authors",
+          "textPreview": "Authors",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Authors",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Authors",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            375.94,
+            137.02,
+            277.29,
+            25.87
+          ],
+          "text": "Paper Title",
+          "textPreview": "Paper Title",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Paper Title",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Paper Title",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 1,
+          "column": 4,
+          "bbox": [
+            653.23,
+            137.02,
+            300.05,
+            25.87
+          ],
+          "text": "Limitations",
+          "textPreview": "Limitations",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Limitations",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Limitations",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 1,
+          "column": 5,
+          "bbox": [
+            953.29,
+            137.02,
+            170.72,
+            25.87
+          ],
+          "text": "Publisher",
+          "textPreview": "Publisher",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Publisher",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Publisher",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 1,
+          "column": 6,
+          "bbox": [
+            1124.01,
+            137.02,
+            100.36,
+            25.87
+          ],
+          "text": "Year",
+          "textPreview": "Year",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Year",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Year",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            82.09,
+            162.89,
+            100.02,
+            103.49
+          ],
+          "text": "6.",
+          "textPreview": "6.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "6.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "6.",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            182.11,
+            162.89,
+            193.83,
+            103.49
+          ],
+          "text": "Rathore, S., et al.",
+          "textPreview": "Rathore, S., et al.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Rathore, S., et al.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Rathore, S., et al.",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            375.94,
+            162.89,
+            277.29,
+            103.49
+          ],
+          "text": "Real-Time Intrusion Detection System for Edge Computing Environments",
+          "textPreview": "Real-Time Intrusion Detection System for Edge Computing Environments",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Real-Time Intrusion Detection System for Edge Computing Environments",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Real-Time Intrusion Detection System for Edge Computing Environments",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 2,
+          "column": 4,
+          "bbox": [
+            653.23,
+            162.89,
+            300.05,
+            103.49
+          ],
+          "text": "High accuracy on known attacks but struggles significantly with identifying zero-day (novel) attack patterns.",
+          "textPreview": "High accuracy on known attacks but struggles significantly with identifying zero-day (novel) attack patterns.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "High accuracy on known attacks but struggles significantly with identifying zero-day (novel) attack patterns.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "High accuracy on known attacks but struggles significantly with identifying zero-day (novel) attack patterns.",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 2,
+          "column": 5,
+          "bbox": [
+            953.29,
+            162.89,
+            170.72,
+            103.49
+          ],
+          "text": "Elsevier",
+          "textPreview": "Elsevier",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Elsevier",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Elsevier",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 2,
+          "column": 6,
+          "bbox": [
+            1124.01,
+            162.89,
+            100.36,
+            103.49
+          ],
+          "text": "2021",
+          "textPreview": "2021",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2021",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2021",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            82.09,
+            266.38,
+            100.02,
+            103.49
+          ],
+          "text": "7.",
+          "textPreview": "7.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "7.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "7.",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            182.11,
+            266.38,
+            193.83,
+            103.49
+          ],
+          "text": "Hameed, K., et al.",
+          "textPreview": "Hameed, K., et al.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Hameed, K., et al.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Hameed, K., et al.",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            375.94,
+            266.38,
+            277.29,
+            103.49
+          ],
+          "text": "Towards Secure and Scalable IoMT: A Survey",
+          "textPreview": "Towards Secure and Scalable IoMT: A Survey",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Towards Secure and Scalable IoMT: A Survey",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Towards Secure and Scalable IoMT: A Survey",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 16,
+          "row": 3,
+          "column": 4,
+          "bbox": [
+            653.23,
+            266.38,
+            300.05,
+            103.49
+          ],
+          "text": "Focuses heavily on cryptography and blockchain access control rather than active deception technology.",
+          "textPreview": "Focuses heavily on cryptography and blockchain access control rather than active deception technology.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Focuses heavily on cryptography and blockchain access control rather than active deception technology.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Focuses heavily on cryptography and blockchain access control rather than active deception technology.",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 17,
+          "row": 3,
+          "column": 5,
+          "bbox": [
+            953.29,
+            266.38,
+            170.72,
+            103.49
+          ],
+          "text": "IEEE",
+          "textPreview": "IEEE",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "IEEE",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "IEEE",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 18,
+          "row": 3,
+          "column": 6,
+          "bbox": [
+            1124.01,
+            266.38,
+            100.36,
+            103.49
+          ],
+          "text": "2021",
+          "textPreview": "2021",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2021",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2021",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 19,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            82.09,
+            369.87,
+            100.02,
+            103.49
+          ],
+          "text": "8.",
+          "textPreview": "8.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "8.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "8.",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 20,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            182.11,
+            369.87,
+            193.83,
+            103.49
+          ],
+          "text": "Newaz, A. I., et al.",
+          "textPreview": "Newaz, A. I., et al.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Newaz, A. I., et al.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Newaz, A. I., et al.",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 21,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            375.94,
+            369.87,
+            277.29,
+            103.49
+          ],
+          "text": "HealthGuard: A Machine Learning-Based Security Framework for Smart Healthcare",
+          "textPreview": "HealthGuard: A Machine Learning-Based Security Framework for Smart Healthcare",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "HealthGuard: A Machine Learning-Based Security Framework for Smart Healthcare",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "HealthGuard",
+                  "fontSize": 18.67
+                },
+                {
+                  "index": 2,
+                  "text": ": A Machine Learning-Based Security Framework for Smart Healthcare",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 22,
+          "row": 4,
+          "column": 4,
+          "bbox": [
+            653.23,
+            369.87,
+            300.05,
+            103.49
+          ],
+          "text": "Relies heavily on monitoring patient physiological data rather than pure network traffic analysis.",
+          "textPreview": "Relies heavily on monitoring patient physiological data rather than pure network traffic analysis.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Relies heavily on monitoring patient physiological data rather than pure network traffic analysis.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Relies heavily on monitoring patient physiological data rather than pure network traffic analysis.",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 23,
+          "row": 4,
+          "column": 5,
+          "bbox": [
+            953.29,
+            369.87,
+            170.72,
+            103.49
+          ],
+          "text": "IEEE",
+          "textPreview": "IEEE",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "IEEE",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "IEEE",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 24,
+          "row": 4,
+          "column": 6,
+          "bbox": [
+            1124.01,
+            369.87,
+            100.36,
+            103.49
+          ],
+          "text": "2020",
+          "textPreview": "2020",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2020",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2020",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 25,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            82.09,
+            473.35,
+            100.02,
+            103.49
+          ],
+          "text": "9.",
+          "textPreview": "9.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "9.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "9.",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 26,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            182.11,
+            473.35,
+            193.83,
+            103.49
+          ],
+          "text": "Thamilarasu, G., et al.",
+          "textPreview": "Thamilarasu, G., et al.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Thamilarasu, G., et al.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Thamilarasu, G., et al.",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 27,
+          "row": 5,
+          "column": 3,
+          "bbox": [
+            375.94,
+            473.35,
+            277.29,
+            103.49
+          ],
+          "text": "An Intrusion Detection System for Internet of Medical Things",
+          "textPreview": "An Intrusion Detection System for Internet of Medical Things",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "An Intrusion Detection System for Internet of Medical Things",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "An Intrusion Detection System for Internet of Medical Things",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 28,
+          "row": 5,
+          "column": 4,
+          "bbox": [
+            653.23,
+            473.35,
+            300.05,
+            103.49
+          ],
+          "text": "Evaluated primarily on outdated IT datasets (like NSL-KDD) rather than modern, specialized medical traffic.",
+          "textPreview": "Evaluated primarily on outdated IT datasets (like NSL-KDD) rather than modern, specialized medical traffic.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Evaluated primarily on outdated IT datasets (like NSL-KDD) rather than modern, specialized medical traffic.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Evaluated primarily on outdated IT datasets (like NSL-KDD) rather than modern, specialized medical traffic.",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 29,
+          "row": 5,
+          "column": 5,
+          "bbox": [
+            953.29,
+            473.35,
+            170.72,
+            103.49
+          ],
+          "text": "IEEE",
+          "textPreview": "IEEE",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "IEEE",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "IEEE",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 30,
+          "row": 5,
+          "column": 6,
+          "bbox": [
+            1124.01,
+            473.35,
+            100.36,
+            103.49
+          ],
+          "text": "2020",
+          "textPreview": "2020",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2020",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2020",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 31,
+          "row": 6,
+          "column": 1,
+          "bbox": [
+            82.09,
+            576.84,
+            100.02,
+            84.08
+          ],
+          "text": "10.",
+          "textPreview": "10.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "10.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "10.",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 32,
+          "row": 6,
+          "column": 2,
+          "bbox": [
+            182.11,
+            576.84,
+            193.83,
+            84.08
+          ],
+          "text": "Yaacoub, J. P., et al.",
+          "textPreview": "Yaacoub, J. P., et al.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Yaacoub, J. P., et al.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Yaacoub, J. P., et al.",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 33,
+          "row": 6,
+          "column": 3,
+          "bbox": [
+            375.94,
+            576.84,
+            277.29,
+            84.08
+          ],
+          "text": "Securing Internet of Medical Things Systems: Limitations, Issues and Recommendations",
+          "textPreview": "Securing Internet of Medical Things Systems: Limitations, Issues and Recommendations",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Securing Internet of Medical Things Systems: Limitations, Issues and Recommendations",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Securing Internet of Medical Things Systems: Limitations, Issues and Recommendations",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 34,
+          "row": 6,
+          "column": 4,
+          "bbox": [
+            653.23,
+            576.84,
+            300.05,
+            84.08
+          ],
+          "text": "Primarily a theoretical framework and literature review; lacks empirical hardware validation.",
+          "textPreview": "Primarily a theoretical framework and literature review; lacks empirical hardware validation.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Primarily a theoretical framework and literature review; lacks empirical hardware validation.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Primarily a theoretical framework and literature review; lacks empirical hardware validation.",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 35,
+          "row": 6,
+          "column": 5,
+          "bbox": [
+            953.29,
+            576.84,
+            170.72,
+            84.08
+          ],
+          "text": "Elsevier",
+          "textPreview": "Elsevier",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Elsevier",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Elsevier",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 36,
+          "row": 6,
+          "column": 6,
+          "bbox": [
+            1124.01,
+            576.84,
+            100.36,
+            84.08
+          ],
+          "text": "2020",
+          "textPreview": "2020",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2020",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2020",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

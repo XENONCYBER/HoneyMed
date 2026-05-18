@@ -1,0 +1,669 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/8z25kb6x",
+    "id": "8z25kb6x",
+    "slide": 17,
+    "layoutId": "/ppt/slideLayouts/slideLayout8.xml",
+    "layoutName": "Title and Content",
+    "layoutType": "obj",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Organic",
+    "colors": {
+      "accent1": "#83992A",
+      "accent2": "#3C9770",
+      "accent3": "#44709D",
+      "accent4": "#A23C33",
+      "accent5": "#D97828",
+      "accent6": "#DEB340",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#212121",
+      "lt2": "#DADADA",
+      "hlink": "#A8BF4D",
+      "folHlink": "#B4CA80"
+    },
+    "typefaces": [
+      "+mn-lt",
+      "Arial"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout8.xml",
+      "name": "Title and Content",
+      "type": "obj",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout8.xml/2",
+          "id": "2",
+          "name": "Title 1",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout8.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout8.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "Title Placeholder 1",
+          "bbox": [
+            136,
+            103.11,
+            1008,
+            136.89
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "Text Placeholder 2",
+          "bbox": [
+            136,
+            268.44,
+            1008,
+            348.44
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            911.02,
+            626.67,
+            168,
+            29.33
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            136,
+            626.67,
+            767.02,
+            29.33
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "Slide Number Placeholder 5",
+          "bbox": [
+            1087.02,
+            626.67,
+            56.98,
+            29.33
+          ],
+          "geometry": "rect"
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/pg3ex0nu",
+      "id": "2",
+      "name": "TextBox 1",
+      "bbox": [
+        96,
+        46.08,
+        1089.6,
+        46.08
+      ],
+      "geometry": "rect",
+      "text": "Dataset",
+      "textPreview": "Dataset",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Dataset"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Dataset",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Dataset",
+              "fontSize": 26.67,
+              "typeface": "Arial",
+              "color": "#1E1E1E",
+              "bold": true,
+              "alignment": "center"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/9cvixcze",
+      "id": "3",
+      "name": "Table 2",
+      "bbox": [
+        96,
+        120,
+        1075.2,
+        489.6
+      ],
+      "text": "Parameter | Description\nDataset approach | Hybrid: public medical-network baseline + custom HoneyMed live simulation traffic\nCurrent project run | 5,000-sample HoneyMed dataset with a held-out test split\nLabels | Benign, DoS, PortScan, BruteForce, Reconnaissance\nFeature groups | Timing, target/source port, payload size/entropy, protocol flags, credentials, volume, status code\nFormats | CSV processed dataset, JSONL raw logs, SQLite classified event stores\nPurpose | Train, compare, and validate models before deployment in the Layer 3 inference engine",
+      "textPreview": "Parameter | Description | Dataset approach | Hybrid: public medical-network baseline + custom HoneyMed live simulation traffic | Current ...",
+      "rows": 7,
+      "cols": 2,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            96,
+            120,
+            301.06,
+            69.94
+          ],
+          "text": "Parameter",
+          "textPreview": "Parameter",
+          "fillColor": "#DAE8CD",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Parameter",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Parameter",
+                  "fontSize": 12.25,
+                  "typeface": "Arial",
+                  "color": "#1E1E1E",
+                  "bold": true,
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            397.06,
+            120,
+            774.14,
+            69.94
+          ],
+          "text": "Description",
+          "textPreview": "Description",
+          "fillColor": "#DAE8CD",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Description",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Description",
+                  "fontSize": 12.25,
+                  "typeface": "Arial",
+                  "color": "#1E1E1E",
+                  "bold": true,
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            96,
+            189.94,
+            301.06,
+            69.94
+          ],
+          "text": "Dataset approach",
+          "textPreview": "Dataset approach",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Dataset approach",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Dataset approach",
+                  "fontSize": 12.25,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            397.06,
+            189.94,
+            774.14,
+            69.94
+          ],
+          "text": "Hybrid: public medical-network baseline + custom HoneyMed live simulation traffic",
+          "textPreview": "Hybrid: public medical-network baseline + custom HoneyMed live simulation traffic",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Hybrid: public medical-network baseline + custom HoneyMed live simulation traffic",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Hybrid: public medical-network baseline + custom HoneyMed live simulation traffic",
+                  "fontSize": 12.25,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            96,
+            259.89,
+            301.06,
+            69.94
+          ],
+          "text": "Current project run",
+          "textPreview": "Current project run",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Current project run",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Current project run",
+                  "fontSize": 12.25,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            397.06,
+            259.89,
+            774.14,
+            69.94
+          ],
+          "text": "5,000-sample HoneyMed dataset with a held-out test split",
+          "textPreview": "5,000-sample HoneyMed dataset with a held-out test split",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "5,000-sample HoneyMed dataset with a held-out test split",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "5,000-sample HoneyMed dataset with a held-out test split",
+                  "fontSize": 12.25,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            96,
+            329.83,
+            301.06,
+            69.94
+          ],
+          "text": "Labels",
+          "textPreview": "Labels",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Labels",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Labels",
+                  "fontSize": 12.25,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            397.06,
+            329.83,
+            774.14,
+            69.94
+          ],
+          "text": "Benign, DoS, PortScan, BruteForce, Reconnaissance",
+          "textPreview": "Benign, DoS, PortScan, BruteForce, Reconnaissance",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Benign, DoS, PortScan, BruteForce, Reconnaissance",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Benign, DoS, PortScan, BruteForce, Reconnaissance",
+                  "fontSize": 12.25,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            96,
+            399.77,
+            301.06,
+            69.94
+          ],
+          "text": "Feature groups",
+          "textPreview": "Feature groups",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Feature groups",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Feature groups",
+                  "fontSize": 12.25,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            397.06,
+            399.77,
+            774.14,
+            69.94
+          ],
+          "text": "Timing, target/source port, payload size/entropy, protocol flags, credentials, volume, status code",
+          "textPreview": "Timing, target/source port, payload size/entropy, protocol flags, credentials, volume, status code",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Timing, target/source port, payload size/entropy, protocol flags, credentials, volume, status code",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Timing, target/source port, payload size/entropy, protocol flags, credentials, volume, status code",
+                  "fontSize": 12.25,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 6,
+          "column": 1,
+          "bbox": [
+            96,
+            469.71,
+            301.06,
+            69.94
+          ],
+          "text": "Formats",
+          "textPreview": "Formats",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Formats",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Formats",
+                  "fontSize": 12.25,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 6,
+          "column": 2,
+          "bbox": [
+            397.06,
+            469.71,
+            774.14,
+            69.94
+          ],
+          "text": "CSV processed dataset, JSONL raw logs, SQLite classified event stores",
+          "textPreview": "CSV processed dataset, JSONL raw logs, SQLite classified event stores",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "CSV processed dataset, JSONL raw logs, SQLite classified event stores",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "CSV processed dataset, JSONL raw logs, SQLite classified event stores",
+                  "fontSize": 12.25,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 7,
+          "column": 1,
+          "bbox": [
+            96,
+            539.66,
+            301.06,
+            69.94
+          ],
+          "text": "Purpose",
+          "textPreview": "Purpose",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Purpose",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Purpose",
+                  "fontSize": 12.25,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 7,
+          "column": 2,
+          "bbox": [
+            397.06,
+            539.66,
+            774.14,
+            69.94
+          ],
+          "text": "Train, compare, and validate models before deployment in the Layer 3 inference engine",
+          "textPreview": "Train, compare, and validate models before deployment in the Layer 3 inference engine",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Train, compare, and validate models before deployment in the Layer 3 inference engine",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Train, compare, and validate models before deployment in the Layer 3 inference engine",
+                  "fontSize": 12.25,
+                  "typeface": "Arial",
+                  "color": "#464646",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

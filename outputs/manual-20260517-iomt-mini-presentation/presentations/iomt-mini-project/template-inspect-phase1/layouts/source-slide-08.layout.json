@@ -1,0 +1,438 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/fu18jqh0",
+    "id": "fu18jqh0",
+    "slide": 9,
+    "layoutId": "/ppt/slideLayouts/slideLayout2.xml",
+    "layoutName": "Title and Content",
+    "layoutType": "obj",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office",
+    "colors": {
+      "accent1": "#5B9BD5",
+      "accent2": "#ED7D31",
+      "accent3": "#A5A5A5",
+      "accent4": "#FFC000",
+      "accent5": "#4472C4",
+      "accent6": "#70AD47",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#44546A",
+      "lt2": "#E7E6E6",
+      "hlink": "#0563C1",
+      "folHlink": "#954F72"
+    },
+    "typefaces": [
+      "+mn-lt",
+      "Times New Roman"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout2.xml",
+      "name": "Title and Content",
+      "type": "obj",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/2",
+          "id": "2",
+          "name": "Title 1",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 4,
+          "kind": "image",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/7",
+          "id": "7",
+          "name": "Picture 6",
+          "bbox": [
+            1116.17,
+            2.64,
+            151.66,
+            43.05
+          ],
+          "contentType": "image/png",
+          "asset": {
+            "assetId": "/ppt/media/image2.png",
+            "contentType": "image/png",
+            "byteLength": 57155
+          },
+          "fillImage": {
+            "assetId": "/ppt/media/image2.png",
+            "contentType": "image/png",
+            "byteLength": 57155
+          }
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "Title Placeholder 1",
+          "bbox": [
+            88,
+            38.33,
+            1104,
+            139.17
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "Text Placeholder 2",
+          "bbox": [
+            88,
+            191.67,
+            1104,
+            456.83
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            88,
+            667.33,
+            288,
+            38.33
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            424,
+            667.33,
+            432,
+            38.33
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "Slide Number Placeholder 5",
+          "bbox": [
+            904,
+            667.33,
+            288,
+            38.33
+          ],
+          "geometry": "rect"
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/u9knih4b",
+      "id": "2",
+      "name": "Title 1",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "text": "References",
+      "textPreview": "References",
+      "resolvedFontSize": 58.67,
+      "resolvedTextStyle": {
+        "fontSize": 58.67,
+        "typeface": "Times New Roman",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "References"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "References",
+          "runs": [
+            {
+              "index": 1,
+              "text": "References"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/judg7ads",
+      "id": "3",
+      "name": "Content Placeholder 2",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "text": "[1] Mehta, R., Singh, P., & Kumar, D. (2023). Security vulnerabilities in connected        medical devices: Analysis of Indian healthcare facilities. International Journal of Medical Informatics, 171, 104968. \n[2] Williams, J., & Chen, T. (2023). Medical device honeypots: Detecting attacks on healthcare infrastructure. JournalofMedicalInternetResearch,25(4),e42785. \n[3] Zhang,L.,& Hernandez, D.(2024). Deep learning models for predictive threat intelligence using honeypot data. Proceedings of the 2024 ACM SIGSAC Conference on Computer and Communications Security (CCS ’24), 1756-1769. \n[4] Sharma, V., Singh, A., & Kumar, R. (2022). Analysis of IoT security challenges in Indian smart city initiatives. International Journal of Critical Infrastructure Protection, 36, 100503. 4 \n[5] Gupta, A., Mehta, R., & Choudhary, S. (2024). Machine learning techniques for attack pattern recognition in Indian enterprise networks. IEEE Transactions on Network and Service Management, 21(1), 334-347",
+      "textPreview": "[1] Mehta, R., Singh, P., & Kumar, D. (2023). Security vulnerabilities in connected        medical devices: Analysis of Indian healthcare...",
+      "resolvedFontSize": 31.73,
+      "resolvedTextStyle": {
+        "fontSize": 37.33,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 19,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          },
+          {
+            "index": 2,
+            "text": "[1] Mehta, R., Singh, P., & Kumar, D. (2023). Security vulnerabilities in connected"
+          },
+          {
+            "index": 3,
+            "text": "medical devices: Analysis of Indian healthcare facilities. International Journal of"
+          },
+          {
+            "index": 4,
+            "text": "Medical Informatics, 171, 104968."
+          },
+          {
+            "index": 5,
+            "text": ""
+          },
+          {
+            "index": 6,
+            "text": "[2] Williams, J., & Chen, T. (2023). Medical device honeypots: Detecting attacks on"
+          },
+          {
+            "index": 7,
+            "text": "healthcare infrastructure. JournalofMedicalInternetResearch,25(4),e42785."
+          },
+          {
+            "index": 8,
+            "text": ""
+          },
+          {
+            "index": 9,
+            "text": "[3] Zhang,L.,& Hernandez, D.(2024). Deep learning models for predictive threat"
+          },
+          {
+            "index": 10,
+            "text": "intelligence using honeypot data. Proceedings of the 2024 ACM SIGSAC Conference"
+          },
+          {
+            "index": 11,
+            "text": "on Computer and Communications Security (CCS ’24), 1756-1769."
+          },
+          {
+            "index": 12,
+            "text": ""
+          },
+          {
+            "index": 13,
+            "text": "[4] Sharma, V., Singh, A., & Kumar, R. (2022). Analysis of IoT security challenges in"
+          },
+          {
+            "index": 14,
+            "text": "Indian smart city initiatives. International Journal of Critical Infrastructure"
+          },
+          {
+            "index": 15,
+            "text": "Protection, 36, 100503. 4"
+          },
+          {
+            "index": 16,
+            "text": ""
+          },
+          {
+            "index": 17,
+            "text": "[5] Gupta, A., Mehta, R., & Choudhary, S. (2024). Machine learning techniques for"
+          },
+          {
+            "index": 18,
+            "text": "attack pattern recognition in Indian enterprise networks. IEEE Transactions on"
+          },
+          {
+            "index": 19,
+            "text": "Network and Service Management, 21(1), 334-347"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "[1] Mehta, R., Singh, P., & Kumar, D. (2023). Security vulnerabilities in connected        medical devices: Analysis of Indian healthcare facilities. International Journal of Medical Informatics, 171, 104968. ",
+          "runs": [
+            {
+              "index": 1,
+              "text": "[1] Mehta, R., Singh, P., & Kumar, D. (2023). Security vulnerabilities in connected        medical devices: Analysis of Indian healthcare facilities. International Journal of Medical Informatics, 171, 104968. "
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "text": "[2] Williams, J., & Chen, T. (2023). Medical device honeypots: Detecting attacks on healthcare infrastructure. JournalofMedicalInternetResearch,25(4),e42785. ",
+          "runs": [
+            {
+              "index": 1,
+              "text": "[2] Williams, J., & Chen, T. (2023). Medical device honeypots: Detecting attacks on healthcare infrastructure. JournalofMedicalInternetResearch,25(4),e42785. "
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "text": "[3] Zhang,L.,& Hernandez, D.(2024). Deep learning models for predictive threat intelligence using honeypot data. Proceedings of the 2024 ACM SIGSAC Conference on Computer and Communications Security (CCS ’24), 1756-1769. ",
+          "runs": [
+            {
+              "index": 1,
+              "text": "[3] "
+            },
+            {
+              "index": 2,
+              "text": "Zhang,L"
+            },
+            {
+              "index": 3,
+              "text": ".,& Hernandez, D.(2024). Deep learning models for predictive threat intelligence using honeypot data. Proceedings of the 2024 ACM SIGSAC Conference on Computer and Communications Security (CCS ’24), 1756-1769. "
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "text": "[4] Sharma, V., Singh, A., & Kumar, R. (2022). Analysis of IoT security challenges in Indian smart city initiatives. International Journal of Critical Infrastructure Protection, 36, 100503. 4 ",
+          "runs": [
+            {
+              "index": 1,
+              "text": "[4] Sharma, V., Singh, A., & Kumar, R. (2022). Analysis of IoT security challenges in Indian smart city initiatives. International Journal of Critical Infrastructure Protection, 36, 100503. 4 "
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "text": "[5] Gupta, A., Mehta, R., & Choudhary, S. (2024). Machine learning techniques for attack pattern recognition in Indian enterprise networks. IEEE Transactions on Network and Service Management, 21(1), 334-347",
+          "runs": [
+            {
+              "index": 1,
+              "text": "[5] Gupta, A., Mehta, R., & Choudhary, S. (2024). Machine learning techniques for attack pattern recognition in Indian enterprise networks. IEEE Transactions on Network and Service Management, 21(1), 334-347"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/c7u54zid",
+      "id": "4",
+      "name": "Slide Number Placeholder 3",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      }
+    }
+  ],
+  "composeRuns": []
+}
