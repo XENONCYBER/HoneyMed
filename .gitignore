@@ -24,6 +24,8 @@ data/classified_events.db
 # Logs
 logs/*.jsonl
 logs/*.log
+logs/_root_owned/
+logs/*.unwritable
 
 # IDE
 .vscode/

@@ -74,6 +74,8 @@ mini/
 
 ## Quick Start
 
+> For a complete setup, startup, configuration, Docker, and troubleshooting guide, see **[instructions.md](instructions.md)**.
+
 ### 1. Install Dependencies
 
 ```bash

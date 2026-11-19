@@ -7,6 +7,7 @@ All logs are JSON-formatted for blockchain compatibility.
 import json
 import logging
 import os
+import sys
 import hashlib
 from datetime import datetime, timezone
 
@@ -51,6 +52,43 @@ class JSONFormatter(logging.Formatter):
         return json.dumps(log_entry)
 
 
+def _open_file_handler(log_dir: str, log_file: str) -> logging.FileHandler | None:
+    """
+    Open a JSON log file for appending, recovering from permission problems.
+
+    Log files created by an earlier `sudo`/root run are owned by root and make
+    every later unprivileged run fail with PermissionError. When that happens we
+    move the old file aside (keeping its contents) and start a fresh one.
+    """
+    try:
+        os.makedirs(log_dir, exist_ok=True)
+    except OSError as exc:
+        print(f"[logging] cannot create {log_dir} ({exc}); file logging disabled",
+              file=sys.stderr)
+        return None
+
+    path = os.path.join(log_dir, log_file)
+
+    if os.path.exists(path) and not os.access(path, os.W_OK):
+        stamp = datetime.now().strftime("%Y%m%d-%H%M%S")
+        backup = f"{path}.{stamp}.unwritable"
+        try:
+            os.replace(path, backup)
+            print(f"[logging] {path} was not writable; moved it to {backup}",
+                  file=sys.stderr)
+        except OSError as exc:
+            print(f"[logging] {path} is not writable ({exc}); file logging disabled",
+                  file=sys.stderr)
+            return None
+
+    try:
+        return logging.FileHandler(path, encoding="utf-8")
+    except OSError as exc:
+        print(f"[logging] cannot open {path} ({exc}); file logging disabled",
+              file=sys.stderr)
+        return None
+
+
 def get_logger(name: str, layer: str = "GENERAL", log_file: str | None = None) -> logging.Logger:
     """
     Create a logger that writes JSON-structured logs.
@@ -81,10 +119,10 @@ def get_logger(name: str, layer: str = "GENERAL", log_file: str | None = None) -
     # File handler (full JSON)
     if log_file:
         log_dir = os.path.join(get_base_dir(), "logs")
-        os.makedirs(log_dir, exist_ok=True)
-        fh = logging.FileHandler(os.path.join(log_dir, log_file), encoding="utf-8")
-        fh.setLevel(logging.DEBUG)
-        fh.setFormatter(JSONFormatter())
-        logger.addHandler(fh)
+        fh = _open_file_handler(log_dir, log_file)
+        if fh is not None:
+            fh.setLevel(logging.DEBUG)
+            fh.setFormatter(JSONFormatter())
+            logger.addHandler(fh)
 
     return logger
